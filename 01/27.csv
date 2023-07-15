@@ -1,0 +1,361 @@
+"astro-ph/0201428","Steven Balbus","Steven A. Balbus and John F. Hawley (University of Virginia)","On the Nature of Angular Momentum Transport in Nonradiative Accretion
+  Flows","To appear in ApJ v. 573, 14 pages, 2 figures, AAS Latex macros 4.0",,"10.1086/340767",,"astro-ph",,"  The principles underlying a proposed class of black hole accretion models are
+examined. The flows are generally referred to as ``convection-dominated,'' and
+are characterized by inward transport of angular momentum by thermal convection
+and outward viscous transport, vanishing mass accretion, and vanishing local
+energy dissipation. We examine the viability of these ideas by explicitly
+calculating the leading order angular momentum transport of axisymmetric modes
+in magnetized, differentially rotating, stratified flows. The modes are
+destabilized by the generalized magnetorotational instability. There are no
+inward transporting modes at all unless the magnitude of the (imaginary) Brunt
+frequency is comparable to the epicyclic frequency, a condition requiring
+substantial levels of dissipation. When inward transporting modes do exist,
+they appear at long wavelengths, unencumbered by magnetic tension. Moreover,
+very general thermodynamic principles prohibit the complete recovery of
+irreversible dissipative energy losses, a central feature of
+convection-dominated models. Dissipation of the free energy of differential
+rotation inevitably requires outward angular momentum transport. Our results
+are in good agreement with global MHD simulations, which find significant
+levels of outward transport and energy dissipation, whether or not
+destabilizing entropy gradients are present.
+","[{""version"":""v1"",""created"":""Sat, 26 Jan 2002 16:06:34 GMT""},{""version"":""v2"",""created"":""Tue, 19 Mar 2002 21:15:35 GMT""}]","2009-11-07"
+"astro-ph/0201430","Michele Cappellari","Michele Cappellari","Efficient Multi-Gaussian Expansion of galaxies","11 pages, 13 figures, LaTeX, to be published in MNRAS; software
+  implementing the methods described in this paper is available at
+  http://www.strw.leidenuniv.nl/~mcappell/idl","Mon.Not.Roy.Astron.Soc.333:400,2002","10.1046/j.1365-8711.2002.05412.x",,"astro-ph",,"  We describe a simple, efficient, robust and fully automatic algorithm for the
+determination of a Multi-Gaussian Expansion (MGE) fit to galaxy images, to be
+used as a parametrization for the galaxy stellar surface brightness. In most
+cases the least-squares solution found by this method essentially corresponds
+to the minimax, constant relative error, MGE approximation of the galaxy
+surface brightness, with the chosen number of Gaussians. The algorithm is well
+suited to be used with multiple resolution images (e.g., Hubble Space Telescope
+[HST] and ground-based). It works orders of magnitude faster and is more
+accurate than currently available methods. An alternative, more computing
+intensive, fully linear algorithm, that is guaranteed to converge to the
+smallest Chi^2 solution, is also discussed. Examples of MGE fits are presented
+for objects with HST or ground-based photometry, including galaxies with
+significant isophote twist.
+","[{""version"":""v1"",""created"":""Sun, 27 Jan 2002 13:51:19 GMT""}]","2011-07-18"
+"astro-ph/0201434","Pawel Haensel","P. Haensel, J.L. Zdunik (CAMK, Warsaw), F. Douchin (University of
+  Illinois, Urbana-Champaign)","Equation of state of dense matter and the minimum mass of cold neutron
+  stars","7 pages, 5 figures, uses aa.cls, accepted in Astronomy and
+  Astrophysics",,"10.1051/0004-6361:20020131",,"astro-ph",,"  Equilibrium configurations of cold neutron stars near the minimum mass are
+studied, using the recent equation of state SLy, which describes in a unified,
+physically consistent manner, both the solid crust and the liquid core of
+neutron stars. Results are compared with those obtained using an older FPS
+equation of state of cold catalyzed matter. The value of M_min\simeq 0.09M_sun
+depends very weakly on the equation of state of cold catalyzed matter: it is
+0.094 M_sun for the SLy model, and 0.088 M_sun for the FPS one. Central density
+at M_min is significantly lower than the normal nuclear density: for the SLy
+equation of state we get central density 1.7 10^{14} g/cm^3, to be compared
+with 2.3 10^{14} g/cm^3 obtained for the FPS one. Even at M_min, neutron stars
+have a small liquid core of radius of about 4 km, containing some 2-3% of the
+stellar mass. Neutron stars with 0.09 M_sun <M<0.17 M_sun are bound with
+respect to dispersed configuration of the hydrogen gas, but are unbound with
+respect to dispersed Fe^56. The effect of uniform rotation on the minimum-mass
+configuration of cold neutron stars is studied. Rotation increases the value of
+M_min; at rotation period of 10 ms the minimum mass of neutron stars increases
+to 0.13 M_sun, and corresponds to the mass-shedding (Keplerian) configuration.
+In the case of the shortest observed rotation period of radio pulsars 1.56 ms,
+minimum mass of uniformly rotating cold neutron stars corresponds to the
+mass-shedding limit, and is found at 0.61 M_sun for the SLy EOS and 0.54 M_sun
+for the FPS EOS.
+","[{""version"":""v1"",""created"":""Sat, 26 Jan 2002 18:29:25 GMT""}]","2009-11-07"
+"astro-ph/0201435","S. M. Khairul Alam","S. M. Khairul Alam and Barbara S. Ryden","The Shapes of Galaxies in the Sloan Digital Sky Survey","10 pages, 5 figures, accepted for publication in The Astrophysical
+  Journal Part I","Astrophys.J. 570 (2002) 610-617",,,"astro-ph",,"  We estimate the distribution of apparent axis ratios $q$ for galaxies in the
+Sloan Digital Sky Survey (SDSS) Early Data Release. We divide the galaxies by
+profile type (de Vaucouleurs versus exponential) as well as by color ($u^* -
+r^* \leq 2.22$ versus $u^* - r^* > 2.22$). The axis ratios found by fitting
+models to the surface photometry are generally smaller than those found by
+taking the second moments of the surface brightness distribution. Using the
+axis ratios found from fitting models, we find that galaxies with de
+Vaucouleurs profiles have axis ratio distributions which are inconsistent, at
+the 99% confidence level, with their being a population of randomly oriented
+oblate spheroids. Red de Vaucouleurs galaxies are slightly rounder, on average,
+than blue de Vaucouleurs galaxies. By contrast, blue galaxies with exponential
+profiles appear very much flatter, on average, than red galaxies with
+exponential profiles. The red exponential galaxies are primarily disk galaxies
+seen nearly edge-on, with reddening due to the presence of dust, rather than to
+an intrinsically red stellar population.
+","[{""version"":""v1"",""created"":""Sat, 26 Jan 2002 18:02:33 GMT""}]","2007-05-23"
+"astro-ph/0201436","James Reeves","Ken Pounds, James Reeves (Department of Physics and Astronomy,
+  University of Leicester, UK.)","What can we learn from EPIC X-ray spectra of Seyfert 1 galaxies?","7 pages, to appear in the Proceedings of the Symposium on `New
+  Visions of the X-ray Universe in the XMM-Newton and Chandra Era', 26-30
+  November 2001, ESTEC, The Netherlands",,,,"astro-ph",,"  The EPIC detectors on XMM-Newton provide the most sensitive broad band
+(0.3-12 keV) X-ray spectra to date. Observations of 6 Seyfert 1 galaxies,
+covering a wide luminosity range, are examined with the aim of identifying the
+primary X-ray continuum and constraining superimposed emission and absorption
+features. A soft excess emission component is seen in every case, but with a
+spectral form which differs markedly with luminosity across our sample. Current
+interpretations of the soft excess range from intrinsic thermal emission from
+the accretion disc to reprocessing of harder radiation absorbed in the disc
+skin. Visual examination of the broad-band EPIC spectra suggest that the
+luminosity trend in the observed spectral profiles may be governed primarily by
+differences in the line-of-sight absorption. In that case the underlying
+continuum could have a common form across the sample. Examination of spectral
+features in the Fe K band confirm the common presence of a narrow emission line
+at 6.4 keV. Modelling of the EPIC spectra above 7 keV is shown to be critical
+to quantifying (or confirming) a broad Fe K line in at least some cases.
+","[{""version"":""v1"",""created"":""Sat, 26 Jan 2002 19:36:16 GMT""}]","2007-05-23"
+"astro-ph/0201437","Ohad Shemmer","Ohad Shemmer and Hagai Netzer (Tel-Aviv University)","Is There a Metallicity--Luminosity Relationship in AGN? The Case of
+  Narrow-Line Seyfert 1 Galaxies","4 pages, 2 figures; Figure 2 and Tables 1 and 2 were revised. This
+  did not affect any of the main results of the Letter (see also the Erratum:
+  2002, ApJ, 569, L59)","2002, ApJ, 567, L19","10.1086/339797",,"astro-ph",,"  The well known relationship between metallicity and luminosity in AGN is
+addressed by introducing new metallicity measurements (based on the method of
+Hamann & Ferland 1993; HF93) for a sample of narrow-line Seyfert 1 (NLS1)
+galaxies. Our new results, based on a sample of 162 AGN, including 9 NLS1s,
+indicate that, while broad-line AGN trace a metallicity--luminosity power law
+with an index of ~0.2, NLS1s deviate significantly from this relationship at
+low luminosities. Adopting the HF93 method based on the N V/C IV line ratio, we
+find that NLS1 metallicities are similar to those of some high-redshift
+high-luminosity quasars. We also examined the N IV]/C IV line ratio and
+compared it with N V/C IV in a sample of 30 sources including several NLS1s. We
+find that the two do not give a consistent answer regarding the N/C abundance
+ratio. This result is marginal because of the quality of the data. We suggest
+two alternative explanations to these results: 1) The HF93
+metallicity--luminosity dependence is not a simple two-parameter dependence and
+there is an additional hidden variable in this relationship that has not yet
+been discovered. The additional parameter may be the accretion rate, the age of
+the central stellar cluster or, perhaps, something else. 2) The strong line
+ratios involving N V 1240A suggested by HF93 are not adequate metallicity
+indicators for NLS1s and perhaps also other AGN for reasons that are not yet
+fully understood.
+","[{""version"":""v1"",""created"":""Sun, 27 Jan 2002 06:57:12 GMT""},{""version"":""v2"",""created"":""Thu, 4 Apr 2002 12:05:09 GMT""}]","2009-11-07"
+"cond-mat/0201484","Thomas Timusk","N.L. Wang, T. Timusk, J.P. Franck, P. Schweiss, M. Braden, A. Erb","The oxygen isotope effect in the ab-plane reflectance of underdoped
+  YBa_2Cu_3O_{7-delta}","4 pages 2 figures",,"10.1103/PhysRevLett.89.087003",,"cond-mat.supr-con",,"  We have measured the effect of oxygen isotope substitution on the ab-plane
+reflectance of underdoped YBCO. The frequency shift of the transverse optic
+phonons due to the substitution of O-16 by O-18 yields an isotope effect of the
+expected magnitude for copper-oxygen stretching modes with alpha=0.5 +- 0.1.
+The reflectance shoulder at 400 - 500 cm^-1 shows a much smaller exponent of
+alpha=0.1 +- 0.1 in the normal state and alpha=0.23+- 0.1 in the
+superconducting state. These observations suggest that the shoulder is of
+electronic origin and not due to a phonon mode as has been suggested recently.
+","[{""version"":""v1"",""created"":""Sat, 26 Jan 2002 20:59:51 GMT""}]","2009-11-07"
+"cond-mat/0201490","Bahman Davoudi","M. Polini, K. Moulopoulos, B. Davoudi and M. P. Tosi","Unpaired and spin-singlet paired states of a two-dimensional electron
+  gas in a perpendicular magnetic field","19 pages, 8 figures, submitted to Phys. Rev. B on 7th April 2001. to
+  appear in Phys. Rev. B","Physical Review B 65, 165306 (2002)","10.1103/PhysRevB.65.165306",,"cond-mat.str-el cond-mat.mes-hall",,"  We present a variational study of both unpaired and spin-singlet paired
+states induced in a two-dimensional electron gas at low density by a
+perpendicular magnetic field. It is based on an improved circular-cell
+approximation which leads to a number of closed analytical results. The
+ground-state energy of the Wigner crystal containing a single electron per cell
+in the lowest Landau level is obtained as a function of the filling factor
+$\nu$: the results are in good agreement with those of earlier approaches and
+predict $\nu_{c} \approx 0.25$ for the upper filling factor at which the
+solid-liquid transition occurs. A novel localized state of spin-singlet
+electron pairs is examined and found to be a competitor of the unpaired state
+for filling factor $\nu >1$. The corresponding phase boundary is quantitatively
+displayed in the magnetic field-electron density plane.
+","[{""version"":""v1"",""created"":""Sat, 26 Jan 2002 16:51:59 GMT""}]","2009-11-07"
+"cond-mat/0201491","Stergios J. Papadakis","S. J. Papadakis, E. P. De Poortere, H. C. Manoharan, J. B. Yau, M.
+  Shayegan, and S. A. Lyon","Low-field magnetoresistance in GaAs 2D holes","8 pages, 8 figures","Phys. Rev. B 65, 245312 (2002)","10.1103/PhysRevB.65.245312",,"cond-mat.mes-hall",,"  We report low-field magnetotransport data in two-dimensional hole systems in
+GaAs/AlGaAs heterostructures and quantum wells, in a large density range, $2.5
+\times 10^{10} \leq p \leq 4.0 \times 10^{11}$ cm$^{-2}$, with primary focus on
+samples grown on (311)A GaAs substrates. At high densities, $p \gtrsim 1 \times
+10^{11}$ cm$^{-2}$, we observe a remarkably strong positive magnetoresistance.
+It appears in samples with an anisotropic in-plane mobility and predominantly
+along the low-mobility direction, and is strongly dependent on the
+perpendicular electric field and the resulting spin-orbit interaction induced
+spin-subband population difference. A careful examination of the data reveals
+that the magnetoresistance must result from a combination of factors including
+the presence of two spin-subbands, a corrugated quantum well interface which
+leads to the mobility anisotropy, and possibly weak anti-localization. None of
+these factors can alone account for the observed positive magnetoresistance. We
+also present the evolution of the data with density: the magnitude of the
+positive magnetoresistance decreases with decreasing density until, at the
+lowest density studied ($p = 2.5 \times 10^{10}$ cm$^{-2}$), it vanishes and is
+replaced by a weak negative magnetoresistance.
+","[{""version"":""v1"",""created"":""Sat, 26 Jan 2002 18:06:13 GMT""}]","2009-11-07"
+"cond-mat/0201492","Arthur F. Hebard","N. Theodoropoulou, A. F. Hebard, M.E. Overberg, C.R. Abernathy, S.J.
+  Pearton, S.N.G. Chu, and R.G. Wilson","Unconventional carrier-mediated ferromagnetism above room temperature in
+  ion-implanted (Ga, Mn)P:C","4 pages, 4 figures (RevTex4)",,"10.1103/PhysRevLett.89.107203",,"cond-mat.mtrl-sci cond-mat.str-el",,"  Ion implantation of Mn ions into hole-doped GaP has been used to induce
+ferromagnetic behavior above room temperature for optimized Mn concentrations
+near 3 at.%. The magnetism is suppressed when the Mn dose is increased or
+decreased away from the 3 at.% value, or when n-type GaP substrates are used.
+At low temperatures the saturated moment is on the order of one Bohr magneton,
+and the spin wave stiffness inferred from the Bloch-law T^3/2 dependence of the
+magnetization provides an estimate Tc = 385K of the Curie temperature that
+exceeds the experimental value, Tc = 270K. The presence of ferromagnetic
+clusters and hysteresis to temperatures of at least 330K is attributed to
+disorder and proximity to a metal-insulating transition.
+","[{""version"":""v1"",""created"":""Sat, 26 Jan 2002 18:19:41 GMT""}]","2009-11-07"
+"cond-mat/0201493","Lars Egil Helseth","L.E. Helseth, E.I. Il'yashenko, M. Baziljevich and T.H. Johansen","Optical detection of magnetic data using magnetooptic indicators with
+  in-plane magnetization","25 pages, 10 figures. Submitted to Journal of Applied Physics",,,,"cond-mat.mtrl-sci",,"  We investigate detection of magnetic data using magnetooptical indicators
+with in-plane magnetization. A simple model for the magnetooptical detection
+system is presented. We find that the signal to noise ratio changes strongly
+with the bit size, the polarization noise and the distance between the magnetic
+carrier and the indicator. In particular, it is found that within our model a
+signal to noise ratio of 30 is possible for a bit size of 200 nm. We also
+estimate the resolution of the system, and find that a spot size of $\sim 200$
+nm can be obtained using a suitably designed solid immersion lens. Finally, we
+discuss detection of several magnetic tracks simultaneously.
+","[{""version"":""v1"",""created"":""Sun, 27 Jan 2002 12:42:11 GMT""}]","2007-05-23"
+"cond-mat/0201494","Lars Egil Helseth","L.E. Helseth","Theoretical model for magnetooptic imaging","18 pages, 4 figures",,,,"cond-mat.mtrl-sci cond-mat.supr-con",,"  A theoretical model for magnetooptic imaging is presented. The model gives a
+detailed description of the magnetooptic indicator and the optical imaging
+system, where the intensity at the detector plane is described by a set of
+diffraction integrals. To demonstrate the applicability of the model, some
+issues concerning imaging of single vortices in superconductors are studied. It
+is found that the useful signal is strongly dependent on the penetration depth
+of the superconductor, and also the sensitivity and thickness of the indicator.
+","[{""version"":""v1"",""created"":""Sun, 27 Jan 2002 13:06:26 GMT""}]","2007-05-23"
+"hep-ex/0201040","Mikhail Achasov","M.N.Achasov, V.M.Aulchenko, K.I.Beloborodov, A.V.Berdyugin,
+  A.G.Bogdanchikov, A.V.Bozhenok, A.D.Bukin, D.A.Bukin, S.V.Burdin, T.V.Dimova,
+  V.P.Druzhinin, V.B.Golubev, V.N.Ivanchenko, A.A.Korol, S.V.Koshuba,
+  I.N.Nesterenko, E.V.Pakhtusova, A.A.Polunin, A.A.Salnikov, S.I.Serednyakov,
+  V.V.Shary, Yu.M.Shatunov, V.A.Sidorov, Z.K.Silagadze, A.N.Skrinsky,
+  A.G.Skripkin, Yu.V.Usov, A.V.Vasiljev","Study of the process $e^+e^- \to \pi^+\pi^-\pi^0$ in the energy region
+  $\sqrt[]{s}$ from 0.98 to 1.38 GeV.}","29 pages REVTEX and 17 figures, accepted for publication in Physical
+  Review D","Phys.Rev.D66:032001,2002","10.1103/PhysRevD.66.032001",,"hep-ex",,"  The cross section of the process $e^+e^-\to \pi^+\pi^-\pi^0$ was measured in
+the Spherical Neutral Detector experiment at the VEPP-2M collider in the energy
+region $\sqrt[]{s} = 980 \div 1380$ MeV. The measured cross section, together
+with the $e^+e^-\to \pi^+\pi^-\pi^0$ and $\omega\pi^+\pi^-$ cross sections
+obtained in other experiments, was analyzed in the framework of the generalized
+vector meson dominance model. It was found that the experimental data can be
+described by a sum of $\omega$, $\phi$ mesons and two $\omega^\prime$ and
+$\omega^{\prime\prime}$ resonances contributions, with masses
+$m_{\omega^\prime}\sim 1490$,$m_{\omega^{\prime\prime}}\sim 1790$ MeV and
+widths $\Gamma_{\omega^\prime}\sim 1210$, $\Gamma_{\omega^{\prime\prime}}\sim
+560$ MeV. The analysis of the $\pi^+\pi^-$ invariant mass spectra in the energy
+region $\sqrt[]{s}$ from 1100 to 1380 MeV has shown that for their
+descriptionone should take into account the
+$e^+e^-\to\omega\pi^0\to\pi^+\pi^-\pi^0$ mechanism also. The phase between the
+amplitudes corresponding to the $e^+e^-\to\omega\pi$ and $e^+e^-\to\rho\pi$
+intermediate states was measured for the first time. The value of the phase is
+close to zero and depends on energy.
+","[{""version"":""v1"",""created"":""Sat, 26 Jan 2002 17:30:52 GMT""},{""version"":""v2"",""created"":""Mon, 12 Aug 2002 05:01:52 GMT""}]","2008-11-26"
+"hep-ph/0201247","Elisabeth Kraus","Elisabeth Kraus, Dominik St\""ockinger","Softly broken supersymmetric Yang-Mills theories: Renormalization and
+  non-renormalization theorems","24 pages, LaTeX, v2: one reference added","Phys.Rev. D65 (2002) 105014","10.1103/PhysRevD.65.105014","DESY-02-010, BN-TH-2002-01","hep-ph hep-th",,"  We present a minimal version for the renormalization of softly broken
+Super-Yang-Mills theories using the extended model with a local gauge coupling.
+It is shown that the non-renormalization theorems of the case with unbroken
+supersymmetry are valid without modifications and that the renormalization of
+soft-breaking parameters is completely governed by the renormalization of the
+supersymmetric parameters. The symmetry identities in the present context are
+peculiar, since the extended model contains two anomalies: the Adler-Bardeen
+anomaly of the axial current and an anomaly of supersymmetry in the presence of
+the local gauge coupling. From the anomalous symmetries we derive the exact
+all-order expressions for the beta functions of the gauge coupling and of the
+soft-breaking parameters. They generalize earlier results to arbitrary
+normalization conditions and imply the NSVZ expressions for a specific
+normalization condition on the coupling.
+","[{""version"":""v1"",""created"":""Sat, 26 Jan 2002 16:17:26 GMT""},{""version"":""v2"",""created"":""Thu, 7 Feb 2002 10:48:21 GMT""}]","2009-11-07"
+"hep-ph/0201248","Sergei Solodukhin","Sergey N. Solodukhin","Classical and quantum cross-section for black hole production in
+  particle collisions","14 pages; v2: comment on gravitational radiation corrected, lower
+  energy regime more emphasized","Phys.Lett. B533 (2002) 153-161","10.1016/S0370-2693(02)01589-7",,"hep-ph astro-ph gr-qc hep-th",,"  We suggest a simple model to study the problem of the black hole production
+in particle collisions. The cross-section for the classical and quantum
+production is analysed within this model. In particular, the possibility to
+form a black hole in collision of low energy particles (or at large impact
+parameter) via the quantum tunneling mechanism is pointed out. It is found
+that, in this model, the geometric cross-section gives a good estimate for the
+production at low and high energies. We also reconsider the arguments in favor
+of exponential suppression for the production of trans-Planckian black hole and
+conclude that no such suppression in fact appears. Analyzing the probability
+for the black hole production we point out on the importance of the
+backreaction and reevaluate the contribution of the black hole formed in
+gravitational collapse to the Euclidean path integral.
+","[{""version"":""v1"",""created"":""Sat, 26 Jan 2002 16:54:41 GMT""},{""version"":""v2"",""created"":""Thu, 7 Feb 2002 15:42:55 GMT""}]","2009-11-07"
+"hep-ph/0201249","Volker Drollinger","V. Drollinger, T. Muller, D. Denegri","Prospects for Higgs Boson Searches in the Channel WH -> lnbb","8 pages, 8 figures",,,"CMS NOTE 2002/006","hep-ph",,"  We present a method how to detect the WH -> lnbb in the high luminosity LHC
+environment with the CMS detector. This study is performed with fast detector
+response simulation including high luminosity event pile up. The main aspects
+of reconstruction are pile up jet rejection, identification of b-jets and
+improvement of Higgs mass resolution.
+  The detection potential in the SM for m(H) < 130 GeV and in the MSSM is only
+encouraging for high integrated luminosity. Nevertheless it is possible to
+extract important Higgs parameters which are useful to elucidate the nature of
+the Higgs sector. In combination with other channels, this channel provides
+valuable information on Higgs boson couplings.
+","[{""version"":""v1"",""created"":""Sat, 26 Jan 2002 20:29:48 GMT""}]","2007-05-23"
+"hep-ph/0201250","Yoshio Koide","Yoshio Koide","Prospect of the Zee model","3 pages, no figure, Latex, presented at KEKTC5(Nov. 2001), to be
+  publised in the proceedings","Nucl.Phys.Proc.Suppl. 111 (2002) 294-296","10.1016/S0920-5632(02)01726-7","US-02-02","hep-ph",,"  The Zee model is one of promising models of neutrino mass generation
+mechanism. However, the original Zee model is not on the framework of the
+ground unification scenario, and moreover, it is recently pointed out that the
+predicted value of $\sin^2 2\theta_{solar}$ must be satisfied the relation
+$\sin^2 2\theta_{solar} > 0.99$. We discuss whether possible GUT versions of
+the Zee model can be free from the severe constraint $\sin^2 2\theta_{solar}
+>0.99$ or not. We will conclude that the following two models are promising: an
+R-parity violating SUSY GUT model and an SO(10) model with a 126-plet scalar.
+","[{""version"":""v1"",""created"":""Sun, 27 Jan 2002 05:28:20 GMT""}]","2009-11-07"
+"hep-th/0201212","Zet Gheorghe","G. Zet","Self-duality equations for spherically symmetric SU(2) gauge fields","8 pages","Eur.Phys.J.A15:405-408,2002","10.1140/epja/i2002-10046-4",,"hep-th",,"  A model of spherically symmetric SU(2) gauge theory is considered. The
+self-duality equations are written and it is shown that they are compatible
+with the Einstein-Yang-Mills equations. It is proven that this property is true
+for any gauge theory with curved base space-time and having a compact Lie group
+as structural group.
+","[{""version"":""v1"",""created"":""Sun, 27 Jan 2002 09:06:15 GMT""}]","2010-11-19"
+"hep-th/0201213","Ali Tayefeh Rezakhani","M.R. Setare and R. Mansouri","Casimir energy for self-interacting scalar field in a spherical shell","9 pages",,,,"hep-th",,"  In this paper we calculate the Casimir energy for spherical shell with
+massless self-interacting scalar filed which satisfying Dirichlet boundary
+conditions on the shell. Using zeta function regularization and heat kernel
+coefficients we obtain the divergent contributions inside and outside of
+Casimir energy. The effect of self-interacting term is similar with existing of
+mass for filed. In this case some divergent part arises. Using the
+renormalization procedure of bag model we can cancel these divergent parts.
+","[{""version"":""v1"",""created"":""Sun, 27 Jan 2002 13:51:33 GMT""}]","2007-05-23"
+"math-ph/0201057","Horng-Tzer Yau","Horng-Tzer Yau","$(\log t)^{2/3}$ law of the two dimensional asymmetric simple exclusion
+  process",,,,,"math-ph math.MP",,"  We prove that the diffusion coefficient for the two dimensional asymmetric
+simple exclusion process diverges as $(\log t)^{2/3}$ to the leading order. The
+method applies to nearest and non-nearest neighbor asymmetric simple exclusion
+processes.
+","[{""version"":""v1"",""created"":""Sat, 26 Jan 2002 20:13:00 GMT""},{""version"":""v2"",""created"":""Thu, 31 Jan 2002 14:54:33 GMT""}]","2007-05-23"
+"math/0201256","Roman Bezrukavnikov","Roman Bezrukavnikov","Perverse sheaves on affine flags and nilpotent cone of the Langlands
+  dual group","This is a continuation of math.RT/0201073. 13 pages; some corrections",,,,"math.RT math.AG",,"  In math.RT/0201073 we constructed an equivalence between the derived category
+of equivariant coherent sheaves on the cotangent bundle to the flag variety of
+a simple algebraic group and a (quotient of) the category of constructible
+sheaves on the affine flag variety of the Langlands dual group. Below we prove
+certain properties of this equivalence; provide a similar ``Langlands dual''
+description for the category of equivariant coherent sheaves on the nilpotent
+cone; and deduce some conjectures by Lusztig and Ostrik.
+","[{""version"":""v1"",""created"":""Sun, 27 Jan 2002 01:45:00 GMT""},{""version"":""v2"",""created"":""Tue, 5 Feb 2002 03:37:12 GMT""},{""version"":""v3"",""created"":""Thu, 21 Feb 2002 22:19:56 GMT""},{""version"":""v4"",""created"":""Tue, 4 Sep 2007 15:01:22 GMT""}]","2007-09-04"
+"math/0201257","Hiroshi Sato","Hiroshi Sato","Remarks on abelian surfaces in nonsingular toric Fano 4-folds","21 pages, Latex2e",,,,"math.AG",,"  In this paper, we investigate whether the 124 nonsingular toric Fano 4-folds
+admit totally nondegenerate embeddings from abelian surfaces or not. As a
+result, we determine the possibilities for such embeddings except for the
+remaining 21 nonsingular toric Fano 4-folds.
+","[{""version"":""v1"",""created"":""Sat, 26 Jan 2002 16:17:51 GMT""}]","2007-05-23"
+"math/0201258","Hiroshi Sato","Hiroshi Sato","The classification of smooth toric weakened Fano 3-folds","14 pages, Latex2e",,,,"math.AG",,"  We completely classify toric weakened Fano 3-folds, that is, smooth toric
+weak Fano 3-folds which are not Fano but are deformed to smooth Fano 3-folds.
+There exist exactly 15 toric weakened Fano 3-folds up to isomorphisms.
+","[{""version"":""v1"",""created"":""Sat, 26 Jan 2002 16:28:39 GMT""}]","2007-05-23"
+"math/0201259","Francesco Costantino","Francesco Costantino","A calculus for shadows of smooth 4-manifolds","The paper has been withdrawn",,,,"math.GT",,"  The paper has been withdrawn by the author due an error in the proof of
+Theorem 3.2.
+","[{""version"":""v1"",""created"":""Sat, 26 Jan 2002 16:42:10 GMT""},{""version"":""v2"",""created"":""Tue, 14 May 2002 16:52:17 GMT""}]","2007-05-23"
+"math/0201260","Lee Rudolph","Michel Boileau and Lee Rudolph","N{\oe}uds non concordants \`a un C-bord","19 pages, 4 figures, plain TeX; originally published October 1995","Vietnam Journal of Mathematics 23 (1995), 13-28",,"Pr\'epublication no. 58 du Laboratoire de Topologie et G\'eometrie
+  (URA CNRS 1408), Uni. Paul Sabatier (Toulouse III)","math.GT",,"  An oriented link L in a 3-sphere S in complex 2-space is a C-boundary if it
+bounds a piece of algebraic curve in the 4-ball bounded by S. Using Kronheimer
+and Mrowka's proof of the Thom Conjecture, we construct many oriented knots
+which are not concordant to a C-boundary. We use the two-variable HOMFLY
+polynomial to give an obstruction to a knot's being a C-boundary in a strictly
+pseudoconvex S. We make several conjectures.
+","[{""version"":""v1"",""created"":""Sun, 27 Jan 2002 15:41:57 GMT""}]","2007-05-23"
+"nlin/0201051","R. Sankaranarayanan","Sarika Jalan and R. E. Amritkar","Self-organized and driven phase synchronization in coupled map scale
+  free networks","5 pages, 3 figures. Submitted to Phys. Rev. Lett",,,,"nlin.AO cond-mat.dis-nn",,"  As a model of evolving networks, we study coupled logistic maps on scale free
+networks. For small coupling strengths nodes show turbulent behavior but form
+phase synchronized clusters as coupling increases. We identify two different
+ways of cluster formation. For small coupling strengths we get {\it
+self-organized clusters} which have mostly intra-cluster couplings and for
+large coupling strengths there is a crossover and reorganization to {\it driven
+clusters} which have mostly inter-cluster couplings. In the novel driven
+synchronization the nodes of one cluster are driven by those of the others.
+","[{""version"":""v1"",""created"":""Sun, 27 Jan 2002 14:30:12 GMT""}]","2007-05-23"
+"nlin/0201052","Marco Lenci","Marco Lenci","More ergodic billiards with an infinite cusp","13 pages, 4 figures","Chaos 13 (2003), no. 1, 105-111","10.1063/1.1539802",,"nlin.CD math.DS",,"  In a previous paper (nlin.CD/0107041) the following class of billiards was
+studied: For $f: [0, +\infty) \longrightarrow (0, +\infty)$ convex,
+sufficiently smooth, and vanishing at infinity, let the billiard table be
+defined by $Q$, the planar domain delimited by the positive $x$-semiaxis, the
+positive $y$-semiaxis, and the graph of $f$.
+  For a large class of $f$ we proved that the billiard map was hyperbolic.
+Furthermore we gave an example of a family of $f$ that makes this map ergodic.
+Here we extend the latter result to a much wider class of functions.
+","[{""version"":""v1"",""created"":""Sun, 27 Jan 2002 15:45:13 GMT""}]","2007-05-23"
+"quant-ph/0201121",,"Ashfaq Hussain Khosa and M. Suhail Zubairy","Measurement of Wigner function via atomic beam deflection in Raman- Nath
+  regime","This paper has been withdrawn by the author(s)",,,,"quant-ph",,"  This paper has been withdrawn by the author(s)
+","[{""version"":""v1"",""created"":""Sat, 26 Jan 2002 16:40:55 GMT""},{""version"":""v2"",""created"":""Sat, 16 Feb 2002 16:51:33 GMT""}]","2007-05-23"
+"quant-ph/0201122","Angelo Bassi","Angelo Bassi, GianCarlo Ghirardi","Dynamical Reduction Models with General Gaussian Noises","22 pages, Latex","Phys.Rev. A65 (2002) 042114","10.1103/PhysRevA.65.042114",,"quant-ph",,"  We consider the effect of replacing in stochastic differential equations
+leading to the dynamical collapse of the statevector, white noise stochastic
+processes with non white ones. We prove that such a modification can be
+consistently performed without altering the most interesting features of the
+previous models. One of the reasons to discuss this matter derives from the
+desire of being allowed to deal with physical stochastic fields, such as the
+gravitational one, which cannot give rise to white noises. From our point of
+view the most relevant motivation for the approach we propose here derives from
+the fact that in relativistic models the occurrence of white noises is the main
+responsible for the appearance of untractable divergences. Therefore, one can
+hope that resorting to non white noises one can overcome such a difficulty. We
+investigate stochastic equations with non white noises, we discuss their
+reduction properties and their physical implications. Our analysis has a
+precise interest not only for the above mentioned subject but also for the
+general study of dissipative systems and decoherence.
+","[{""version"":""v1"",""created"":""Sun, 27 Jan 2002 14:25:59 GMT""}]","2009-11-07"

@@ -1,0 +1,360 @@
+"astro-ph/0203418","Matteo Viel","M. Viel (1,2,3), S. Matarrese (1), H.J. Mo (2), Tom Theuns (3), M.G.
+  Haehnelt (3) ((1) Dip. di Fisica, Padova (2) MPA, Garching (3) IoA,
+  Cambridge)","Modelling the IGM and the Lyalpha forest at high redshift from the dark
+  matter distribution","17 pages, 14 Figures. Minor changes. Accepted by MNRAS. Higher
+  resolution version of Fig. 4 available at
+  http://www.ast.cam.ac.uk/~viel/IGM/SLICE.eps","Mon.Not.Roy.Astron.Soc.336:685,2002","10.1046/j.1365-8711.2002.05803.x",,"astro-ph",,"  A variety of approximate schemes for modelling the low-density Intergalactic
+Medium (IGM) in the high-redshift Universe is compared to the results of a
+large high-resolution hydro-dynamical simulation. These schemes use either an
+analytical description of the dark matter distribution and the IGM or numerical
+simulations of the DM distributions combined with different approximate
+relations between dark matter field and the gas distribution. Schemes based on
+a filtering of the dark matter distribution with a global Jeans scale result in
+a rather poor description of the gas distribution. An adaptive filtering which
+takes into account the density/temperature dependence of the Jeans scale is
+required. A reasonable description of the gas distribution can be achieved
+using a fit of the mean relation between the dark matter and gas densities in
+the hydro-dynamical simulation to relate dark matter and gas distribution. In
+the hydro-dynamical simulations deviations from this mean relation are
+correlated with gradients in the dark matter peculiar velocity field indicative
+of shocks in the gas component. A scheme which takes into account this
+correlation results in a further improved gas distribution. Such adaptive
+filtering schemes applied to dark matter simulations will be very well suited
+for studies of statistical properties of the Lyalpha forest which investigate
+the IGM and the underlying dark matter distribution and require a large dynamic
+range and/or an extensive parameter study.
+","[{""version"":""v1"",""created"":""Sat, 23 Mar 2002 19:17:36 GMT""},{""version"":""v2"",""created"":""Mon, 24 Jun 2002 16:34:23 GMT""}]","2011-07-19"
+"astro-ph/0203419","Adilson Enio Motter","P.S. Letelier and A.E. Motter","Homoclinic crossing in open systems: Chaos in periodically perturbed
+  monopole plus quadrupolelike potentials","19 pages, 15 figures, Revtex4","Phys.Rev. E60 (1999) 3920","10.1103/PhysRevE.60.3920",,"astro-ph gr-qc nlin.CD",,"  The Melnikov method is applied to periodically perturbed open systems modeled
+by an inverse--square--law attraction center plus a quadrupolelike term. A
+compactification approach that regularizes periodic orbits at infinity is
+introduced. The (modified) Smale-Birkhoff homoclinic theorem is used to study
+transversal homoclinic intersections. A larger class of open systems with
+degenerated (nonhyperbolic) unstable periodic orbits after regularization is
+also briefly considered.
+","[{""version"":""v1"",""created"":""Sat, 23 Mar 2002 23:45:50 GMT""}]","2009-11-07"
+"astro-ph/0203420","Sean Matt","Sean Matt, Anthony Goodson, Robert Winglee, and Karl-Heinz Bohm","Simulation-Based Investigation of a Model for the Interaction Between
+  Stellar Magnetospheres and Circumstellar Accretion Disks","Accepted by ApJ; 34 pages, including 12 figures and 3 tables",,"10.1086/340896",,"astro-ph",,"  We examine, parametrically, the interaction between the magnetosphere of a
+rotating, young stellar object (YSO) and a circumstellar accretion disk using
+2.5-D (cylindrically symmetric) numerical magnetoydrodynamic simulations. The
+interaction drives a collimated outflow, and we find that the jet formation
+mechanism is robust. For variations in initial disk density of a factor of 16,
+variations of stellar dipole strength of a factor of 4, and for various initial
+conditions with respect to the disk truncation radius and the existence of a
+disk field, outflows with similar morphologies were consistently produced.
+Secondly, the system is self-regulating, where the outflow properties depend
+relatively weakly on the parameters above. The large scale magnetic field
+structure rapidly evolves to a configuration that removes angular momentum from
+the disk at a rate that depends most strongly on the field and weakly on the
+rotation rate of the foot-points of the field in the disk and the mass outflow
+rate. Third, the simulated jets are episodic, with the timescale of jet
+outbursts identical to the timescale of magnetically induced oscillations of
+the inner edge of the disk. To better understand the physics controlling these
+disk oscillations, we present a semi-analytical model and confirm that the
+oscillation period is set by the spin down rate of the disk inner edge.
+Finally, our simulations offer strong evidence that it is indeed the
+interaction of the stellar magnetosphere with the disk, rather than some
+primordial field in the disk itself, that is responsible for the formation of
+jets from these systems.
+","[{""version"":""v1"",""created"":""Sun, 24 Mar 2002 01:03:21 GMT""}]","2009-11-07"
+"astro-ph/0203421","Reva Kay Williams","Reva Kay Williams (University of Florida)","The Gravitomagnetic Field and Penrose Processes","33 pages, including 9 eps figures, REVTEX; submitted to Physical
+  Review D. Updated version; typos corrected with some revision for clarity",,,,"astro-ph gr-qc",,"  Results from general relativistic theoretical Monte Carlo computer
+simulations of Compton scattering and e-e+ pair production processes in the
+ergosphere of a supermassive (10^8 solar mass) rotating black hole are
+presented. Particles from an accretion disk fall into the ergosphere and
+scatter off particles that are in bound equatorially and nonequatorially
+confined orbits. The Penrose mechanism, in general, allows rotational energy of
+a Kerr black hole to be extracted by scattered particles escaping from the
+ergosphere to infinity (i.e., large distances from the black hole). The results
+of these model calculations show that a form of the Penrose mechanism is
+capable of producing the observed high energy particles (up to of order GeV)
+emitted by quasars and other active galactic nuclei (AGNs), without the
+necessity of the external electromagnetic field of the accretion disk.
+Importantly, these model calculations show that the Lense-Thirring effect,
+i.e., the dragging of inertial frames into rotation, caused by the angular
+momentum of the rotating black hole, results in a gravitomagnetic (GM) force
+being exerted on the scattered escaping particles. Inside the ergosphere, where
+this dragging is severe, in appears that the GM vector field lines are frame
+dragged into the positive azimuthal direction, i.e., the direction of rotation
+of the black hole. The resulting GM force acting on the Penrose scattered
+particles produces symmetrical and asymmetrical (or one-sided) particle
+emissions in the polar direction, consistent with the astrophysical jets
+observed in radio strong AGNs. Note, these Penrose processes can apply to any
+size rotating black hole.
+","[{""version"":""v1"",""created"":""Sun, 24 Mar 2002 06:21:21 GMT""},{""version"":""v2"",""created"":""Wed, 18 Feb 2004 21:34:15 GMT""}]","2007-05-23"
+"astro-ph/0203422","Hong-Guang Wang","H.G. Wang (PKU), R.X. Xu (PKU), G.J. Qiao (PKU)","Possible evidence for the pulsed X-ray emission from outer gap in PSR
+  B1937+21?","7 pages, to appear in Astrophysical Journal, or at
+  http://vega.bac.pku.edu.cn/~rxxu/publications/P/wxq02.ps.gz","Astrophys.J. 578 (2002) 385-390","10.1086/342312",,"astro-ph",,"  The fastest millisecond pulsar PSR B1937+21 presents an interpulse separated
+from the main pulse by nealy 180^o at radio frequencies. Recently, the ASCA
+observations (Takahashi et al. 2001) detected pulsed X-ray emission from this
+pulsar. Only a single narrow X-ray pulse is observed, which is coincident with
+the radio interpulse in phase. We investigate the possible origin of the pulsed
+X-rays from the polar cap (PC) accelerators or the outer gap (OG) accelerators
+in the frame of PC model and OG model, respectively, by assuming a dipolar
+magnetic field structure and the same radio emission pattern from its poles for
+the pulsar. The OG model can naturally explain the main observational facts.
+For the PC model, the coincidence between the X-ray pulse and the radio
+interpulse can not be reproduced in the assumed case. However when considering
+possible deviation from our assumption, PC model may still be valid for this
+pulsar in some cases.
+","[{""version"":""v1"",""created"":""Sun, 24 Mar 2002 07:38:05 GMT""},{""version"":""v2"",""created"":""Wed, 12 Jun 2002 13:52:58 GMT""}]","2009-11-07"
+"astro-ph/0203423","Elena Pian","Elena Pian (INAF, Astronomical Observatory of Trieste)","X-ray Variability of Blazars","Review talk at the Elizabeth and Frederick White Workshop ""AGN
+  Variability across the Electromagnetic Spectrum"", held in Sydney, 25 - 29
+  June 2001; Publications of the Astronomical Society of Australia, 19, in
+  press",,"10.1071/AS01088",,"astro-ph",,"  Critical progress in our understanding of high energy emission from AGN has
+been determined in the last 10 years by X-ray monitoring campaigns with many
+space missions, notably ROSAT, ASCA, RXTE, BeppoSAX, and XMM, often in
+conjunction with observations at other frequencies. The emphasis of the present
+review is on recent findings about X-ray variability of blazars. Among AGN,
+these exhibit the largest amplitude variations of the X-ray emission, often
+well correlated with variations at higher energies (GeV and TeV radiation). The
+accurate sampling of the X-ray spectra over more than three decades in energy,
+made possible by the wide energy range of BeppoSAX, has also shown strong
+spectral variability in blazar active states, suggesting extreme electron
+energies and leading to the identification of a class of `extreme synchrotron'
+sources.
+","[{""version"":""v1"",""created"":""Sun, 24 Mar 2002 12:54:56 GMT""}]","2009-11-07"
+"cond-mat/0203483","Joseph Samuel","Joseph Samuel and Supurna Sinha","Elasticity of semi-flexible polymers","five pages revtex five figures, slightly improved version with recent
+  references added","Phys. Rev. E, Vol.66, 050801(R), (2002","10.1103/PhysRevE.66.050801",,"cond-mat.soft q-bio.BM",,"  We present a numerical solution of the Worm-Like Chain (WLC) model for
+semi-flexible polymers. We display graphs for the end-to-end distance
+distribution and the force-extension relation expected from the model. We
+predict the expected level of fluctuations around the mean value in
+force-extension curves. Our treatment analyses the entire range of polymer
+lengths and reproduces interesting qualitative features seen in recent computer
+simulations for polymers of intermediate length. These results can be tested
+against experiments on single molecules. This study is relevant to mechanical
+properties of biological molecules.
+","[{""version"":""v1"",""created"":""Sun, 24 Mar 2002 07:22:18 GMT""},{""version"":""v2"",""created"":""Thu, 27 Jun 2002 08:19:37 GMT""}]","2009-11-07"
+"cond-mat/0203485","Martin Andersson","Martin Andersson and Stellan Ostlund","Staggered flux and stripes in doped antiferromagnets","RevTex, 19 pages including 20 figures",,"10.1103/PhysRevB.67.014403",,"cond-mat.str-el",,"  We have numerically investigated whether or not a mean-field theory of spin
+textures generate fictitious flux in the doped two dimensional $t-J$-model.
+First we consider the properties of uniform systems and then we extend the
+investigation to include models of striped phases where a fictitious flux is
+generated in the domain wall providing a possible source for lowering the
+kinetic energy of the holes. We have compared the energetics of uniform systems
+with stripes directed along the (10)- and (11)-directions of the lattice,
+finding that phase-separation generically turns out to be energetically
+favorable. In addition to the numerical calculations, we present topological
+arguments relating flux and staggered flux to geometric properties of the spin
+texture. The calculation is based on a projection of the electron operators of
+the $t-J$ model into a spin texture with spinless fermions.
+","[{""version"":""v1"",""created"":""Sat, 23 Mar 2002 17:01:05 GMT""}]","2009-11-07"
+"cond-mat/0203486","Philip B. Allen","Ilka B. Bischofs, Philip B. Allen, Vladimir N. Kostur, Rahul Bhargava","Topological (Sliced) Doping of a 3D Peierls System: Predicted Structure
+  of Doped BaBiO3","6 pages with 5 embedded postscript figures",,"10.1103/PhysRevB.66.174108",,"cond-mat.str-el cond-mat.mtrl-sci",,"  At hole concentrations below x=0.4, Ba_(1-x)K_xBiO_3 is non-metallic. At x=0,
+pure BaBiO3 is a Peierls insulator. Very dilute holes create bipolaronic point
+defects in the Peierls order parameter. Here we find that the Rice-Sneddon
+version of Peierls theory predicts that more concentrated holes should form
+stacking faults (two-dimensional topological defects, called slices) in the
+Peierls order parameter. However, the long-range Coulomb interaction, left out
+of the Rice-Sneddon model, destabilizes slices in favor of point bipolarons at
+low concentrations, leaving a window near 30% doping where the sliced state is
+marginally stable.
+","[{""version"":""v1"",""created"":""Sat, 23 Mar 2002 19:22:52 GMT""},{""version"":""v2"",""created"":""Fri, 28 Jun 2002 15:41:37 GMT""}]","2009-11-07"
+"cond-mat/0203487","Edward Myers","E. B. Myers, F. J. Albert, J. C. Saneky, E. Bonet, R. A. Buhrman, and
+  D. C. Ralph","Thermally-Activated Magnetic Reversal Induced by a Spin-Polarized
+  Current","4 pages, 4 figures",,"10.1103/PhysRevLett.89.196801",,"cond-mat.mes-hall",,"  We have measured the statistical properties of magnetic reversal in
+nanomagnets driven by a spin-polarized current. Like reversal induced by a
+magnetic field, spin-transfer-driven reversal near room temperature exhibits
+the properties of thermally-activated escape over an effective barrier.
+However, the spin-transfer effect produces qualitatively different behaviors
+than an applied magnetic field. We discuss an effective current vs. field phase
+diagram. If the current and field are tuned so that their effects oppose one
+another, the magnet can be driven superparamagnetic.
+","[{""version"":""v1"",""created"":""Sat, 23 Mar 2002 20:46:35 GMT""}]","2009-11-07"
+"cond-mat/0203488","Daniel L. Blair","Daniel L. Blair and A. Kudrolli","Clustering transitions in vibro-fluidized magnetized granular materials","4 pages, 5 figures","Phys. Rev. E 67, 021302 (2003)","10.1103/PhysRevE.67.021302",,"cond-mat.soft cond-mat.stat-mech",,"  We study the effects of long range interactions on the phases observed in
+cohesive granular materials. At high vibration amplitudes, a gas of magnetized
+particles is observed with velocity distributions similar to non-magnetized
+particles. Below a transition temperature compact clusters are observed to form
+and coexist with single particles. The cluster growth rate is consistent with a
+classical nucleation process. However, the temperature of the particles in the
+clusters is significantly lower than the surrounding gas, indicating a
+breakdown of equipartition. If the system is quenched to low temperatures, a
+meta-stable network of connected chains self-assemble due to the anisotropic
+nature of magnetic interactions between particles.
+","[{""version"":""v1"",""created"":""Sat, 23 Mar 2002 19:35:45 GMT""},{""version"":""v2"",""created"":""Thu, 25 Jul 2002 19:13:00 GMT""}]","2009-11-07"
+"cond-mat/0203489","Jan Naudts","Jan Naudts","Deformed exponentials and logarithms in generalized thermostatistics","Latex, 12 pages","Physica A316, 323-334 (2002)","10.1016/S0378-4371(02)01018-X",,"cond-mat.stat-mech",,"  Criteria are given that kappa-deformed logarithmic and exponential functions
+should satisfy. With a pair of such functions one can associate another
+function, called the deduced logarithmic function. It is shown that generalized
+thermostatistics can be formulated in terms of kappa-deformed exponential
+functions together with the associated deduced logarithmic functions.
+","[{""version"":""v1"",""created"":""Sun, 24 Mar 2002 15:14:04 GMT""}]","2009-11-07"
+"cond-mat/0203491","Joseph Samuel","Joseph Samuel and Supurna Sinha","Molecular elasticity and the geometric phase","five pages, one figure, revtex, revised in the light of referee's
+  comments, to appear in PRL","Physical Review Letters Vol. 90,098305, (2003)","10.1103/PhysRevLett.90.098305",,"cond-mat q-bio.BM quant-ph",,"  We present a method for solving the Worm Like Chain (WLC) model for twisting
+semiflexible polymers to any desired accuracy. We show that the WLC free energy
+is a periodic function of the applied twist with period 4 pi. We develop an
+analogy between WLC elasticity and the geometric phase of a spin half system.
+These analogies are used to predict elastic properties of twist-storing
+polymers. We graphically display the elastic response of a single molecule to
+an applied torque. This study is relevant to mechanical properties of
+biopolymers like DNA.
+","[{""version"":""v1"",""created"":""Sun, 24 Mar 2002 07:37:34 GMT""},{""version"":""v2"",""created"":""Thu, 27 Jun 2002 08:33:14 GMT""},{""version"":""v3"",""created"":""Sat, 7 Dec 2002 06:54:35 GMT""},{""version"":""v4"",""created"":""Thu, 23 Jan 2003 06:31:34 GMT""}]","2009-11-07"
+"cond-mat/0203492","Shvaika Andrij","A.M. Shvaika","Dynamical susceptibilities in strong coupling approach: General scheme
+  and Falikov-Kimball model","6 pages, lecture given at the 2nd International Pamporovo Workshop on
+  Cooperative Phenomena in Condensed Matter (28th July - 7th August 2001,
+  Pamporovo, Bulgaria)","J. Phys. Stud. 5, 349 (2001)","10.30970/jps.05.349",,"cond-mat.str-el",,"  A general scheme to calculate dynamical susceptibilities of strongly
+correlated electron systems within the dynamical mean field theory is
+developed. Approach is based on an expansion over electron hopping around the
+atomic limit (within the diagrammatic technique for site operators: projection
+and Hubbard ones) in infinite dimensions. As an example, the Falicov-Kimball
+and simplified pseudospin-electron models are considered for which an
+analytical expressions for dynamical susceptibilities are obtained.
+","[{""version"":""v1"",""created"":""Sun, 24 Mar 2002 10:48:56 GMT""}]","2023-03-13"
+"gr-qc/0203080","Luzh","Liao Liu, and Shouyong Pei","The cosmological origin of Higgs particles","7 pages,no figures","Chin.Phys.Lett. 20 (2003) 780-782","10.1088/0256-307X/20/5/354",,"gr-qc",,"  A proposal of the cosmological origin of Higgs particles is given. We show,
+that the Higgs field could be created from the vacuum quantum conformal
+fluctuation of Anti-de Sitter space-time, the spontaneous breaking of vacuum
+symmetry, and the mass of Higgs particle are related to the cosmological
+constant of our universe,especially the theoretical estimated mass m$_{H}$ of
+Higgs particles is m$_{H}=\sqrt{-2\mu ^{2}}$ =$\sqrt{|\Lambda /\pi}$.
+","[{""version"":""v1"",""created"":""Sun, 24 Mar 2002 07:28:30 GMT""}]","2009-11-07"
+"gr-qc/0203082","Takahiro Tanaka","Takahiro Tanaka","Classical black hole evaporation in Randall-Sundrum infinite braneworld","Style file changed, Proceedings for YITP workshop ""Braneworld
+  -Dynamics of spacetime boundary""","Prog.Theor.Phys.Suppl.148:307-316,2003","10.1143/PTPS.148.307","YITP-02-20","gr-qc hep-ph",,"  After the gravity induced on the brane in the Randall-Sundrum (RS) infinite
+braneworld is briefly reviewed, we discuss the possibility that black holes
+evaporate as a result of classical evolution in this model based on the AdS/CFT
+correspondence. If this possibility is really the case, the existence of
+long-lived solar mass black holes will give the strongest constraint on the
+bulk curvature radius. At the same time, we can propose a new method to
+simulate the evaporation of a 4D black hole due to the Hawking radiation as a
+5D process.
+","[{""version"":""v1"",""created"":""Sun, 24 Mar 2002 11:36:28 GMT""},{""version"":""v2"",""created"":""Wed, 3 Apr 2002 03:52:59 GMT""}]","2008-11-26"
+"hep-ph/0203225","Erasmo Ferreira","H.G. Dosch, E.M. Ferreira, F.S. Navarra and M. Nielsen","Semileptonic D decay into scalar mesons: a QCD sum rule approach","18 pages, 9 figures, e-mail: H.G.Dosch@thphys.uni-heidelberg.de","Phys.Rev.D65:114002,2002","10.1103/PhysRevD.65.114002",,"hep-ph",,"  Semileptonic decays of D-mesons into scalar hadronic states are investigated.
+Two extreme cases are considered: a) the meson decays directly into an
+uncorrelated scalar state of two two mesons and b) the decay proceeds via
+resonance formation. QCD sum rules including instanton contributions are used
+to calculate total and differential decay rates under the two assumptions.
+","[{""version"":""v1"",""created"":""Sat, 23 Mar 2002 16:59:04 GMT""},{""version"":""v2"",""created"":""Wed, 27 Mar 2002 18:41:01 GMT""}]","2008-11-26"
+"hep-ph/0203226","Huo WuJun","W.J. Huo (IHEP, CAS, China)","Constraints of mixing matrix elements in the sequential fourthgeneration
+  model","14 pages, 4 figures, submitted to PRD",,,,"hep-ph",,"  We review our works on the sequential fourth generation model and focus on
+the constriants of $4\times 4$ quark mixing matrix elements. We investigate the
+quark mixing matrix elements from the rare $K,B$ meson decays. We talk about
+the $ hierarchy$ of the $4\times 4$ matrix and the existence of fourth
+generation.
+","[{""version"":""v1"",""created"":""Sat, 23 Mar 2002 17:28:57 GMT""}]","2007-05-23"
+"hep-ph/0203227",,"V.V. Bytev, E.A. Kuraev, M.V. Galynskii, A.P. Potylitsyn","Polarized triplet production by circularly polarized photons","9 pages, 3 pictures","JETP Lett. 75 (2002) 452-456; Pisma Zh.Eksp.Teor.Fiz. 75 (2002)
+  542-546","10.1134/1.1494040",,"hep-ph",,"  A process of the pair production by a circularly polarized photon in the
+field of unpolarized atomic electron has been considered in the
+Weizaecker-Williams approximation. The degree of longitudinal polarization of
+positron and electron has been calculated. An exclusive cross-section as well
+as a spectral distribution are obtained. We estimate the accuracy of our
+calculations at the level of a few percent. We show the identity of the
+positron polarization for considered process and for process of pair production
+in the screened Coulomb field of nucleus.
+","[{""version"":""v1"",""created"":""Sun, 24 Mar 2002 08:08:10 GMT""}]","2009-11-07"
+"hep-th/0203223","Miyake Akiko","A. Miyake, A. Sugamoto (Ochanomizu U.)","Matrix Model on Z-Orbifold","15 pages","Mod.Phys.Lett.A17:1499-1512,2002","10.1142/S0217732302007880","OCHA-PP-199 March 2002","hep-th",,"  Six dimensional compactification of the type IIA matrix model on the ${\bf
+Z}$-orbifold is studied. Introducing a ${\bf Z}_{3}$ symmetry properly on the
+three mirror images of fields in the $N$-body system of the supersymmetric D0
+particles, the action of the Matrix model compactified on the ${\bf
+Z}$-orbifold is obtained. In this matrix model ${\cal N}=1$ supersymmetry is
+explicitly demonstrated.
+","[{""version"":""v1"",""created"":""Sun, 24 Mar 2002 10:31:26 GMT""},{""version"":""v2"",""created"":""Sat, 30 Mar 2002 03:53:12 GMT""},{""version"":""v3"",""created"":""Fri, 12 Apr 2002 06:02:33 GMT""},{""version"":""v4"",""created"":""Thu, 26 Dec 2002 10:21:52 GMT""}]","2010-11-19"
+"hep-th/0203225","Alexander Razumov","A.N. Leznov","Some integrable models in quantized spaces","11 pages, LaTeX","Nucl.Phys. B640 (2002) 469-480","10.1016/S0550-3213(02)00591-6",,"hep-th",,"  It is shown that in a quantized space determined by the $B_2\quad
+(O(5)=Sp(4))$ algebra with three dimensional parameters of the length $L^2$,
+momentum $(Mc)^2$, and action $S$, the spectrum of the Coulomb problem with
+conserving Runge-Lenz vector coincides with the spectrum found by Schr\""odinger
+for the space of constant curvature but with the values of the principal
+quantum number limited from the side of higher values. The same problem is
+solved for the spectrum of a harmonic oscillator.
+","[{""version"":""v1"",""created"":""Sun, 24 Mar 2002 15:45:36 GMT""}]","2009-11-07"
+"hep-th/0203226","Alexander Razumov","A.N. Leznov, J. Escobedo-Alatorre, and R.Torres-Cordoba","Fine structure of the discrete transformation for multicomponent
+  integrable systems","Published by JNMP at http://www.sm.luth.se/math/JNMP/","J.Nonlin.Math.Phys. 10 (2003) 243-251","10.2991/jnmp.2003.10.2.7",,"hep-th",,"  It is shown that in the case of multicomponent integrable systems connected
+with algebras $A_n$, the discrete transformation $T$ possesses the fine
+structure and can be represented in the form $T=\prod T_i^{l_i}$, where $T_i$
+are n commuting basis discrete transformations, and $l_i$ are arbitrary natural
+numbers. All the calculations are conducted in detail for the case of a 3-wave
+interacting system.
+","[{""version"":""v1"",""created"":""Sun, 24 Mar 2002 15:50:26 GMT""},{""version"":""v2"",""created"":""Fri, 31 Oct 2003 17:47:44 GMT""}]","2015-06-26"
+"math-ph/0203048","Peter Kleban","Jan Fiala, Peter Kleban, and Ali Ozluk","The Phase Transition in Statistical Models Defined on Farey Fractions","14 pp., Revtex4, new version with minor errors corrected and extended
+  sections IV and V (more detailed explanations), accepted for publication by
+  J. Stat. Phys","J. Stat. Phys. (2003) 110, pp. 73-86","10.1023/A:1021014627403",,"math-ph cond-mat.stat-mech math.MP math.NT",,"  We consider several statistical models defined on the Farey fractions. Two of
+these models may be regarded as ""spin chains"", with long-range interactions,
+while another arises in the study of multifractals associated with chaotic maps
+exhibiting intermittency. We prove that these models all have the same free
+energy. Their thermodynamic behavior is determined by the spectrum of the
+transfer operator (Ruelle-Perron-Frobenius operator), which is defined using
+the maps (presentation functions) generating the Farey ""tree"". The spectrum of
+this operator was completely determined by Prellberg. It follows that these
+models have a second-order phase transition with a specific heat divergence of
+the form [t (ln t)^2]^(-1). The spin chain models are also rigorously known to
+have a discontinuity in the magnetization at the phase transition.
+","[{""version"":""v1"",""created"":""Sat, 23 Mar 2002 18:07:44 GMT""},{""version"":""v2"",""created"":""Thu, 22 Aug 2002 04:05:26 GMT""},{""version"":""v3"",""created"":""Tue, 10 Sep 2002 15:59:04 GMT""}]","2007-06-22"
+"math/0203248","Andre Yves","Yves Andr\'e","Filtrations de type Hasse-Arf et monodromie p-adique","32 pages","Invent. Math. 148 (2002), 285--317","10.1007/s002220100207",,"math.NT math.AG",,"  One proves the Crew-Tsuzuki ""p-adic local monodromy conjecture"" (for local
+fields of characteristic p>0).
+","[{""version"":""v1"",""created"":""Sat, 23 Mar 2002 16:30:14 GMT""}]","2009-11-07"
+"math/0203249","Michael Hardy","Michael Hardy","Scaled Boolean Algebras","53 pages, 8 Postscript figures, Uses ajour.sty from Academic Press,
+  To appear in Advances in Applied Mathematics",,,,"math.PR",,"  Scaled Boolean algebras are a category of mathematical objects that arose
+from attempts to understand why the conventional rules of probability should
+hold when probabilities are construed, not as frequencies or proportions or the
+like, but rather as degrees of belief in uncertain propositions. This paper
+separates the study of these objects from that not-entirely-mathematical
+problem that motivated them. That motivating problem is explicated in the first
+section, and the application of scaled Boolean algebras to it is explained in
+the last section. The intermediate sections deal only with the mathematics. It
+is hoped that this isolation of the mathematics from the motivating problem
+makes the mathematics clearer.
+","[{""version"":""v1"",""created"":""Sat, 23 Mar 2002 21:14:43 GMT""}]","2009-09-29"
+"math/0203251","Blagovest Damyanov","B.P.Damyanov","Balanced Colombeau products of the distributions $x_{\pm}^{-p}$ and
+  $x^{-p}$","11 pages",,,,"math.FA",,"  Results on singular products of the distributions $x_{\pm}^{-p}$ and $x^{-p}$
+for natural $p$ are derived when the products are balanced so that their sum
+exists in the distribution space. These results follow the pattern of a known
+distributional product published by Jan Mikusi\'nski in 1966. The results are
+obtained in Colombeau algebra of generalized functions, which is most relevant
+algebraic construction for tackling nonlinear problems of Schwartz
+distributions.
+","[{""version"":""v1"",""created"":""Sun, 24 Mar 2002 14:09:36 GMT""}]","2007-05-23"
+"math/0203252","Uwe Grimm","Michael Baake (Greifswald), Uwe Grimm (Milton Keynes), Robert V. Moody
+  (Edmonton)","What is Aperiodic Order?","27 pages, many colour pictures","Based on this manuscript, an article entitled ""Die verborgene
+  Ordnung der Quasikristalle"" (in German) was published in: Spektrum der
+  Wissenschaft (February 2002) 64-74",,,"math.HO cond-mat math.MG",,"  The theory of aperiodic order is concerned with the development of ideas
+stimulated by the discovery of quasicrystals. We give a gentle introduction to
+some mathematical aspects of aperiodic order, aimed at a more general audience.
+","[{""version"":""v1"",""created"":""Sun, 24 Mar 2002 14:54:02 GMT""}]","2007-05-23"
+"nucl-th/0203066","Vergados Ioannis","P.C. Divari, J.D. Vergados, T.S. Kosmas (Physics Department,
+  University of Ioannina, Greece) and L.D. Skouras (NCSR Demokritos, Aghia
+  Paraskevi, Greece)","The exotic double-charge exchange muon positron conversion in nuclei","22 LATEX pages, 2 tables and 3 ps figures included. Accepted for
+  publication in Nuclear Physics A","Nucl.Phys. A703 (2002) 409-431","10.1016/S0375-9474(01)01533-0",,"nucl-th hep-ph",,"  The formalism for the neutrinoless muon positron conversion is investigated
+in detail and the relevant nuclear matrix elements for light intermediate
+neutrinos in the case of the experimentally interesting A=27 system are
+calculated. The nucleus is going to be used as a stopping target in the MECO
+experiment at Brookhaven, one of the most sensitive probes expected to reach a
+sensitivity in the branching ratio within the next few years, which will be an
+improvement of three orders of magnitude. The relevant transition operators are
+constructed utilizing a variety of mechanisms present in current gauge
+theories, with emphasis on the intermediate neutrinos, both light and heavy,
+and heavy SUSY particles. The nuclear wave functions, both for the initial
+state and all excited final states are obtained in the framework of 1s-0d shell
+model employing the well-known and tested Wildenthal realistic interaction. In
+the case of the light intermediate neutrinos the transition rates to all
+excited final states up to 25 MeV in energy are calculated. We find that the
+imaginary part of the amplitude is dominant. The total rate is calculated by
+summing over all these partial transition strengths. We also find that the rate
+due to the real part of the amplitude is much smaller than the corresponding
+quantity found previously by the closure approximation.
+","[{""version"":""v1"",""created"":""Sat, 23 Mar 2002 20:10:33 GMT""}]","2009-11-07"
+"nucl-th/0203067","A. K. Chaudhuri","A. K. Chaudhuri and T. Kodama","Direct photons from relativistic heavy ion collisions at CERN SPS and at
+  RHIC","5 pages, 5 figures",,,,"nucl-th hep-ph",,"  Assuming QGP as the initial state, we have analyzed the direct photon data,
+obtained by the WA98 collaboration, in 158 A GeV Pb+Pb collisions at CERN SPS.
+It was shown, that for small thermalisation time, two loop rate contribute
+substantially to high $p_T$ photons. We argue that for extremely short
+thermalisation time scale, the higher loop contribution should not be
+neglected. For thermalisation time 0.4 fm or greater, when higher loop
+contribution are not substantial, the initial temperature of the QGP is not
+large and the system does not produce enough hard $p_T$ photons to fit the WA98
+experiment. For initial time in the ranges of 0.4-1.0 fm, WA98 data could be
+fitted only if the fluid has initial radial velocity in the range of 0.3-0.5c.
+The model was applied to predict photon spectrum at RHIC energy.
+","[{""version"":""v1"",""created"":""Sun, 24 Mar 2002 10:26:36 GMT""}]","2007-05-23"
+"physics/0203071","A. K. Guts","Alexander K. Guts","Topos-theoretic Model of the Deutsch multiverse","16 pages, 1 figure, LaTeX2e","Mathematical Structures and Modeling, No.8,76-90 (2001)",,,"physics.gen-ph",,"  The Deutsch multiverse is collection of parallel universes. In this article a
+formal theory and a topos-theoretic model of the Deutsch multiverse are given.
+For this the Lawvere-Kock Synthetic Differential Geometry and topos models for
+smooth infinitesimal analysis are used. Physical properties of multi-variant
+and many-dimensional parallel universes are discussed. Quantum fluctuations of
+universe geometry are considered. Photon ghosts in parallel universes are
+found.
+","[{""version"":""v1"",""created"":""Sun, 24 Mar 2002 12:23:16 GMT""}]","2007-05-23"
+"quant-ph/0203120","Jiangfeng Du","Jiangfeng Du, Hui Li, Xiaodong Xu, Mingjun Shi, Jihui Wu, Xianyi Zhou,
+  and Rongdian Han","Experimental Implementation of the Quantum Random-Walk Algorithm","5 pages, 4 figures, published version","Phys. Rev. A 67, 042316 (2003)","10.1103/PhysRevA.67.042316",,"quant-ph",,"  The quantum random walk is a possible approach to construct new quantum
+algorithms. Several groups have investigated the quantum random walk and
+experimental schemes were proposed. In this paper we present the experimental
+implementation of the quantum random walk algorithm on a nuclear magnetic
+resonance quantum computer. We observe that the quantum walk is in sharp
+contrast to its classical counterpart. In particular, the properties of the
+quantum walk strongly depends on the quantum entanglement.
+","[{""version"":""v1"",""created"":""Sun, 24 Mar 2002 07:33:25 GMT""},{""version"":""v2"",""created"":""Wed, 3 Apr 2002 12:36:59 GMT""},{""version"":""v3"",""created"":""Wed, 23 Apr 2003 10:52:18 GMT""}]","2009-11-07"

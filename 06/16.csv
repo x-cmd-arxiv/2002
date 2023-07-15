@@ -1,0 +1,342 @@
+"astro-ph/0206259","Gerardo Iovane","G.Iovane","MEDEA: Automated Measure and on-line Analysis in Astronomy and
+  Astrophysics for Very Large Vision Machine","Winner of the price ""Best Application of Measure and Automation in
+  Europe 2001-2002""(Assigned by National Instruments Italy), 28 February 2002","Proceeding of NIDays 2001-2002, pag.171, VNU Business
+  Publications, National Instruments",,,"astro-ph",,"  MEDEA is a software architecture to detect luminosity variations connected
+with the discovery of new planet outside the Solar System. Taking into account
+the enormous number of stars to monitor for our aim traditional approaches are
+very demanding in terms of computing time; here, the implementation of an
+automatic vision and decision system, which allows to perform an on-line
+discrimination of possible events by using two levels of trigger and a
+quasi-on-line data analysis, is presented. MEDEA becomes very profitable when
+dealing with large or deep surveys and provides to obtain soon results with its
+powerful data analysis tools.
+","[{""version"":""v1"",""created"":""Sat, 15 Jun 2002 16:42:37 GMT""}]","2007-05-23"
+"astro-ph/0206260","Marc Jason Kuchner","Marc J. Kuchner, Michael E. Brown, and Matthew Holman","Long-Term Dynamics and the Orbital Inclinations of the Classical Kuiper
+  Belt Objects","23 pages, including 10 figures. Accepted for publication in AJ",,"10.1086/341643",,"astro-ph",,"  We numerically integrated the orbits of 1458 particles in the region of the
+classical Kuiper Belt (41 AU < a < 47 AU) to explore the role of dynamical
+instabilities in sculpting the inclination distribution of the classical Kuiper
+Belt Objects (KBOs). We find that the selective removal of low-inclination
+objects by overlapping secular resonances (nu_17 and nu_18) acts to raise the
+mean inclination of the surviving population of particles over 4 billion years
+of interactions with Jupiter, Saturn, Uranus and Neptune, though these
+long-term dynamical effects do not themselves appear to explain the discovery
+of KBOs with inclinations near 30 degrees. Our integrations also imply that
+after 3 billion years of interaction with the massive planets, high inclination
+KBOs more efficiently supply Neptune-encountering objects, the likely
+progenitors of short-period comets, Centaurs, and scattered KBOs. The secular
+resonances at low inclinations may indirectly cause this effect by weeding out
+objects unprotected by mean motion resonances during the first 3 billion years.
+","[{""version"":""v1"",""created"":""Sat, 15 Jun 2002 21:07:17 GMT""}]","2009-11-07"
+"astro-ph/0206261","Igor Rogachevskii","I. Rogachevskii and N. Kleeorin","Nonlinear Turbulent Magnetic Diffusion and Mean-Field Dynamo","15 pages, REVTEX4","Phys.Rev. E64 (2001) 056307","10.1103/PhysRevE.64.056307",,"astro-ph",,"  The nonlinear coefficients defining the mean electromotive force (i.e., the
+nonlinear turbulent magnetic diffusion, the nonlinear effective velocity, the
+nonlinear kappa-tensor, etc.) are calculated for an anisotropic turbulence. A
+particular case of an anisotropic background turbulence (i.e., the turbulence
+with zero mean magnetic field) with one preferential direction is considered.
+It is shown that the toroidal and poloidal magnetic fields have different
+nonlinear turbulent magnetic diffusion coefficients. It is demonstrated that
+even for a homogeneous turbulence there is a nonlinear effective velocity which
+exhibits diamagnetic or paramagnetic properties depending on anisotropy of
+turbulence and level of magnetic fluctuations in the background turbulence.
+Analysis shows that an anisotropy of turbulence strongly affects the nonlinear
+mean electromotive force. Two types of nonlinearities (algebraic and dynamic)
+are also discussed. The algebraic nonlinearity implies a nonlinear dependence
+of the mean electromotive force on the mean magnetic field. The dynamic
+nonlinearity is determined by a differential equation for the magnetic part of
+the alpha-effect. It is shown that for the alpha-Omega axisymmetric dynamo the
+algebraic nonlinearity alone cannot saturate the dynamo generated mean magnetic
+field while the combined effect of the algebraic and dynamic nonlinearities
+limits the mean magnetic field growth. Astrophysical applications of the
+obtained results are discussed.
+","[{""version"":""v1"",""created"":""Sun, 16 Jun 2002 10:35:15 GMT""}]","2009-11-07"
+"astro-ph/0206262","Claus Kiefer","David Blais, Torsten Bringmann, Claus Kiefer, David Polarski","Accurate results for primordial black holes from spectra with a
+  distinguished scale","16 pages, 7 figures, minor conceptual clarifications included,
+  references added, to appear in Phys. Rev. D","Phys.Rev. D67 (2003) 024024","10.1103/PhysRevD.67.024024",,"astro-ph gr-qc hep-th",,"  We perform an accurate computation of the production rate for primordial
+black holes (PBHs). The reason is that the underlying mass variance had been
+overestimated systematically, as was shown recently. For scale-free powerlaw
+primordial spectra, and for a Universe with critical density, the mass variance
+is less than 34% of its value thought earlier for the spectral index in the
+range $1\leq n\leq 1.3$. We then extend our study to spectra with a
+characteristic scale and find the accurate shape of the corresponding mass
+variance. For a pure step in the primordial spectrum, the step in the variance
+is smoothed around the characteristic scale $k_s$. For a spectrum with large
+oscillations near $k_s$, we find a pronounced bump in the variance. This could
+yield a significant part of the cold dark matter in the form of PBHs with mass
+$M$ in the range $5\times 10^{15} {\rm g}\lesssim M \lesssim 10^{21} {\rm g}$.
+","[{""version"":""v1"",""created"":""Sun, 16 Jun 2002 13:46:10 GMT""},{""version"":""v2"",""created"":""Tue, 19 Nov 2002 14:13:12 GMT""}]","2009-11-07"
+"cond-mat/0206294","D. M. Cardamone","D. M. Cardamone, C. A. Stafford, B. R. Barrett","Coherence and Decoherence in Tunneling between Quantum Dots","5 pages, 2 figures, presented at Pan-American Advanced Studies
+  Institute (PASI) 2001: Physics and Technology at the Nanometer Scale","phys. stat. sol. (b) 230, 419 (2002)","10.1002/1521-3951(200204)230:2<419::AID-PSSB419>3.0.CO;2-I",,"cond-mat.mes-hall",,"  Coupled quantum dots are an example of the ubiquitous quantum double
+potential well. In a typical transport experiment, each quantum dot is also
+coupled to a continuum of states. Our approach takes this into account by using
+a Green's function formalism to solve the full system. The time-dependent
+solution is then explored in different limiting cases. In general, a
+combination of coherent and incoherent behavior is observed. In the case that
+the coupling of each dot to the macroscopic world is equal, however, the time
+evolution is purely coherent.
+","[{""version"":""v1"",""created"":""Sun, 16 Jun 2002 01:02:11 GMT""}]","2015-06-24"
+"cond-mat/0206295","Surovtsev N. V.","N. V. Surovtsev, A. P. Sokolov","Frequency behavior of Raman coupling coefficient in glasses","8 pages, 9 figures",,"10.1103/PhysRevB.66.054205",,"cond-mat.mtrl-sci cond-mat.soft",,"  Low-frequency Raman coupling coefficient of 11 different glasses is
+evaluated. It is found that the coupling coefficient demonstrates a universal
+linear frequency behavior near the boson peak maximum and a superlinear
+behavior at very low frequencies. The last observation suggests vanishing of
+the coupling coefficient when frequency tends to zero. The results are
+discussed in terms of the vibration wavefunction that combines features of
+localized and extended modes.
+","[{""version"":""v1"",""created"":""Sun, 16 Jun 2002 05:40:43 GMT""}]","2009-11-07"
+"cond-mat/0206296","Ramin Golestanian","Ramin Golestanian (IASBS) and Tanniemola B. Liverpool (Imperial)","Conformational Instability of Rodlike Polyelectrolytes due to Counterion
+  Fluctuations","8 pages, 4 figures",,"10.1103/PhysRevE.66.051802",,"cond-mat.soft cond-mat.stat-mech",,"  The effective elasticity of highly charged stiff polyelectrolytes is studied
+in the presence of counterions, with and without added salt. The rigid polymer
+conformations may become unstable due to an effective attraction induced by
+counterion density fluctuations. Instabilities at the longest, or intermediate
+length scales may signal collapse to globule, or necklace states, respectively.
+In the presence of added-salt, a generalized electrostatic persistence length
+is obtained, which has a nontrivial dependence on the Debye screening length.
+It is also found that the onset of conformational instability is a re-entrant
+phenomenon as a function of polyelectrolyte length for the unscreened case, and
+the Debye length or salt concentration for the screened case. This may be
+relevant in understanding the experimentally observed re-entrant condensation
+of DNA.
+","[{""version"":""v1"",""created"":""Sun, 16 Jun 2002 06:30:12 GMT""}]","2009-11-07"
+"cond-mat/0206297","Takahiro Fukui","T. Fukui","Interaction effects on random Dirac fermions","10 pages, no figures",,,,"cond-mat.dis-nn cond-mat.stat-mech",,"  We study a Dirac fermion model with three kinds of disorder as well as a
+marginal interaction which forms the critical line of $c=1$ conformal field
+theory. Computing scaling equations by the use of a perturbative
+renormalization group method, we investigate how such an interaction affects
+the universality classes of disordered systems with non-interacting fermions.
+We show that some specific fixed points are stable against an interaction,
+whereas others are unstable and flow to new random critical points with a
+finite interaction.
+","[{""version"":""v1"",""created"":""Sun, 16 Jun 2002 14:06:57 GMT""}]","2007-05-23"
+"gr-qc/0206044","Dr. Haret Rosu","H.C. Rosu, O. Cornejo, M. Reyes, D. Jimenez","Linear second-order differential equations for barotropic FRW
+  cosmologies","6 pages, no figures",,"10.1023/B:IJTP.0000006019.28659.88",,"gr-qc",,"  Simple linear second-order differential equations have been written down for
+FRW cosmologies with barotropic fluids by Faraoni. His results have been
+extended by Rosu, who employed techniques belonging to nonrelativistic
+supersymmetry to obtain time-dependent adiabatic indices. Further extensions
+are presented here using the known connection between the linear second-order
+differential equations and Dirac-like equations in the same supersymmetric
+context. These extensions are equivalent to adding an imaginary part to the
+adiabatic index which is proportional to the mass parameter of the Dirac
+spinor. The natural physical interpretation of the imaginary part is related to
+the particular dissipation and instabilities of the barotropic FRW
+hydrodynamics that are introduced by means of this supersymmetric scheme
+","[{""version"":""v1"",""created"":""Sat, 15 Jun 2002 23:56:53 GMT""},{""version"":""v2"",""created"":""Sun, 15 Dec 2002 06:13:29 GMT""}]","2016-08-31"
+"hep-ph/0206136","Stephen P. Martin","Stephen P. Martin","Two-loop effective potential for the minimal supersymmetric standard
+  model","30 pages","Phys.Rev.D66:096001,2002","10.1103/PhysRevD.66.096001",,"hep-ph",,"  I compute the complete two-loop effective potential for the minimal
+supersymmetric standard model in the Landau gauge. This enables an accurate
+determination of the minimization conditions for the vacuum expectation values
+of the Higgs fields. Checks on the result follow from supersymmetric limits and
+from renormalization-scale invariance. The renormalization group equations for
+the field-independent vacuum energy and the vacuum expectation values are also
+presented. I provide numerical examples showing the improved accuracy and scale
+dependence obtained with the full two-loop effective potential.
+","[{""version"":""v1"",""created"":""Sun, 16 Jun 2002 02:45:21 GMT""}]","2008-11-26"
+"hep-ph/0206138","Stephane Peigne'","Stephane Peigne","Absence of shadowing in Drell-Yan production at finite transverse
+  momentum exchange","22 pages, latex, feynmf","Phys.Rev. D66 (2002) 114011","10.1103/PhysRevD.66.114011","LAPTH-917/02","hep-ph",,"  Within a perturbative scalar QED model recently considered by Brodsky et al.,
+we study how leading-twist Coulomb rescatterings affect the Drell-Yan cross
+section at small x = x_{target}, and compare to the case of deep inelastic
+scattering at small x_{B}. We show that in the range where the transverse
+momentum transferred to the target is large compared to its minimal value $\sim
+\morder{x}$, Coulomb rescatterings affect the DIS cross section but not the
+Drell-Yan production rate. This illustrates that the leading-twist parton
+distribution functions become non-universal when cross sections which are
+differential in target-related particles are considered.
+","[{""version"":""v1"",""created"":""Sat, 15 Jun 2002 17:29:39 GMT""},{""version"":""v2"",""created"":""Fri, 19 Jul 2002 12:24:35 GMT""}]","2009-11-07"
+"hep-ph/0206139","Dr. Wolfgang A. Rolke","Wolfgang A. Rolke and Angel M. Lopez","Correcting the Minimization Bias in Searches for Small Signals","14 pages, 5 figues","Nucl.Instrum.Meth. A503 (2003) 617-624","10.1016/S0168-9002(03)00428-5",,"hep-ph",,"  We discuss a method for correcting the bias in the limits for small signals
+if those limits were found based on cuts that were chosen by minimizing a
+criterion such as sensitivity. Such a bias is commonly present when a
+""minimization"" and an ""evaluation"" are done at the same time. We propose to use
+a variant of the bootstrap to adjust the limits. A Monte Carlo study shows that
+these new limits have correct coverage.
+","[{""version"":""v1"",""created"":""Sat, 15 Jun 2002 20:33:57 GMT""}]","2009-11-07"
+"hep-ph/0206140","Valeri V. Kiselev","V.V.Kiselev, A.K.Likhoded, O.N.Pakhomova, V.A.Saleev","Mass spectra of doubly heavy Omega_QQ' baryons","14 pages, revtex4-file, 3 eps-figures, 5 tables, typos corrected","Phys.Rev.D66:034030,2002","10.1103/PhysRevD.66.034030",,"hep-ph",,"  We evaluate the masses of baryons composed of two heavy quarks and a strange
+quark with account for spin-dependent splittings in the framework of potential
+model with the KKO potential motivated by QCD with a three-loop beta-function
+for the effective charge consistent with both the perturbative limit at short
+distances and linear confinement term at long distances between the quarks. The
+factorization of dynamics is supposed and explored in the nonrelativistic
+Schroedinger equation for the motion in the system of two heavy quarks
+constituting the doubly heavy diquark and the strange quark interaction with
+the diquark. The limits of approach, its justification and uncertainties are
+discussed. Excited quasistable states are classified by the quantum numbers of
+heavy diquark composed by the heavy quarks of the same flavor.
+","[{""version"":""v1"",""created"":""Sun, 16 Jun 2002 11:11:59 GMT""},{""version"":""v2"",""created"":""Mon, 1 Jul 2002 08:52:41 GMT""}]","2011-03-23"
+"hep-th/0206129","Rafael Montemayor","H. Casini, R. Montemayor and Luis F. Urrutia","Duality for symmetric second rank tensors.(I): the massive case","19 pages, no figures, revtex","Phys.Rev. D66 (2002) 085018","10.1103/PhysRevD.66.085018","CNEA-CAB/7-06-02","hep-th",,"  A generalization of duality transformations for arbitrary Lorentz tensors is
+presented, and a systematic scheme for constructing the dual descriptions is
+developed. The method, a purely Lagrangian approach, is based on a first order
+parent Lagrangian, from which the dual partners are generated. In particular, a
+family of theories which are dual to the massive spin two Fierz-Pauli field,
+both free and coupled to an external source, is constructed in terms of a third
+rank tensor which is taken as the basic configuration variable.
+","[{""version"":""v1"",""created"":""Sat, 15 Jun 2002 18:04:21 GMT""}]","2009-11-07"
+"hep-th/0206130",,"John C. Baez","Higher Yang-Mills Theory","20 pages LaTeX with XY-pic figures",,,,"hep-th",,"  Electromagnetism can be generalized to Yang-Mills theory by replacing the
+group U(1)$ by a nonabelian Lie group. This raises the question of whether one
+can similarly generalize 2-form electromagnetism to a kind of
+""higher-dimensional Yang-Mills theory"". It turns out that to do this, one
+should replace the Lie group by a ""Lie 2-group"", which is a category C where
+the set of objects and the set of morphisms are Lie groups, and the source,
+target, identity and composition maps are homomorphisms. We show that this is
+the same as a ""Lie crossed module"": a pair of Lie groups G,H with a
+homomorphism t: H -> G and an action of G on H satisfying two compatibility
+conditions. Following Breen and Messing's ideas on the geometry of nonabelian
+gerbes, one can define ""principal 2-bundles"" for any Lie 2-group C and do gauge
+theory in this new context. Here we only consider trivial 2-bundles, where a
+connection consists of a Lie(G)-valued 1-form together with an Lie(H)-valued
+2-form, and its curvature consists of a Lie(G)-valued 2-form together with a
+Lie(H)-valued 3-form. We generalize the Yang-Mills action for this sort of
+connection, and use this to derive ""higher Yang-Mills equations"". Finally, we
+show that in certain cases these equations admit self-dual solutions in five
+dimensions.
+","[{""version"":""v1"",""created"":""Sat, 15 Jun 2002 22:40:02 GMT""},{""version"":""v2"",""created"":""Mon, 17 Jun 2002 21:16:43 GMT""}]","2007-05-23"
+"hep-th/0206131","Yoji Michishita","Yoji Michishita","D-branes in NSNS and RR pp-wave backgrounds and S-duality","latex, 19 pages, v2:minor changes, v3: Eq.(30) and (31) corrected,
+  Open string spectra on D-branes in the two backgrounds coincide","JHEP 0210:048,2002","10.1088/1126-6708/2002/10/048","KIAS-P02037","hep-th",,"  We investigate boundary conditions for open strings in NSNS and RR pp-wave
+backgrounds constructed by Russo and Tseytlin, which are S-dual to each other.
+We show that if we do not turn on any boundary term (i.e. gauge field),
+D-branes in the RR background cannot move away from the origin in most cases,
+while those in the NSNS background can move anywhere. We construct RR
+counterparts of D3-branes in the NSNS background as D3-branes with gauge fluxes
+and show that indeed they can move anywhere, in accord with S-duality.
+","[{""version"":""v1"",""created"":""Sun, 16 Jun 2002 05:15:56 GMT""},{""version"":""v2"",""created"":""Sun, 23 Jun 2002 03:29:00 GMT""},{""version"":""v3"",""created"":""Fri, 26 Jul 2002 11:09:36 GMT""}]","2010-02-03"
+"hep-th/0206133","Asim Gangopdhyaya","Asim Gangopadhyaya and Jeffry V. Mallow","Supersymmetry in the Half-Oscillator - Revisited","Latex file, 5 pages",,,,"hep-th",,"  Following a recent study by Das and Pernice [Nucl. Phys. B561, (1999) 357],
+we have carefully analyzed the half-harmonic oscillator. In contrast to their
+observations, our analysis reveals that the spectrum does not allow for a zero
+energy ground state and hence the supersymmetry is broken when the domain is
+restricted to the positive half of the real axis.
+","[{""version"":""v1"",""created"":""Sun, 16 Jun 2002 14:25:45 GMT""}]","2007-05-23"
+"math/0206153","Alexander Kheifets","V. Bolotnikov, A. Kheifets, L. Rodman","Functions with Pick matrices having bounded number of negative
+  eigenvalues",,,,,"math.CV",,"  A class is studied of complex valued functions defined on the unit disk (with
+a possible exception of a discrete set) with the property that all their Pick
+matrices have not more than a prescribed number of negative eigenvalues.
+Functions in this class, known to appear as pseudomultipliers of the Hardy
+space, are characterized in several other ways. It turns out that a typical
+function in the class is meromorphic with a possible modification at a finite
+number of points, and total number of poles and of points of modification does
+not exceed the prescribed number of negative eigenvalues. Bounds are given for
+the number of points that generate Pick matrices that are needed to achieve the
+requisite number of negative eigenvalues. A result analogous to Hindmarsh's
+theorem is proved for functions in the class.
+","[{""version"":""v1"",""created"":""Sat, 15 Jun 2002 18:14:12 GMT""}]","2007-05-23"
+"math/0206154","Daniel Krashen","Daniel Krashen","Severi-Brauer varieties of semidirect product algebras","22 pages",,,,"math.RA math.AG",,"  A conjecture of Amitsur states that two Severi-Brauer varieties are
+birationally isomorphic if and only if the underlying algebras are the same
+degree and generate the same cyclic subgroup of the Brauer group. It is known
+that generating the same cyclic subgroup is a necessary condition, however it
+has not yet been shown to be sufficient.
+  In this paper we examine the case where the algebras have a maximal subfield
+$K/F$ of degree $n$ with Galois closure $E/F$ whose Galois group is of the form
+$C_n \rtimes H$, where $E^H = K$ and $|H|$ is prime to $n$. For such as we show
+that the conjecture is true for certain cases of $n$ and $H$. In particular we
+prove the conjecture in the case that $G$ is a dihedral group of order $2p$,
+where $p$ is prime
+","[{""version"":""v1"",""created"":""Sat, 15 Jun 2002 20:36:42 GMT""}]","2007-05-23"
+"math/0206155","Paul Seidel","Paul Seidel","Fukaya categories and deformations",,,,,"math.SG math.RA",,"  This is an informal (and mostly conjectural) discussion of some aspects of
+Fukaya categories. We start by looking at exact symplectic manifolds which are
+obtained from a closed Calabi-Yau by removing a hyperplane section. We look at
+the possible geometric significance of Hochschild cohomology in this situation,
+and how one can try to get from the Fukaya category of the exact manifold to
+that of the closed Calabi-Yau. Also included is a brief discussion of the role
+of Lefschetz pencils, and a bit of general deformation theory. To appear in the
+Proceedings of the Beijing ICM.
+","[{""version"":""v1"",""created"":""Sat, 15 Jun 2002 22:27:42 GMT""}]","2007-05-23"
+"math/0206156","Bruno Martelli","Roberto Frigerio, Bruno Martelli and Carlo Petronio","Complexity and Heegaard genus of an infinite class of compact
+  3-manifolds","15 pages, 7 figures","Pacific J. Math. 210 (2003), 283-297",,,"math.GT",,"  Using the theory of hyperbolic manifolds with totally geodesic boundary, we
+provide for every integer n greater than 1 a class of such manifolds all having
+Matveev complexity equal to n and Heegaard genus equal to n+1. All the elements
+of this class have a single boundary component of genus n, and the numbers of
+distinct members of the class grows at least exponentially with n.
+","[{""version"":""v1"",""created"":""Sun, 16 Jun 2002 15:39:07 GMT""}]","2016-09-07"
+"nlin/0206024","Michael Zeitlin","Antonina N. Fedorova, Michael G. Zeitlin","Localization and Coherent Structures in Wave Dynamics via
+  Multiresolution","3 pages, 2 figures, presented at GAMM Meeting, February, 2001, ETH,
+  Zurich; changed margins for printing","PAMM, Volume 1, Issue 1, pp. 399-400, Wiley-VCH, 2002",,,"nlin.PS nlin.AO nlin.CD",,"  We apply variational-wavelet approach for constructing multiscale
+high-localized eigenmodes expansions in different models of nonlinear waves. We
+demonstrate appearance of coherent localized structures and stable pattern
+formation in different collective dynamics models.
+","[{""version"":""v1"",""created"":""Sun, 16 Jun 2002 11:06:13 GMT""},{""version"":""v2"",""created"":""Sat, 22 Jun 2002 11:39:59 GMT""}]","2007-05-23"
+"nlin/0206025","Veit Elser","Veit Elser","The Mermin fixed point","Contribution to Mermin Festschrift; 8 pages, 5 figures",,"10.1023/A:1026017302284",,"nlin.CG",,"  The most efficient known method for solving certain computational problems is
+to construct an iterated map whose fixed points are by design the problem's
+solution. Although the origins of this idea go back at least to Newton, the
+clearest expression of its logical basis is an example due to Mermin. A
+contemporary application in image recovery demonstrates the power of the
+method.
+","[{""version"":""v1"",""created"":""Sun, 16 Jun 2002 15:54:35 GMT""}]","2022-10-12"
+"physics/0206049","Michael Zeitlin","Antonina N. Fedorova, Michael G. Zeitlin","From Localization to Stochastics in BBGKY Collective Dynamics","4 pages, 1 figure, JAC2001.cls, presented at European Particle
+  Accelerator Conference (EPAC02), Paris, June 3-7, 2002; changed from A4 to US
+  format for correct printing",,,,"physics.acc-ph physics.comp-ph physics.plasm-ph",,"  Fast and efficient numerical-analytical approach is proposed for modeling
+complex collective behaviour in accelerator/plasma physics models based on
+BBGKY hierarchy of kinetic equations. Our calculations are based on variational
+and multiresolution approaches in the bases of polynomial tensor algebras of
+generalized coherent states/wavelets. We construct the representation for
+hierarchy of reduced distribution functions via the multiscale decomposition in
+high-localized eigenmodes. Numerical modeling shows the creation of different
+internal coherent structures from localized modes, which are related to
+stable/unstable type of behaviour and corresponding pattern (waveletons)
+formation.
+","[{""version"":""v1"",""created"":""Sun, 16 Jun 2002 08:20:58 GMT""},{""version"":""v2"",""created"":""Sat, 22 Jun 2002 12:49:32 GMT""}]","2007-05-23"
+"physics/0206050","Michael Zeitlin","Antonina N. Fedorova, Michael G. Zeitlin","Fast Calculation Methods in Collective Dynamical Models of Beam/Plasma
+  Physics","4 pages, 2 figures, JAC2001.cls, presented at European Particle
+  Accelerator Conference (EPAC02), Paris, June 3-7, 2002; changed from A4 to US
+  format for correct printing",,,,"physics.acc-ph physics.comp-ph physics.plasm-ph",,"  We consider an application of modification of our variational-wavelet
+approach to some nonlinear collective model of beam/plasma physics:
+Vlasov/Boltzmann-like reduction from general BBGKY hierachy related to modeling
+of propagation of intense charged particle beams in high-intensity accelerators
+and transport systems. We use fast convergent multiscale variational-wavelet
+representations for solutions which allow to consider polynomial and rational
+type of nonlinearities. The solutions are represented via the multiscale
+decomposition in nonlinear high-localized eigenmodes (waveletons). In contrast
+with different approaches we do not use perturbation technique or linearization
+procedures.
+","[{""version"":""v1"",""created"":""Sun, 16 Jun 2002 09:12:34 GMT""},{""version"":""v2"",""created"":""Sat, 22 Jun 2002 13:10:50 GMT""}]","2007-05-23"
+"physics/0206051","Michael Zeitlin","Antonina N. Fedorova, Michael G. Zeitlin","Multiscale Decomposition for Vlasov-Poisson Equations","4 pages, 3 figures, JAC2001.cls, presented at European Particle
+  Accelerator Conference (EPAC02), Paris, June 3-7, 2002; changed from A4 to US
+  format for correct printing",,,,"physics.acc-ph physics.comp-ph physics.plasm-ph",,"  We consider the applications of a numerical-analytical approach based on
+multiscale variational wavelet technique to the systems with collective type
+behaviour described by some forms of Vlasov-Poisson/Maxwell equations. We
+calculate the exact fast convergent representations for solutions in
+high-localized wavelet-like bases functions, which correspond to underlying
+hidden (coherent) nonlinear eigenmodes. This helps to control
+stability/unstability scenario of evolution in parameter space on pure
+algebraical level.
+","[{""version"":""v1"",""created"":""Sun, 16 Jun 2002 09:35:21 GMT""},{""version"":""v2"",""created"":""Sat, 22 Jun 2002 13:23:33 GMT""}]","2007-05-23"
+"physics/0206052","Michael Zeitlin","Antonina N. Fedorova, Michael G. Zeitlin","RMS/Rate Dynamics via Localized Modes","4 pages, 2 figures, JAC2001.cls, presented at European Particle
+  Accelerator Conference (EPAC02), Paris, June 3-7, 2002; changed from A4 to US
+  format for correct printing",,,,"physics.acc-ph physics.comp-ph physics.plasm-ph",,"  We consider some reduction from nonlinear Vlasov-Maxwell equation to rms/rate
+equations for second moments related quantities. Our analysis is based on
+variational wavelet approach to rational (in dynamical variables)
+approximation. It allows to control contribution from each scale of underlying
+multiscales and represent solutions via multiscale exact nonlinear eigenmodes
+(waveletons) expansions. Our approach provides the possibility to work with
+well-localized bases in phase space and best convergence properties of the
+corresponding expansions without perturbations or/and linearization procedures.
+","[{""version"":""v1"",""created"":""Sun, 16 Jun 2002 09:52:59 GMT""},{""version"":""v2"",""created"":""Sat, 22 Jun 2002 13:37:34 GMT""}]","2007-05-23"
+"physics/0206053","Michael Zeitlin","Antonina N. Fedorova, Michael G. Zeitlin","Nonlinear Localized Coherent Spectrum of Beam-Beam Interactions","4 pages, 2 figures, JAC2001.cls, presented at European Particle
+  Accelerator Conference (EPAC02), Paris, June 3-7, 2002; changed from A4 to US
+  format for correct printing",,,,"physics.acc-ph physics.comp-ph physics.plasm-ph",,"  We consider modeling for strong-strong beam-beam interactions beyond
+preceding linearized/perturbative methods such as soft gaussian approximation
+or FMM (HFMM) etc. In our approach discrete coherent modes, discovered before,
+and possible incoherent oscillations appear as a result of
+multiresolution/multiscale fast convergent decomposition in the bases of
+high-localized exact nonlinear modes represented by wavelets or wavelet packets
+functions. The constructed solutions represent the full multiscale spectrum in
+all internal hidden scales from slow to fast oscillating eigenmodes. Underlying
+variational method provides algebraical control of the spectrum.
+","[{""version"":""v1"",""created"":""Sun, 16 Jun 2002 10:11:54 GMT""},{""version"":""v2"",""created"":""Sat, 22 Jun 2002 13:45:46 GMT""}]","2007-05-23"
+"physics/0206054","Michael Zeitlin","Antonina N. Fedorova, Michael G. Zeitlin","Nonlinear Motion in Electromagnetic Fields via Multiscale Expansions","3 pages, presented at GAMM Meeting, February, 2001, ETH, Zurich;
+  changed margins for printing","PAMM, Volume 1, Issue 1, pp. 432-433, Wiley-VCH, 2002",,,"physics.acc-ph physics.comp-ph physics.plasm-ph",,"  The consideration of dynamics of relativistic beams/particles is based on
+variational approach to rational (in dynamical variables) approximation for
+equations of motions. It allows to control contribution from each scale of
+underlying multiscales and represent solutions via exact nonlinear eigenmodes
+expansions. Our approach is based on methods provided possibility to work with
+well-localized bases in phase space and good convergence properties of the
+corresponding expansions.
+","[{""version"":""v1"",""created"":""Sun, 16 Jun 2002 10:34:15 GMT""},{""version"":""v2"",""created"":""Sat, 22 Jun 2002 14:18:11 GMT""}]","2007-05-23"
+"quant-ph/0206101","P. K. Aravind","J.F.Schneiderman, M.E.Stanley and P.K.Aravind","A pseudo-simulation of Shor's quantum factoring algorithm","20 pages, 4 tables, 2 figures",,,,"quant-ph",,"  This paper presents a computer program, written in Maple, that allows a user
+to simulate certain aspects of Shor's quantum factoring algorithm on a desktop
+or laptop computer. The program does not simulate the unitary operations
+carried out by a quantum computer but does faithfully mimic its output at the
+crucial ""readout"" step of the order-finding process. The program reqires only
+two inputs from the user - the number to be factored (which can be up to 10
+digits long) and the number of qubits to be used in the factoring (for which a
+helpful hint is given). The program then returns a detailed history of all its
+attempts at factoring the number, beginning with its various unsuccessful
+attempts and ending with the final successful attempt that leads to the correct
+factors. The structure of the simulation is described, a typical output
+produced by it is shown, and the factors limiting its performance are
+discussed. The purpose of this simulation is to provide the user with some
+""hands-on"" experience of how quantum factoring works on integers somewhat
+larger than can be handled by today's quantum computers.
+","[{""version"":""v1"",""created"":""Sun, 16 Jun 2002 15:09:42 GMT""}]","2007-05-23"

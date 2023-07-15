@@ -1,0 +1,152 @@
+"astro-ph/0208450","Celine Peroux","Celine Peroux (1), Patrick Petitjean (2), Bastien Aracil (2) and R.
+  Srianand (3) ((1) Institute of Astronomy, University of Cambridge, UK, (2)
+  Institut d'Astrophysique de Paris, France, (3) IUCAA, Pune, India)","A new measurement of zinc metallicity in a DLA at z=3.35","15 pages, 5 figures. Accepted",,"10.1016/S1384-1076(02)00179-3",,"astro-ph",,"  We present chemical abundance measurements in the z_abs=3.35045 Damped
+Lyman-alpha (DLA) system observed in the UVES spectrum of the BAL quasar BR
+1117-1329. We measure a neutral hydrogen column density N(HI)=6.9+/-1.7*10^{20}
+atoms/cm2 and derive mean abundances relative to solar: [Si/H] = -1.26+/-0.13,
+[Fe/H]=-1.51+/-0.13, [Ni/H]=-1.57+/-0.13, [Cr/H]=-1.36+/-0.13,
+[Zn/H]=-1.18+/-0.13, [Al/H]>-1.25, [O/H]>-1.25 and [N/H]<-2.24. This is the
+third measurement of Zn, an element mildly depleted onto dust grain, at
+z_abs>3. The iron to zinc and chromium to zinc ratios, [Fe/Zn]=-0.33+/-0.05 and
+[Cr/Zn]=-0.18+/-0.05 demonstrate that the absorber has a low dust content. The
+nitrogen ratio [N/Si]<-0.98 suggests that the ``secondary'' N production
+process is taking place in this DLA. Finally, this absorber does not seem to
+present a convincing alpha-enhancement as shown by the alpha over Fe-peak
+element ratios: [Si/Fe]=0.25+/-0.06, [Si/Cr]=0.10+/-0.06 and
+[Si/Zn]=-0.08+/-0.06.
+","[{""version"":""v1"",""created"":""Sun, 25 Aug 2002 13:45:36 GMT""}]","2009-11-07"
+"cond-mat/0208471","Albert Reiner","Albert Reiner, Gerhard Kahl","The Hierarchical Reference Theory as applied to square well fluids of
+  variable range","15 pages LaTeX/RevTeX, 3 tables, 4 figures. Also see
+  http://purl.oclc.org/NET/a-reiner/sci/texts/20011127-0/","J. Chem. Phys. 117 (2002) 4925-4935","10.1063/1.1483258",,"cond-mat",,"  Continuing our investigation into the numerical properties of the
+Hierarchical Reference Theory, we study the square well fluid of range lambda
+from slightly above unity up to 3.6. After briefly touching upon the core
+condition and the related decoupling assumption necessary for numerical
+calculations, we shed some light on the way an inappropriate choice of the
+boundary condition imposed at high density may adversely affect the numerical
+results; we also discuss the problem of the partial differential equation
+becoming stiff for close-to-critical and sub-critical temperatures. While
+agreement of the theory's predictions with simulational and purely theoretical
+studies of the square well system is generally satisfactory for lambda greater
+than about 2, the combination of stiffness and the closure chosen is found to
+render the critical point numerically inaccessible in the current formulation
+of the theory for most of the systems with narrower wells. The mechanism
+responsible for some deficiencies is illuminated at least partially and allows
+us to conclude that the specific difficulties encountered for square wells are
+not likely to resurface for continuous potentials.
+","[{""version"":""v1"",""created"":""Sun, 25 Aug 2002 14:41:46 GMT""}]","2009-11-07"
+"gr-qc/0208071","L. C. Garcia de Andrade","L.C. Garcia de Andrade (Departamento de Fisica Teorica -UERJ-Brasil)","Spin polarised particles in Goedel world","Latex file",,,,"gr-qc",,"  The motion of classical test spinning particles in Godel universe in the
+realm of Einstein's General Relativity (GR) is investigated by making use of
+Killing conserved currents. We consider three distinct cases of motion of
+spinning particles polarized along the three distinct axes of the anisotropic
+metric. It is shown that in the case the spin is polarised along the
+y-direction the minimum energy of the motion is attained for only for spinless
+particles while the other two directions the minimum energy is obtained for
+spinning particles. The continuos energy spectrum is also computed.
+","[{""version"":""v1"",""created"":""Sun, 25 Aug 2002 04:37:26 GMT""}]","2007-05-23"
+"gr-qc/0208072","Morteza Mohseni","Morteza Mohseni","Spinning particles in gravitational wave spacetime","10 pages, 1 eps fig","Phys.Lett. A301 (2002) 382-388","10.1016/S0375-9601(02)00988-X","IPM/P-2002/033","gr-qc",,"  The dynamics of pseudo-classical spinning particles in spacetime of
+gravitational plane waves of general polarization and harmonic profile is
+studied. The resulting equations of motion are solved exactly and the results
+are compared with those of the other approaches. The relative accelerations of
+nearby particles is also calculated.
+","[{""version"":""v1"",""created"":""Sun, 25 Aug 2002 09:02:24 GMT""}]","2015-06-25"
+"gr-qc/0208073","Gennadi Sardanashvily","G. Sardanashvily","Geometric quantization of relativistic Hamiltonian mechanics","9 pages","Int.J.Theor.Phys. 42 (2003) 697-704",,,"gr-qc math-ph math.MP quant-ph",,"  A relativistic Hamiltonian mechanical system is seen as a conservative Dirac
+constraint system on the cotangent bundle of a pseudo-Riemannian manifold. We
+provide geometric quantization of this cotangent bundle where the quantum
+constraint serves as a relativistic quantum equation.
+","[{""version"":""v1"",""created"":""Sun, 25 Aug 2002 09:27:13 GMT""}]","2007-05-23"
+"hep-lat/0208047","Mushtaq Loan","Mushtaq Loan, Michael Brunner, and Chris Hamer","Static quark potential and string tension for compact U(1) in (2+1)
+  dimensions","40 pages, 11 figures",,,,"hep-lat",,"  Compact U(1) lattice gauge theory in (2+1) dimensions is studied on
+anisotropic lattices using Standard Path Integral Monte Carlo techniques. We
+extract the static quark potential and the string tension from 1.0 <= Dtau <=
+0.333 simulations at 1.0 <= beta <= 3.0. Estimating the actual value of the
+renormalization constant, (c = 44), we observe the evidence of scaling in the
+string tension for 1.4142 <= beta <= 2.5; with the asymptotic behaviour in the
+large-beta limit given by K sqrt(beta) = e^(-2.494 beta +2.29). Extrapolations
+are made to the extreme anisotropic or ""Hamiltonian"" limit, and comparisons are
+made with previous estimates obtained by various other methods in the
+Hamiltonian formulation.
+","[{""version"":""v1"",""created"":""Sun, 25 Aug 2002 07:17:54 GMT""}]","2007-05-23"
+"hep-ph/0208224","Kent Hornbostel","K. Hornbostel, G.P. Lepage and C. Morningstar","Scale setting for alpha_s beyond leading order","39 pages, 15 figures, 5 tables, LaTeX2e","Phys.Rev. D67 (2003) 034023","10.1103/PhysRevD.67.034023","SMUHEP 99-12","hep-ph hep-lat",,"  We present a general procedure for incorporating higher-order information
+into the scale-setting prescription of Brodsky, Lepage and Mackenzie. In
+particular, we show how to apply this prescription when the leading coefficient
+or coefficients in a series in the strong coupling alpha_s are anomalously
+small and the original prescription can give an unphysical scale. We give a
+general method for computing an optimum scale numerically, within dimensional
+regularization, and in cases when the coefficients of a series are known. We
+apply it to the heavy quark mass and energy renormalization in lattice NRQCD,
+and to a variety of known series. Among the latter, we find significant
+corrections to the scales for the ratio of e+e- to hadrons over muons, the
+ratio of the quark pole to MSbar mass, the semi-leptonic B-meson decay width,
+and the top decay width. Scales for the latter two decay widths, expressed in
+terms of MSbar masses, increase by factors of five and thirteen, respectively,
+substantially reducing the size of radiative corrections.
+","[{""version"":""v1"",""created"":""Sat, 24 Aug 2002 21:04:28 GMT""}]","2009-11-07"
+"hep-ph/0208227","Oleg P. Sushkov","A.I. Milstein, O.P. Sushkov, I.S. Terekhov","Radiative corrections and parity nonconservation in heavy atoms","4 pages, 4 figures","Phys.Rev.Lett. 89 (2002) 283003","10.1103/PhysRevLett.89.283003",,"hep-ph nucl-th physics.atom-ph",,"  The self-energy and the vertex radiative corrections to the effect of parity
+nonconservation in heavy atoms are calculated analytically in orders Z alpha^2
+and Z^2 alpha^3 ln(lambda_C/r_0), where lambda_C and r_0 being the Compton
+wavelength and the nuclear radius, respectively. The value of the radiative
+correction is -0.85% for Cs and -1.41% for Tl. Using these results we have
+performed analysis of the experimental data on atomic parity nonconservation.
+The obtained values of the nuclear weak charge,
+Q_W=-72.90(28)_{exp}(35)_{theor} for Cs, and Q_W=-116.7(1.2)_{exp}(3.4)_{theor}
+for Tl, agree with predictions of the standard model. As an application of our
+approach we have also calculated analytically dependence of the Lamb shift on
+the finite nuclear size.
+","[{""version"":""v1"",""created"":""Sun, 25 Aug 2002 11:03:48 GMT""}]","2009-11-07"
+"hep-ph/0208228","Juan Garcia-Bellido","Juan Garcia-Bellido, Margarita Garcia Perez, Antonio Gonzalez-Arroyo","Symmetry Breaking and False Vacuum Decay after Hybrid Inflation","33 pages, 16 figures, LaTeX, uses revtex. Version to be published in
+  Phys. Rev. with minor changes","Phys.Rev. D67 (2003) 103501","10.1103/PhysRevD.67.103501","CERN-TH/2002-156, IFT-UAM/CSIC-02-30","hep-ph hep-lat hep-th",,"  We discuss the onset of symmetry breaking from the false vacuum in generic
+scenarios in which the mass squared of the symmetry breaking (Higgs) field
+depends linearly with time, as it occurs, via the evolution of the inflaton, in
+models of hybrid inflation. We show that the Higgs fluctuations evolve from
+quantum to classical during the initial stages. This justifies the subsequent
+use of real-time lattice simulations to describe the fully non-perturbative and
+non-linear process of symmetry breaking. The early distribution of the Higgs
+field is that of a smooth classical gaussian random field, and consists of
+lumps whose shape and distribution is well understood analytically. The lumps
+grow with time and develop into ``bubbles'' which eventually collide among
+themselves, thus populating the high momentum modes, in their way towards
+thermalization at the true vacuum. With the help of some approximations we are
+able to provide a quasi-analytic understanding of this process.
+","[{""version"":""v1"",""created"":""Sun, 25 Aug 2002 11:58:21 GMT""},{""version"":""v2"",""created"":""Mon, 24 Mar 2003 10:21:57 GMT""},{""version"":""v3"",""created"":""Tue, 25 Mar 2003 16:29:07 GMT""}]","2009-11-07"
+"hep-ph/0208229","Yeo-Yie Charng","Yeo-Yie Charng, Kin-Wang Ng, Chi-Yong Lin, Da-Shin Lee","Photon Production from Nonequilibrium Disoriented Chiral Condensates in
+  a Spherical Expansion","13 pages, 3 figures","Phys.Lett. B548 (2002) 175-188","10.1016/S0370-2693(02)02848-4",,"hep-ph nucl-th",,"  We study the production of photons through the non-equilibrium relaxation of
+a disoriented chiral condensate formed in the expanding hot central region in
+ultra-relativistic heavy-ion collisions. It is found that the expansion
+smoothes out the resonances in the process of parametric amplification such
+that the non-equilibrium photons are dominant to the thermal photons over the
+range 0.2-2 GeV. We propose that to search for non-equilibrium photons in the
+direct photon measurements of heavy-ion collisions can be a potential test of
+the formation of disoriented chiral condensates.
+","[{""version"":""v1"",""created"":""Sun, 25 Aug 2002 14:20:48 GMT""},{""version"":""v2"",""created"":""Fri, 4 Oct 2002 08:26:01 GMT""}]","2009-11-07"
+"hep-th/0208176","poghossian Rubik","R. Flume and R. Poghossian","An Algorithm for the Microscopic Evaluation of the Coefficients of the
+  Seiberg-Witten Prepotential","LaTeX, 23 pages; typos are corrected, determinant formula is
+  simplified","Int.J.Mod.Phys.A18:2541,2003","10.1142/S0217751X03013685",,"hep-th",,"  A procedure, allowing to calculate the coefficients of the SW prepotential in
+the framework of the instanton calculus is presented. As a demonstration
+explicit calculations for 2, 3 and 4- instanton contributions are carried out.
+","[{""version"":""v1"",""created"":""Sun, 25 Aug 2002 05:03:52 GMT""},{""version"":""v2"",""created"":""Sat, 14 Sep 2002 17:59:59 GMT""}]","2014-11-18"
+"hep-th/0208177","Calin Iuliu Lazaroiu","L. Anguelova, C.I. Lazaroiu","Enhanced gauge symmetry from `toric' G_2 cones","12 pages, 3 figures","Fortsch.Phys. 51 (2003) 543-550","10.1002/prop.200310072","YITP-SB-02-46","hep-th",,"  We review our recent work on M-theory compactifications on `toric' G_2 cones,
+a class of models which generalize those recently considered by Acharya and
+Witten and lead to chiral matter in four dimensions. We explain our criteria
+for identifying the gauge group content of such theories and briefly discuss
+the associated metrics.
+","[{""version"":""v1"",""created"":""Sun, 25 Aug 2002 05:30:01 GMT""}]","2009-11-07"
+"math-ph/0208034","Alexander Stoyanovsky","A. V. Stoyanovsky","Analogs of the Hamilton-Jacobi and Schrodinger Equations for
+  Multidimensional Variational Problems of Field Theory","LaTeX, 4 pages; minor changes","in: Trends in Mathematical Physics Research, C. V. Benton ed.,
+  Nova Science Publishers, N.Y., 2004, p.205--208.",,,"math-ph math.MP",,"  Generalizations of the Hamilton-Jacobi and Schrodinger equations for
+multidimensional variational problems of field theory are deduced. These
+generalizations are so-called variational differential equations.
+","[{""version"":""v1"",""created"":""Sun, 25 Aug 2002 15:06:16 GMT""},{""version"":""v2"",""created"":""Wed, 28 Aug 2002 12:49:18 GMT""},{""version"":""v3"",""created"":""Mon, 16 Dec 2002 16:22:06 GMT""},{""version"":""v4"",""created"":""Wed, 21 May 2003 12:34:25 GMT""}]","2009-10-14"
+"quant-ph/0208147","Jose P. Palao","Jose P. Palao and Ronnie Kosloff","Forcing a unitary transformation by an external field: comparing two
+  approaches based on optimal control theory","11 pages, no figures",,,,"quant-ph",,"  A quantum gate is realized by specific unitary transformations operating on
+states representing qubits. Considering a quantum system employed as an element
+in a quantum computing scheme, the task is therefore to enforce the
+pre-specified unitary transformation. This task is carried out by an external
+time dependent field. Optimal control theory has been suggested as a method to
+compute the external field which alters the evolution of the system such that
+it performs the desire unitary transformation. This study compares two recent
+implementations of optimal control theory to find the field that induces a
+quantum gate. The first approach is based on the equation of motion of the
+unitary transformation. The second approach generalizes the state to state
+formulation of optimal control theory. This work highlight the formal relation
+between the two approaches.
+","[{""version"":""v1"",""created"":""Sat, 24 Aug 2002 17:51:53 GMT""}]","2007-05-23"

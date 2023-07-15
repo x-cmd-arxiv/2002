@@ -1,0 +1,332 @@
+"astro-ph/0207150","Ricardo Gonzalez Felipe","R. Gonzalez Felipe, H. J. Mosquera Cuesta, A. Perez Martinez, H. Perez
+  Rojas","Quantum instability of magnetized stellar objects","14 pages, 2 figures, uses ChJAA LaTeX macro; final version to appear
+  in ChJAA","Chin.J.Astron.Astrophys.5:399,2005","10.1088/1009-9271/5/4/007",,"astro-ph",,"  The equations of state for degenerate electron and neutron gases are studied
+in the presence of magnetic fields. After including quantum effects to study
+the structural properties of these systems, it is found that some
+hypermagnetized stars can be unstable based on the criterium of stability of
+pressures. Highly magnetized white dwarfs should collapse producing a supernova
+type Ia, whilst superstrongly magnetized neutron stars cannot stand their own
+magnetic field and must implode, too. A comparison of our results with a set of
+the available observational data of some compact stars is also presented, and
+the agreement between this theory and observations is verified.
+","[{""version"":""v1"",""created"":""Sat, 6 Jul 2002 16:35:49 GMT""},{""version"":""v2"",""created"":""Wed, 21 Apr 2004 09:42:21 GMT""},{""version"":""v3"",""created"":""Thu, 9 Jun 2005 11:08:18 GMT""}]","2009-11-07"
+"astro-ph/0207151","Alex Schekochihin","A.A.Schekochihin (1), S.C.Cowley (1), G.W.Hammett (1,2), J.L.Maron
+  (1), and J.C.McWilliams (3) ((1) Imperial College, London, (2) Princeton
+  Plasma Physics Laboratory, (3) UCLA)","The nonlinear small-scale dynamo and isotropic MHD turbulence","latex, 4 pages","Proc. 29th EPS Conf. on Plasma Phys. and Contr. Fusion Montreux,
+  17-21 June 2002, ECA Vol. 26B, P-4.035 (2002)",,,"astro-ph",,"  This is a brief review of the main results of our recent studies of the
+nonlinear evolution of the small-scale MHD dynamo in the high-Prandtl-number
+regime and of the structure of the resulting saturated state of the isotropic
+homogeneous MHD turbulence. It is emphasized that the MHD regime without a
+uniform mean field (as is the case in our studies) is fundamentally different
+from the one in which such a field is externally imposed. The ability of the
+turbulence to bend and fold the magnetic-field lines leads to the emergence of
+a distinctive small-scale structure. The fields are organized in folds of
+characteristic length comparable to the size of the largest turbulent eddies
+with spatial-direction reversals at the resistive scale. These folds are very
+hard to destroy. In the nonlinear regime, the folding structure coexists with
+Alfven waves propagating along the folds. The turbulent energy injected by the
+forcing is dissipated in part resistively via the small-scale magnetic fields,
+and in part viscously via the Alfven waves.
+","[{""version"":""v1"",""created"":""Sat, 6 Jul 2002 18:03:49 GMT""}]","2007-05-23"
+"astro-ph/0207152","Tony Wong","T. Wong (1) and A. Melatos (2) ((1) CSIRO ATNF, (2) U. of Melbourne)","Millimetre Science with the Upgraded Australia Telescope","10 pages, 4 figures, summary of a workshop held in Melbourne in 2001
+  Nov., to appear in PASA, minor corrections",,"10.1071/AS02015",,"astro-ph",,"  A new astronomical window into the southern skies has been opened with the
+high-frequency upgrade to the Australia Telescope Compact Array (ATCA), which
+allows radio-interferometric mapping of sources at wavelengths as short as 3mm.
+In anticipation of the upgrade's completion, a two-day workshop was held at the
+University of Melbourne in November 2001. The workshop covered a diverse range
+of fields, tied together by a common theme of identifying key areas where ATCA
+observations can have an impact. More than half of the talks were concerned
+with molecular clouds and star formation, with the remainder covering topics
+such as molecular gas in the Galactic Centre, Seyfert nuclei, and high-redshift
+objects. Some early results from the 3mm and 12mm prototype systems were also
+presented. In consultation with the speakers, we are presenting in this article
+a summary of the talks. The original slides are available at
+http://www.atnf.csiro.au/whats_on/workshops/mm_science2001/ .
+","[{""version"":""v1"",""created"":""Sun, 7 Jul 2002 07:41:40 GMT""},{""version"":""v2"",""created"":""Sun, 11 Aug 2002 05:12:30 GMT""}]","2009-11-07"
+"cond-mat/0207171","Sadhan Kumar Adhikari","Sadhan K. Adhikari","Mean-field model of interaction between bright vortex solitons in
+  Bose-Einstein condensates","12 Revtex4 pages with 17 PS figures, Disscussion improved, References
+  added, Evolution of three-dimensional wave function of interacting solitons
+  plotted","New J. Phys. 5 (2003) 137 (1-13)","10.1088/1367-2630/5/1/137",,"cond-mat.soft nlin.PS",,"  Using the explicit numerical solution of the axially-symmetric
+Gross-Pitaevskii equation we study the dynamics of interaction among vortex
+solitons in a rotating matter-wave bright soliton train in a radially trapped
+and axially free Bose-Einstein condensate to understand certain features of the
+experiment by Strecker et al.[2002 Nature 417 150]. In a soliton train,
+solitons of opposite phase (phase delta = pi) repel and stay apart without
+changing shape; solitons with delta = 0 attract, interact and coalesce, but
+eventually come out; solitons with a general delta usually repel but interact
+inelastically by exchanging matter. We study and suggest future experiments
+with vortex solitons.
+","[{""version"":""v1"",""created"":""Sat, 6 Jul 2002 19:59:55 GMT""},{""version"":""v2"",""created"":""Mon, 15 Sep 2003 18:22:02 GMT""}]","2009-11-07"
+"cond-mat/0207180","Des Johnston","B.P. Dolan, D.A. Johnston and R. Kenna","The Information Geometry of the One-Dimensional Potts Model","9 pages + 4 eps figures","J.Phys.A35:9025-9036,2002","10.1088/0305-4470/35/43/303",,"cond-mat.stat-mech hep-lat",,"  In various statistical-mechanical models the introduction of a metric onto
+the space of parameters (e.g. the temperature variable, $\beta$, and the
+external field variable, $h$, in the case of spin models) gives an alternative
+perspective on the phase structure. For the one-dimensional Ising model the
+scalar curvature, ${\cal R}$, of this metric can be calculated explicitly in
+the thermodynamic limit and is found to be ${\cal R} = 1 + \cosh (h) /
+\sqrt{\sinh^2 (h) + \exp (- 4 \beta)}$. This is positive definite and, for
+physical fields and temperatures, diverges only at the zero-temperature,
+zero-field ``critical point'' of the model.
+  In this note we calculate ${\cal R}$ for the one-dimensional $q$-state Potts
+model, finding an expression of the form ${\cal R} = A(q,\beta,h) + B
+(q,\beta,h)/\sqrt{\eta(q,\beta,h)}$, where $\eta(q,\beta,h)$ is the Potts
+analogue of $\sinh^2 (h) + \exp (- 4 \beta)$. This is no longer positive
+definite, but once again it diverges only at the critical point in the space of
+real parameters. We remark, however, that a naive analytic continuation to
+complex field reveals a further divergence in the Ising and Potts curvatures at
+the Lee-Yang edge.
+","[{""version"":""v1"",""created"":""Sat, 6 Jul 2002 18:28:59 GMT""}]","2008-11-26"
+"cond-mat/0207181","Dietrich Stauffer","Christian Schulze","Advertising effects in Sznajd marketing model","5 pages including 3 figs., for IJMPC 14, No.1",,"10.1142/S0129183103004255",,"cond-mat.stat-mech q-fin.GN",,"  The traditional Sznajd model, as well as its Ochrombel simplification for
+opinion spreading, are applied to marketing with the help of advertising. The
+larger the lattice is the smaller is the amount of advertising needed to
+convince the whole market
+","[{""version"":""v1"",""created"":""Sat, 6 Jul 2002 19:17:03 GMT""}]","2009-11-07"
+"cond-mat/0207182","Dmitry Guschin","S.Avdonin, N.Bagraev, A.Mikhailova, B.Pavlov","Resonance Quantum Gate","14 pages",,,,"cond-mat",,"  Simplest models of two- and three-terminal Quantum Quantum Gates are
+suggested in form of a quantum ring with few one-dimensional quantum wires
+attached to it and several point-wise govering electrodes inside the ring which
+are charged by a single hole. In resonance case, when the Fermi level in the
+wires coincides with the resonance energy level on the ring the geometry of the
+device may be chosen such that the quantum current through the switch from
+up-leading wire to the outgoing wires may be controlled via re-directing of the
+hole from one govering electrode to another one. The working parameters of the
+gate are defined in dependence of the desired working temperature, the Fermi
+level and the effective mass of the electron in the wires.
+","[{""version"":""v1"",""created"":""Sat, 6 Jul 2002 22:20:16 GMT""}]","2007-05-23"
+"cond-mat/0207183","Alexander Govorov","A. O. Govorov, S. E. Ulloa, K. Karrai, R. J. Warburton","Polarized excitons in nanorings and the `optical' Aharonov-Bohm effect","6 pages, 3 figures; Phys.Rev.B RC (accepted); e-mail:
+  govorov@ohio.edu",,"10.1103/PhysRevB.66.081309",,"cond-mat.mes-hall",,"  The quantum nature of matter lies in the wave function phases that accumulate
+while particles move along their trajectories. A prominent example is the
+Aharonov-Bohm phase, which has been studied in connection with the conductance
+of nanostructures. However, optical response in solids is determined by neutral
+excitations, for which no sensitivity to magnetic flux would be expected. We
+propose a new mechanism for the topological phase of a neutral particle, a
+polarized exciton confined to a semiconductor quantum ring. We predict that
+this magnetic-field induced phase may strongly affect excitons in a system with
+cylindrical symmetry, resulting in switching between `bright' exciton ground
+states and novel `dark' states with nearly infinite lifetimes. Since excitons
+determine the optical response of semiconductors, the predicted phase can be
+used to tailor photon emission from quantum nanostructures.
+","[{""version"":""v1"",""created"":""Sat, 6 Jul 2002 22:26:19 GMT""},{""version"":""v2"",""created"":""Fri, 12 Jul 2002 11:16:48 GMT""}]","2016-08-31"
+"cond-mat/0207184","Hui Zhao","Hui Zhao, Sebastian Moehl, and Heinz Kalt","Coherence Length of Excitons in a Semiconductor Quantum Well","4 Pages, 4 figures","Phys. Rev. Lett. 89, 097401 (2002)","10.1103/PhysRevLett.89.097401",,"cond-mat.str-el cond-mat.mes-hall",,"  We report on the first experimental determination of the coherence length of
+excitons in semiconductors using the combination of spatially resolved
+photoluminescence with phonon sideband spectroscopy. The coherence length of
+excitons in ZnSe quantum wells is determined to be 300 ~ 400 nm, about 25 ~ 30
+times the exciton de Broglie wavelength. With increasing exciton kinetic
+energy, the coherence length decreases slowly. The discrepancy between the
+coherence lengths measured and calculated by only considering the acoustic
+phonon scattering suggests an important influence of static disorder.
+","[{""version"":""v1"",""created"":""Sun, 7 Jul 2002 08:17:49 GMT""},{""version"":""v2"",""created"":""Mon, 12 Aug 2002 16:28:23 GMT""}]","2009-11-07"
+"cond-mat/0207185","Kfir Haggai","H. Kfir and I. Kanter","Parallel versus sequential updating for Belief Propagation decoding","15 pages, 3 figures, submitted to Phys. Rev. E june 2002",,"10.1016/j.physa.2003.08.015",,"cond-mat.stat-mech",,"  sequential updating scheme (SUS) for the belief propagation algorithm is
+proposed, and is compared with the parallel (regular) updating scheme (PUS).
+Simulation results on various codes indicate that the number of iterations of
+the belief algorithm for the SUS is about one half of the required iterations
+for the PUS, where both decoding algorithms have the same error correction
+properties. The complexity per iteration for both schemes is similar, resulting
+in a lower total complexity for the SUS. The explanation of this effect is
+related to the inter-iteration information sharing, which is a property of only
+the SUS, and which increases the ""correction gain"" per iteration
+","[{""version"":""v1"",""created"":""Sun, 7 Jul 2002 13:09:19 GMT""}]","2015-06-24"
+"cond-mat/0207186","Nejat Bulut","N. Bulut","d_{x^2-y^2}-wave superconductivity and the Hubbard model","85 pages, 63 figures, to appear in Advances in Physics, vol. 51, no.
+  6 (2002)",,"10.1080/00018730210155142",,"cond-mat.supr-con cond-mat.str-el",,"  The numerical studies of d_{x^2-y^2}-wave pairing in the two-dimensional (2D)
+and the 2-leg Hubbard models are reviewed. For this purpose, the results
+obtained from the determinantal Quantum Monte Carlo and the density-matrix
+renormalization-group calculations are presented. These are calculations which
+were motivated by the discovery of the high-T_c cuprates. In this review, the
+emphasis is placed on the microscopic many-body processes which are responsible
+for the d_{x^2-y^2}-wave pairing correlations observed in the 2D and the 2-leg
+Hubbard models. In order to gain insight into these processes, the results on
+the effective pairing interaction as well as the magnetic, density and the
+single-particle excitations will be reviewed. In addition, comparisons will be
+made with the other numerical approaches to the Hubbard model and the numerical
+results on the t-J model. The results reviewed here indicate that an effective
+pairing interaction which is repulsive at (pi,pi) momentum transfer and
+enhanced single-particle spectral weight near the (pi,0) and (0,pi) points of
+the Brillouin zone create optimum conditions for d_{x^2-y^2}-wave pairing.
+These are two effects which act to enhance the d_{x^2-y^2}-wave pairing
+correlations in the Hubbard model. Finding additional ways is an active
+research problem.
+","[{""version"":""v1"",""created"":""Sun, 7 Jul 2002 15:00:35 GMT""}]","2015-06-24"
+"cond-mat/0207187","Parruccini Pietro","P. Calabrese, E. V. Orlov, P. Parruccini, and A. I. Sokolov","Chiral critical behavior in two dimensions from five-loop
+  renormalization-group expansions","17 pages, 12 figures","Phys.Rev. B67 (2003) 024413","10.1103/PhysRevB.67.024413",,"cond-mat.stat-mech hep-lat",,"  We analyse the critical behavior of two-dimensional N-vector spin systems
+with noncollinear order within the five-loop renormalization-group
+approximation. The structure of the RG flow is studied for different N leading
+to the conclusion that the chiral fixed point governing the critical behavior
+of physical systems with N = 2 and N = 3 does not coincide with that given by
+the 1/N expansion. We show that the stable chiral fixed point for $N \le N^*$,
+including N = 2 and N = 3, turns out to be a focus. We give a complete
+characterization of the critical behavior controlled by this fixed point, also
+evaluating the subleading crossover exponents. The spiral-like approach of the
+chiral fixed point is argued to give rise to unusual crossover and
+near-critical regimes that may imitate varying critical exponents seen in
+numerous physical and computer experiments.
+","[{""version"":""v1"",""created"":""Sun, 7 Jul 2002 15:06:44 GMT""},{""version"":""v2"",""created"":""Tue, 28 Jan 2003 14:11:23 GMT""}]","2009-11-07"
+"cond-mat/0207188","Dibyendu Das","Dibyendu Das (1), Jan\'e Kondev (1) and Bulbul Chakraborty (1) ((1)
+  Martin Fisher School of Physics, Brandeis University, Waltham, Massachusetts,
+  USA)","Trap dominated dynamics of classical dimer models","5 pages, 3 postscript figures",,,,"cond-mat.stat-mech",,"  We consider dynamics of classical dimer models undergoing a phase transition
+to an ordered, frozen state. Relaxation processes are dominated by traps which
+are entropic in origin and can be traced to the locally jammed nature of the
+dimer states. Depending on the nature of the phase transition, critical
+dynamics are characterized either by an exponential, or sub-exponential in time
+relaxation of the order parameter. In the latter case relaxation time scales
+diverge {\em exponentially} as the critical point is approached, following the
+Vogel-Fulcher law.
+","[{""version"":""v1"",""created"":""Sun, 7 Jul 2002 15:33:07 GMT""}]","2007-05-23"
+"cs/0207021","Piero A. Bonatti","Piero A. Bonatti","Abduction, ASP and Open Logic Programs","7 pages, NMR'02 Workshop",,,,"cs.AI",,"  Open logic programs and open entailment have been recently proposed as an
+abstract framework for the verification of incomplete specifications based upon
+normal logic programs and the stable model semantics. There are obvious
+analogies between open predicates and abducible predicates. However, despite
+superficial similarities, there are features of open programs that have no
+immediate counterpart in the framework of abduction and viceversa. Similarly,
+open programs cannot be immediately simulated with answer set programming
+(ASP). In this paper we start a thorough investigation of the relationships
+between open inference, abduction and ASP. We shall prove that open programs
+generalize the other two frameworks. The generalized framework suggests
+interesting extensions of abduction under the generalized stable model
+semantics. In some cases, we will be able to reduce open inference to abduction
+and ASP, thereby estimating its computational complexity. At the same time, the
+aforementioned reduction opens the way to new applications of abduction and
+ASP.
+","[{""version"":""v1"",""created"":""Sun, 7 Jul 2002 09:55:00 GMT""}]","2007-05-23"
+"cs/0207022","Mehdi Dastani","Mehdi Dastani and Leendert van der Torre","What is a Joint Goal? Games with Beliefs and Defeasible Desires","8 pages","Proceedings of NMR02, Toulouse, 2002",,,"cs.MA cs.GT",,"  In this paper we introduce a qualitative decision and game theory based on
+belief (B) and desire (D) rules. We show that a group of agents acts as if it
+is maximizing achieved joint goals.
+","[{""version"":""v1"",""created"":""Sun, 7 Jul 2002 11:26:42 GMT""}]","2007-05-23"
+"gr-qc/0207034","L. C. Garcia de Andrade","L.C.Garcia de Andrade","Energy spectra of spinning particles around spinning strings in
+  Einstein-Cartan gravity","Latex file",,,,"gr-qc",,"  Riemannian Killing conserved currents are used to find the energy spectra of
+classical spinning particles moving around a spinning string in Einstein-Cartan
+(EC) theory of gravity. It is shown that a continuos spectrum is obtained for
+planar open orbits the energy shift between the upper and lower bounds obtained
+for circular planar orbits. A spin-spin effect between the spin of the test
+particle and the spin of the spinning string contributes to the energy spectrum
+splitting.
+","[{""version"":""v1"",""created"":""Sun, 7 Jul 2002 05:30:03 GMT""},{""version"":""v2"",""created"":""Thu, 11 Jul 2002 08:49:41 GMT""}]","2007-05-23"
+"hep-ph/0207098","Daniel Arndt","Daniel Arndt and Patrick J. Fox","Saxion Emission from SN1987A","18 pages, 2 figures; minor changes, typos corrected, version to
+  appear in JHEP","JHEP 0302:036,2003","10.1088/1126-6708/2003/02/036","UW-PT-02-11, NT@UW-02-0014","hep-ph astro-ph nucl-th",,"  We study the possibility of emission of the saxion, a superpartner of the
+axion, from SN1987A. The fact that the observed neutrino pulse from SN1987A is
+in excellent agreement with the current theory of supernovae places a strong
+bound on the energy loss into any non-standard model channel, therefore
+enabling bounds to be placed on the decay constant, f_a, of a light saxion. The
+low-energy coupling of the saxion, which couples at high energies to the QCD
+gauge field strength, is expected to be enhanced from QCD scaling, making it
+interesting to investigate if the saxion could place stronger bounds on f_a
+than the axion itself. Moreover, since the properties of the saxion are
+determined by f_a, a constraint on this parameter can be translated into a
+constraint on the supersymmetry breaking scale. We find that the bound on f_a
+from saxion emission is comparable with the one derived from axion emission due
+to a cancellation of leading-order terms in the soft-radiation expansion.
+","[{""version"":""v1"",""created"":""Sun, 7 Jul 2002 03:15:23 GMT""},{""version"":""v2"",""created"":""Sat, 22 Feb 2003 01:41:03 GMT""}]","2014-11-17"
+"hep-ph/0207099","Erik Bartos","A. Ahmedov, E. N. Antonov, E. Bartos, E. A. Kuraev, E. Zemlyanaya","Single-spin asymmetry in pion production in polarized proton-proton
+  collisions and odderon","LaTeX2e, 12 pages, 3 eps figures","J.Phys.G23:521-529,2003; J.Phys.G29:521-530,2003","10.1088/0954-3899/29/3/306",,"hep-ph",,"  Single-spin asymmetry appears due to the interference of single and double
+gluon exchange between protons. A heavy fermion model is used to describe the
+jet production in the interaction of gluon with the proton implying the further
+averaging over its mass. As usually in one-spin correlations, the imaginary
+part of the double gluon exchange amplitude play the relevant role. The
+asymmetry in the inclusive set-up with the pion tagged in the fragmentation
+region of the polarized proton does not depend on the center of mass energy in
+the limits of its large values. The lowest order radiative corrections to the
+polarized and unpolarized contributions to the differential cross sections are
+calculated in the leading logarithmical approximation. In general, a
+coefficient at logarithm of the ratio of cms energy to the pion mass depends on
+transversal momentum of the pion. This ratio of the lowest order contribution
+to the asymmetry may be interpreted as the partial contribution to the odderon
+intercept. The ratio of the relevant contributions in the unpolarized case can
+be associated with the partial contribution to the pomeron intercept. The
+numerical results given for the model describe the jet as a heavy fermion decay
+fragments.
+","[{""version"":""v1"",""created"":""Sun, 7 Jul 2002 06:13:07 GMT""}]","2008-11-26"
+"hep-ph/0207100","Krzysztof Urbanowski","K. Urbanowski","Need the masses of unstable particles and their antiparticles be equal
+  in the CPT--invariant system?","LaTex2e, New comments and references added, 21 pages","Mod.Phys.Lett.A19:481-496,2004","10.1142/S0217732304013271",,"hep-ph astro-ph hep-th",,"  We show that the real parts of diagonal matrix elements of the exact
+effective Hamiltonian governing the time evolution in the subspace of states of
+neutral kaons and similar particles can not be equal for $t > t_{0}$ ($t_{0}$
+is the instant of creation of the pair $K_{0}, {\bar{K}}_{0}$) when the total
+system under consideration is CPT invariant but CP noninvariant. The unusual
+consequence of this result is that, contrary to the properties of stable
+particles, the masses of the unstable particle, e.g.. $K_{0}$, and its
+antiparticle, ${\bar{K}}_{0}$, need not be equal for $t \gg t_{0}$ in the case
+of preserved CPT and violated CP symmetries.
+","[{""version"":""v1"",""created"":""Sun, 7 Jul 2002 09:01:43 GMT""},{""version"":""v2"",""created"":""Fri, 31 Jan 2003 09:21:00 GMT""},{""version"":""v3"",""created"":""Wed, 28 May 2003 16:33:03 GMT""}]","2014-11-17"
+"hep-ph/0207101",,"Andrzej J. Buras, Fabrizio Parodi, Achille Stocchi","The CKM Matrix and The Unitarity Triangle: Another Look","""published version. few typos corrected, results unchanged""","JHEP 0301:029,2003","10.1088/1126-6708/2003/01/029","TUM-HEP-465/02, LAL 02-39","hep-ph",,"  The unitarity triangle can be determined by means of two measurements of its
+sides or angles. Assuming the same relative errors on the angles
+$(\alpha,\beta,\gamma)$ and the sides $(R_b,R_t)$, we find that the pairs
+$(\gamma,\beta)$ and $(\gamma,R_b)$ are most efficient in determining
+$(\bar\varrho,\bar\eta)$ that describe the apex of the unitarity triangle. They
+are followed by $(\alpha,\beta)$, $(\alpha,R_b)$, $(R_t,\beta)$, $(R_t,R_b)$
+and $(R_b,\beta)$. As the set $\vus$, $\vcb$, $R_t$ and $\beta$ appears to be
+the best candidate for the fundamental set of flavour violating parameters in
+the coming years, we show various constraints on the CKM matrix in the
+$(R_t,\beta)$ plane. Using the best available input we determine the universal
+unitarity triangle for models with minimal flavour violation (MFV) and compare
+it with the one in the Standard Model. We present allowed ranges for $\sin
+2\beta$, $\sin 2\alpha$, $\gamma$, $R_b$, $R_t$ and $\Delta M_s$ within the
+Standard Model and MFV models. We also update the allowed range for the
+function $F_{tt}$ that parametrizes various MFV-models.
+","[{""version"":""v1"",""created"":""Sun, 7 Jul 2002 11:35:29 GMT""},{""version"":""v2"",""created"":""Wed, 23 Oct 2002 08:17:46 GMT""},{""version"":""v3"",""created"":""Thu, 14 Nov 2002 14:12:20 GMT""},{""version"":""v4"",""created"":""Mon, 9 Dec 2002 07:49:42 GMT""}]","2010-11-23"
+"hep-th/0207059","Maharana","Jnanadeva Maharana","Novel Symmetries in Axion-Dilaton Cosmology","4 pages, RevTex, no figures","Phys.Lett. B549 (2002) 7-12","10.1016/S0370-2693(02)02867-8",,"hep-th astro-ph gr-qc",,"  The symmetry structure of axion-dilaton quantum string cosmology is
+investigated. The invariance of the string effective action under S-duality
+group, SU(1,1), facilitates solution of Wheeler-De Witt equation from group
+theoretic considerations; revealing existence of a new class of wave functions.
+We discover the an underlying ${W}$-infinity algebra in this formulation.
+","[{""version"":""v1"",""created"":""Sun, 7 Jul 2002 13:42:00 GMT""}]","2009-11-07"
+"math-ph/0207011",,"Shigeki Matsutani and Yoshihiro \^Onishi","Wave-Particle Complementarity and Reciprocity of Gauss Sums on Talbot
+  Effects","AMS-TeX, 14 pages",,,,"math-ph math.MP math.NT",,"  Berry and Klein (J. Mod. Opt. (1997) 43 2139-2164) showed that the Talbot
+effects in classical optics are naturally explained by Gauss sums studied in
+number theory. Their result was based on Helmholtz equation. In this article,
+we explain the effect based on Fresnel integral also by Gauss sums. These two
+explanations are shown to agree with by the reciprocity law of Gauss sums. The
+relation between this agreement and the wave-particle complementarity is also
+discussed.
+","[{""version"":""v1"",""created"":""Sun, 7 Jul 2002 03:05:49 GMT""}]","2007-05-23"
+"math/0207063","Tsemo Aristide Raoul","A. Tsemo","Closed similarity lorentzian affine manifolds","9 pages, 12 references",,,,"math.DG",,"  A Sim(n-1,1) affine manifold is an affine manifold whose linear holonomy is
+contained in the similarity lorentzian group but not in the lorentzian group.
+The class of similarity lorentzian affine manifolds is a small part in the nice
+class of conformally lorentzian flat manifolds. In this paper we show that a
+compact Sim(n-1,1) affine manifold is incomplete. We characterize the universal
+cover of radiant compact Sim(n-1,1) affine manifolds whose developing map is
+injective. Let q be the quadratic form which define the Sim(n-1,1) structure,
+using riemannian foliation theory, we classify compact radiant Sim(n-1,1)
+affine manifolds M such that D(M') the image of the universal cover M' of M by
+the developing map D is contained in the upper cone defined q
+","[{""version"":""v1"",""created"":""Sat, 6 Jul 2002 19:31:47 GMT""}]","2007-05-23"
+"math/0207064","Raul Curto","Raul E. Curto and Young Min Han","Weyl's theorem, a-Weyl's theorem, and local spectral theory","23 pages","J. London Math. Soc. (2) 67(2003), 499-509",,,"math.FA math.SP",,"  We give necessary and sufficient conditions for a Banach space operator with
+the single valued extension property (SVEP) to satisfy Weyl's theorem and
+$a$-Weyl's theorem. We show that if $T$ or $T^{\ast}$ has SVEP and $T$ is
+transaloid, then Weyl's theorem holds for $f(T)$ for every $f\in H(\sigma
+(T))$. When $T^{\ast}$ has SVEP, $T$ is transaloid and $T$ is $a$-isoloid, then
+$a$-Weyl's theorem holds for $f(T)$ for every $f\in H(\sigma (T))$. We also
+prove that if $T$ or $T^{\ast}$ has SVEP, then the spectral mapping theorem
+holds for the Weyl spectrum and for the essential approximate point spectrum.
+","[{""version"":""v1"",""created"":""Sat, 6 Jul 2002 19:26:11 GMT""}]","2007-05-23"
+"math/0207065","Raul Curto","Raul E. Curto and Lawrence A. Fialkow","A duality proof of Tchakaloff's theorem","16 pages","J. Math. Anal. Appl. 269(2002), 519-532",,,"math.FA",,"  Tchakaloff's Theorem establishes the existence of a quadrature rule of
+prescribed degree relative to a positive, compactly supported measure that is
+absolutely continuous with respect to Lebesgue measure on $\mathbb{R}^{d}$.
+Subsequent extensions were obtained by Mysovskikh and by Putinar. We provide
+new proofs and partial extensions of these results, based on duality techniques
+utilized by Stochel. We also obtain new uniqueness criteria in the Truncated
+Complex Moment Problem.
+","[{""version"":""v1"",""created"":""Sat, 6 Jul 2002 19:54:43 GMT""}]","2007-05-23"
+"math/0207066","Raul Curto","Raul E. Curto and Sang Soo Park","k-hyponormality of powers of weighted shifts via Schur products","9 pages","Proc. Amer. Math. Soc. 131(2003), 2761-2769",,,"math.FA",,"  We characterize $k$-hyponormality and quadratic hyponormality of powers of
+weighted shifts using Schur product techniques.
+","[{""version"":""v1"",""created"":""Sat, 6 Jul 2002 20:26:27 GMT""}]","2007-05-23"
+"math/0207067","Herbert Gangl","Philippe Elbaz-Vincent, Herbert Gangl, Christophe Soule","Quelques calculs de la cohomologie de GL_N(Z) et de la K-theorie de Z","5 pages (French)",,,,"math.KT math.AT math.NT",,"  For N=5 and N=6, we compute the Voronoi cell complex attached to real
+N-dimensional quadratic forms, and we obtain the homology of GL_N(Z) with
+trivial coefficients, up to small primes.
+  We also prove that K_5(Z) = Z and K_6(Z) has only 3-torsion.
+","[{""version"":""v1"",""created"":""Sat, 6 Jul 2002 21:44:04 GMT""}]","2007-05-23"
+"nlin/0207013","Ismagil Habibullin","I.T.Habibullin","Integrable initial boundary value problems","Latex file, The talk on the International Conference: Nonlinear
+  Physics: Theory and Experiment, II Gallipoli, Lecce, (Italy) June 27-July 6,
+  2002",,,,"nlin.SI","http://arxiv.org/licenses/nonexclusive-distrib/1.0/","  The problem of searching boundary value problems for soliton equations
+consistent with the integrability property is discussed. A method of describing
+integrals of motion for the integrable initial boundary value problems for the
+Kadomtsev-Petviashvili equation is suggested via Green identity.
+","[{""version"":""v1"",""created"":""Sun, 7 Jul 2002 15:37:58 GMT""},{""version"":""v2"",""created"":""Wed, 30 May 2012 09:39:40 GMT""}]","2012-05-31"
+"quant-ph/0207037","Shi-Liang Zhu","Shi-Liang Zhu and Z.D. Wang","Implementation of universal quantum gates based on nonadiabatic
+  geometric phases","5 pages, 2 figures; the version published in Phys. Rev. Lett","Phys. Rev. Lett. 89, 097902 (2002)","10.1103/PhysRevLett.89.097902",,"quant-ph",,"  We propose an experimentally feasible scheme to achieve quantum computation
+based on nonadiabatic geometric phase shifts, in which a cyclic geometric phase
+is used to realize a set of universal quantum gates. Physical implementation of
+this set of gates is designed for Josephson junctions and for NMR systems.
+Interestingly, we find that the nonadiabatic phase shift may be independent of
+the operation time under appropriate controllable conditions. A remarkable
+feature of the present nonadiabatic geometric gates is that there is no
+intrinsic limitation on the operation time, unlike adiabatic geometric gates.
+Besides fundamental interest, our results may simplify the implementation of
+geometric quantum computation based on solid state systems, where the
+decoherence time may be very short.
+","[{""version"":""v1"",""created"":""Sun, 7 Jul 2002 12:17:54 GMT""},{""version"":""v2"",""created"":""Thu, 8 Aug 2002 02:49:26 GMT""}]","2009-11-07"

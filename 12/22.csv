@@ -1,0 +1,328 @@
+"cond-mat/0212547","Douglas J. Durian","P. K. Dixon and D. J. Durian","Speckle visibility spectroscopy and variable granular fluidization","4 pages, 4 figures, experiment","Phys. Rev. Lett. 90, 184302 (2003)","10.1103/PhysRevLett.90.184302",,"cond-mat.soft",,"  We introduce a dynamic light scattering technique capable of resolving motion
+that changes systematically, and rapidly, with time. It is based on the
+visibility of a speckle pattern for a given exposure duration. Applying this to
+a vibrated layer of glass beads, we measure the granular temperature and its
+variation with phase in the oscillation cycle. We observe several transitions
+involving jammed states, where the grains are at rest during some portion of
+the cycle. We also observe a two-step decay of the temperature on approach to
+jamming.
+","[{""version"":""v1"",""created"":""Sat, 21 Dec 2002 23:51:14 GMT""}]","2007-05-23"
+"cond-mat/0212548","Michael Dennin","Ethan Pratt and Michael Dennin","Nonlinear Stress Fluctuation Dynamics of Sheared Disordered Wet Foam","accepted to Physical Review E","Phy. Rev. E v. 67 p. 051402 (2003)","10.1103/PhysRevE.67.051402",,"cond-mat.soft cond-mat.stat-mech",,"  Sheared wet foam, which stores elastic energy in bubble deformations, relaxes
+stress through bubble rearrangements. The intermittency of bubble
+rearrangements in foam leads to effectively stochastic drops in stress that are
+followed by periods of elastic increase. We investigate global characteristics
+of highly disordered foams over three decades of strain rate and almost two
+decades of system size. We characterize the behavior using a range of measures:
+average stress, distribution of stress drops, rate of stress drops, and a
+normalized fluctuation intensity. There is essentially no dependence on system
+size. As a function of strain rate, there is a change in behavior around shear
+rates of $0.07 {\rm s^{-1}}$.
+","[{""version"":""v1"",""created"":""Sun, 22 Dec 2002 00:43:48 GMT""},{""version"":""v2"",""created"":""Tue, 18 Mar 2003 21:01:35 GMT""}]","2009-11-07"
+"cond-mat/0212549",,"I.G.Lang, L.I. Korovin, J.A.de la Cruz Alcaz and S.T.Pavlov","The Quantum Theory of Conductivity of Spatially - Heterogeneous Systems","18 pages, JETP, accepted for publication",,"10.1134/1.1560399","LPI/cond-mat/19101935-01","cond-mat.mes-hall",,"  The quantum theory of conductivity of semiconductor objects, to which the
+quantum wells, wires and dots concern, is constructed. Average values of
+current and charge densities, induced by a weak electromagnetic field, are
+calculated. It is shown, that in both cases average current and charge
+densities contain two contributions, first of which is expressed through
+electric field, and second - through a spatial derivative of electric field.
+Appropriate expressions for the conductivity tensor, dependent on coordinates
+and applicable to any spatially-heterogeneous systems, are deduced. The results
+may be used in the theory of secondary light radiation from low-dimensional
+objects in cases of monochromatic light and light pulses.
+","[{""version"":""v1"",""created"":""Sun, 22 Dec 2002 01:49:31 GMT""}]","2009-11-07"
+"cond-mat/0212550","Tribikram Gupta","Tribikram Gupta, D. M. Gaitonde","Ultrasonic Attenuation in the Vortex State of d-wave Superconductors","10 pages, RevTeX, submitted to Physica C",,"10.1016/S0921-4534(03)00807-4",,"cond-mat.supr-con cond-mat.str-el",,"  We calculate the low temperature quasi-particle contribution to the
+ultrasonic attenuation rate in the mixed state of d-wave superconductors. Our
+calculation is performed within the semi-classical approximation using
+quasi-particle energies that are Doppler shifted, with respect to their values
+in the Meissner phase, by the supercurrent associated with the vortices. We
+find that the attenuation at low temperatures and at fields $ H_{c1} \leq H \ll
+H_{c2}$ has a temperature independent contribution which is proportional to
+$\surd H$ where $H$ is the applied magnetic field. We indicate how our result
+in combination with the zero-field result for ultrasonic attenuation can be
+used to calculate one of the parameters $v_F$, $H_{c2}$ or $\xi$ given the
+values for any two of them.
+","[{""version"":""v1"",""created"":""Sun, 22 Dec 2002 06:33:32 GMT""}]","2009-11-07"
+"cond-mat/0212551","Matteo Palassini","Matteo Palassini, Frauke Liers, Michael Juenger, A. P. Young","Low Energy Excitations in Spin Glasses from Exact Ground States","18 Revtex pages, 16 eps figures. Text significantly expanded with
+  more discussion of the numerical data. Fig.11 added","Phys. Rev. B 68, 064413 (2003)","10.1103/PhysRevB.68.064413",,"cond-mat.dis-nn cond-mat.stat-mech",,"  We investigate the nature of the low-energy, large-scale excitations in the
+three-dimensional Edwards-Anderson Ising spin glass with Gaussian couplings and
+free boundary conditions, by studying the response of the ground state to a
+coupling-dependent perturbation introduced previously. The ground states are
+determined exactly for system sizes up to 12^3 spins using a branch and cut
+algorithm. The data are consistent with a picture where the surface of the
+excitations is not space-filling, such as the droplet or the ``TNT'' picture,
+with only minimal corrections to scaling. When allowing for very large
+corrections to scaling, the data are also consistent with a picture with
+space-filling surfaces, such as replica symmetry breaking. The energy of the
+excitations scales with their size with a small exponent \theta', which is
+compatible with zero if we allow moderate corrections to scaling. We compare
+the results with data for periodic boundary conditions obtained with a genetic
+algorithm, and discuss the effects of different boundary conditions on
+corrections to scaling. Finally, we analyze the performance of our branch and
+cut algorithm, finding that it is correlated with the existence of
+large-scale,low-energy excitations.
+","[{""version"":""v1"",""created"":""Sun, 22 Dec 2002 08:42:29 GMT""},{""version"":""v2"",""created"":""Thu, 1 May 2003 15:21:08 GMT""}]","2009-11-07"
+"cond-mat/0212552","Keshav N. Shrivastava","Keshav N. Shrivastava","Fractional charge in quantum Hall effect","6 pages TeX",,,,"cond-mat.mes-hall cond-mat.stat-mech",,"  In 1976 Jackiw and Rebbi found 1/2 of a fermion number by using Dirac
+equation in 1+1 dimensions. Schrieffer in several proposals made an effort to
+suggest that there is a fractional charge. The calculations of Peierls
+distortion, Berry's phase and classical action were presented to accomodate the
+fractional charge in non-relativistic theory. Laughlin used the antisymmetry to
+define the charge density per unit area in a two dimensional system. In order
+to elliminate the area, Laughlin introduced the incompressibility which fixed
+the area so that the odd number, which determines the antisymmetry of the
+electron wave function, gave the charge. We have used the orbital angular
+momentum and the spin to define the charge, in full agreement with the quantum
+Hall effect data.
+","[{""version"":""v1"",""created"":""Sun, 22 Dec 2002 10:58:04 GMT""}]","2007-05-23"
+"cond-mat/0212553","Jai Sam Kim","S.E. Kulkova, V.E. Egorushkin, J.S. Kim, G. Lee and Y.M. Koo","Changes in the surface electronic structure upon martensitic
+  transformation in TiNi and TiPd","10 pages, 4 figures",,,,"cond-mat",,"  The electronic structure of some low index surfaces for martensitic B19'-TiNi
+and B19-TiPd were investigated using the full-potential linearized augmented
+plane wave method. The alteration of the electronic structure upon martensitic
+transformation on the surface were analyzed. According to the surface
+calculations only insignificant changes in the electronic structure near the
+Fermi level were found as for bulk ground state. The formation of oxides top
+layers is also discussed. It is shown that the influence of TiNi substrate is
+insignificant when three oxides layers are formed.
+","[{""version"":""v1"",""created"":""Sun, 22 Dec 2002 11:19:26 GMT""}]","2007-05-23"
+"cs/0212050","Joseph O'Rourke","Erik D. Demaine and Joseph O'Rourke","Open Problems from CCCG 2002","10 problems, 4 pages. Minor updates in 2nd version. To appear in the
+  Proceedings of the Canadian Computational Geometry Conference, August 2003",,,,"cs.CG cs.DM",,"  A list of the problems presented on August 12, 2002 at the open-problem
+session of the 14th Canadian Conference on Computational Geometry held in
+Lethbridge, Alberta, Canada.
+","[{""version"":""v1"",""created"":""Sun, 22 Dec 2002 03:15:56 GMT""},{""version"":""v2"",""created"":""Sat, 21 Jun 2003 19:53:00 GMT""}]","2007-05-23"
+"hep-ex/0212057","Alan J. Schwartz","A. J. Schwartz","Evidence for Light Scalar Resonances in Charm Meson Decays from Fermilab
+  E791","References added. Contribution to 5th International Conference on
+  Quark Confinement and the Hadron Spectrum, Gargnano, Italy, 10-14 Sep 2002",,"10.1142/9789812704269_0094","UCTP-108-02, FERMILAB-Conf-02/345-E","hep-ex",,"  From Dalitz-plot analyses of $D^+\to\pi^-\pi^+\pi^+$ and $D^+\to
+K^-\pi^+\pi^+$ decays, we find evidence for light and broad scalar resonances
+sigma(500) and kappa(800). From a Dalitz-plot analysis of
+$D^+_s\to\pi^-\pi^+\pi^+$ decays, we measure the masses and decay widths of the
+scalar resonances f_0(980) and f_0(1370).
+","[{""version"":""v1"",""created"":""Sat, 21 Dec 2002 16:30:00 GMT""},{""version"":""v2"",""created"":""Tue, 7 Jan 2003 20:56:18 GMT""},{""version"":""v3"",""created"":""Tue, 7 Jan 2003 21:02:05 GMT""}]","2017-08-23"
+"hep-ph/0212327","Chris Bowdery","C.K. Bowdery","Higgs Physics with a Universal Higgs-Fermion Coupling","5 pages",,,,"hep-ph",,"  A variant of the conventional Higgs model is proposed which separates the
+physics of the Higgs decay modes from the problem of fermion mass generation.
+The lowest mass Higgs boson has no significant bottom decay mode but a charm
+and up branching ratio of about 33% each and requires the existence of two
+Higgs doublets of type II, which is consistent with supersymmetric models. It
+also implies there are probably no photon or gluon decay modes of any Higgs
+boson.
+","[{""version"":""v1"",""created"":""Sat, 21 Dec 2002 18:27:42 GMT""}]","2007-05-23"
+"hep-ph/0212328","G. R. Filewood","G. Filewood","Delta baryons in the separation geometry model","latex2e document; 8 pages Correction of $\Delta^{++}$ mass
+  calculation and revised discussion",,,,"hep-ph",,"  Extension of the separation geometry model of baryon structure from
+physics/0109024 and hep-ph/0201270 to the spin 2/3 Delta baryons. Theoretically
+derived masses in Mev; $\Delta^{++}=1240.0, \Delta^-=1243.4, \Delta^0=1233.9,
+\Delta^+=1232.6$. The first value differs considerably from the empirical
+value. Mass difference values are discussed.
+","[{""version"":""v1"",""created"":""Sun, 22 Dec 2002 07:10:32 GMT""},{""version"":""v2"",""created"":""Tue, 24 Dec 2002 05:51:41 GMT""},{""version"":""v3"",""created"":""Wed, 1 Jan 2003 07:15:44 GMT""}]","2007-05-23"
+"hep-ph/0212329","Wang ZhiGang","Z.G.Wang (IHEP), S.L.Wan (USTC)","Calculation of the quark condensate through Schwinger-Dyson equation","6 pages",,,,"hep-ph",,"  In this letter, we clarify the algebra expression for calculating the quark
+condensate based on the non-perturbative quark propagator calculated through
+Schwinger-Dyson equation. The quark condensates, which characterize the low
+energy QCD vacuum, should not get a divergent quantity at large energy scale;
+the re-normalization group evolution behaviour at large energy scale therefore
+should be interpreted as ""smeared collective effects"" for it contains both
+perturbative and non-perturbative parts.
+  We prefer the integral expression and get a quantity which is both convergent
+and scale dependent.
+","[{""version"":""v1"",""created"":""Sun, 22 Dec 2002 13:22:34 GMT""}]","2007-05-23"
+"hep-ph/0212330","Andrey Grozin","A. G. Grozin","Some topics in heavy-quark physics","16 pages, 6 figures included",,,,"hep-ph",,"  Some topics which can be easily explained to undergraduate students are
+presented, with elementary derivations. For a more systematic treatment of
+heavy-quark physics, see the textbook by Manohar and Wise.
+","[{""version"":""v1"",""created"":""Sun, 22 Dec 2002 14:02:02 GMT""}]","2007-05-23"
+"hep-ph/0212331","B. Kyae","Bumseok Kyae and Qaisar Shafi","Inflationary Cosmology with Five Dimensional SO(10)","1+19 pages, improved discussion of 5D cosmology, Version to appear in
+  PRD","Phys.Rev.D69:046004,2004","10.1103/PhysRevD.69.046004","BA-02-40","hep-ph",,"  We discuss inflationary cosmology in a five dimensional SO(10) model
+compactified on $S^1/(Z_2\times Z_2')$, which yields $SU(3)_c\times
+SU(2)_L\times U(1)_Y\times U(1)_X$ below the compactification scale. The gauge
+symmetry $SU(5)\times U(1)_X$ is preserved on one of the fixed points, while
+``flipped'' $SU(5)'\times U(1)'_X$ is on the other fixed point. Inflation is
+associated with $U(1)_X$ breaking, and is implemented through $F$-term scalar
+potentials on the two fixed points. A brane-localized Einstein-Hilbert term
+allows both branes to have positive tensions during inflation. The scale of
+$U(1)_X$ breaking is fixed from $\delta T/T$ measurements to be around
+$10^{16}$ GeV, and the scalar spectral index $n=0.98-0.99$. The inflaton field
+decays into right-handed neutrinos whose subsequent out of equilibrium decay
+yield the observed baryon asymmetry via leptogenesis.
+","[{""version"":""v1"",""created"":""Sun, 22 Dec 2002 15:39:08 GMT""},{""version"":""v2"",""created"":""Wed, 17 Sep 2003 19:44:50 GMT""},{""version"":""v3"",""created"":""Thu, 15 Jan 2004 20:34:43 GMT""}]","2014-11-17"
+"hep-th/0212278","Gurrieri","Sebastien Gurrieri and Andrei Micu","Type IIB Theory on Half-flat Manifolds","15 pages, no figures","Class.Quant.Grav. 20 (2003) 2181-2192","10.1088/0264-9381/20/11/317",,"hep-th",,"  In this note we derive the low-energy effective action of type IIB theory
+compactified on half-flat manifolds and we show that this precisely coincides
+with the low-energy effective action of type IIA theory compactified on a
+Calabi-Yau manifold in the presence of NS three-form fluxes. We provide in this
+way a further check of the recently formulated conjecture that half-flat
+manifolds appear as mirror partners of Calabi-Yau manifolds when NS fluxes are
+turned on.
+","[{""version"":""v1"",""created"":""Sun, 22 Dec 2002 10:51:16 GMT""}]","2009-11-07"
+"math/0212304","Tom Weston","Tom Weston","Explicit unobstructed primes for modular deformation problems of
+  squarefree level",,,,,"math.NT",,"  Let f be a newform of weight at least 2 and squarefree level with Fourier
+coefficients in a number field K. We give explicit bounds, depending on
+congruences of f with other newforms, on the set of primes lambda of K for
+which the deformation problem associated to the mod lambda Galois
+representation of f is obstructed. We include some explicit examples.
+","[{""version"":""v1"",""created"":""Sat, 21 Dec 2002 18:23:03 GMT""}]","2007-05-23"
+"math/0212305","Howard Kleiman","Howard Kleiman","The Floyd-Warshall Algorithm, the AP and the TSP III","PDF file. 99 pages",,,,"math.CO",,"  We clarify the exposition of Phases 2 and 3a in ""The Floyd-Warshall
+Algorithm, the AP and the TSP"". We also improve and simplify theorem 3.6 . In
+line with clarifying the exposition, we change the matrices in examples 3.4 and
+3.5 of ""The Floyd-Warshall Algorithm, the AP and the TSP II"".
+","[{""version"":""v1"",""created"":""Sat, 21 Dec 2002 21:03:56 GMT""}]","2007-05-23"
+"math/0212306","Alexander Polishchuk","Alexander Polishchuk","Noncommutative two-tori with real multiplication as noncommutative
+  projective varieties","AMSLatex, 23 pages",,,,"math.AG math.QA math.RA",,"  We define analogues of homogeneous coordinate algebras for noncommutative
+two-tori with real multiplication. We prove that the categories of standard
+holomorphic vector bundles on such noncommutative tori can be described in
+terms of graded modules over appropriate homogeneous coordinate algebras. We
+give a criterion for such an algebra to be Koszul and prove that the Koszul
+dual algebra also comes from some noncommutative two-torus with real
+multiplication. These results are based on the techniques of math.QA/0211262
+allowing to interpret all the data in terms of autoequivalences of the derived
+categories of coherent sheaves on elliptic curves.
+","[{""version"":""v1"",""created"":""Sun, 22 Dec 2002 03:44:32 GMT""}]","2007-05-23"
+"math/0212307","Daniel Liberzon","Francesco Bullo and Daniel Liberzon","Quantized control via locational optimization",,,,,"math.OC",,"  This paper studies state quantization schemes for feedback stabilization of
+control systems with limited information. The focus is on designing the least
+destabilizing quantizer subject to a given information constraint. We explore
+several ways of measuring the destabilizing effect of a quantizer on the
+closed-loop system, including (but not limited to) the worst-case quantization
+error. In each case, we show how quantizer design can be naturally reduced to a
+version of the so-called multicenter problem from locational optimization.
+Algorithms for solving such problems are discussed. In particular, an iterative
+solver is developed for a novel weighted multicenter problem which most
+accurately represents the least destabilizing quantizer design.
+","[{""version"":""v1"",""created"":""Sun, 22 Dec 2002 04:07:46 GMT""}]","2007-05-23"
+"math/0212308","Yi-Zhi Huang","Yi-Zhi Huang","Riemann surfaces with boundaries and the theory of vertex operator
+  algebras","26 pages. Final version to appear in Vertex Operator Algebras in
+  Mathematics and Physics, Fields Institute Communications, Amer. Math. Soc.,
+  Providence. One more reference is added and some more misprints are corrected",,,,"math.QA hep-th math-ph math.CV math.MP",,"  The connection between Riemann surfaces with boundaries and the theory of
+vertex operator algebras is discussed in the framework of conformal field
+theories defined by Kontsevich and Segal and in the framework of their
+generalizations in open string theory and boundary conformal field theory. We
+present some results, problems, conjectures, their conceptual implications and
+meanings in a program to construct these theories from representations of
+vertex operator algebras.
+","[{""version"":""v1"",""created"":""Sun, 22 Dec 2002 05:01:36 GMT""},{""version"":""v2"",""created"":""Wed, 22 Jan 2003 08:34:00 GMT""},{""version"":""v3"",""created"":""Fri, 13 Jun 2003 02:40:20 GMT""}]","2007-05-23"
+"math/0212309","J. Maurice Rojas","J. Maurice Rojas (Texas A&M University)","Why Polyhedra Matter in Non-Linear Equation Solving","30 pages, 15 figures (26 ps or eps files), some in color. Paper
+  corresponds to an invited tutorial talk delivered at a conference on
+  Algebraic Geometry and Geometric Modelling (Vilnius, Lithuania, July
+  29-August 2, 2002), submitted for publication",,,,"math.AG math.NA",,"  We give an elementary introduction to some recent polyhedral techniques for
+understanding and solving systems of multivariate polynomial equations. We
+provide numerous concrete examples and illustrations, and assume no background
+in algebraic geometry or convex geometry. Highlights include the following:
+  (1) A completely self-contained proof of an extension of Bernstein's Theorem.
+Our extension relates volumes of polytopes with the number of connected
+components of the complex zero set of a polynomial system, and allows any
+number of polynomials and/or variables.
+  (2) A near optimal complexity bound for computing mixed area -- a quantity
+intimately related to counting complex roots in the plane.
+","[{""version"":""v1"",""created"":""Sun, 22 Dec 2002 09:51:36 GMT""}]","2007-05-23"
+"math/0212310","Roger Francis Picken","R. F. Picken and P. A. Semiao","A classical approach to TQFT's","72 pages, 7 figures",,,,"math.QA math.AT",,"  We present a general framework for TQFT and related constructions using the
+language of monoidal categories. We construct a topological category C and an
+algebraic category D, both monoidal, and a TQFT functor is then defined as a
+certain type of monoidal functor from C to D. In contrast with the cobordism
+approach, this formulation of TQFT is closer in spirit to the classical
+functors of algebraic topology, like homology. The fundamental operation of
+gluing is incorporated at the level of the morphisms in the topological
+category through the notion of a gluing morphism, which we define. It allows
+not only the gluing together of two separate objects, but also the self-gluing
+of a single object to be treated in the same fashion. As an example of our
+framework we describe TQFT's for oriented 2D-manifolds, and classify a family
+of them in terms of a pair of tensors satisfying some relations.
+","[{""version"":""v1"",""created"":""Sun, 22 Dec 2002 15:58:18 GMT""}]","2007-05-23"
+"nlin/0212047","Yuri Shiogai","Yuri Shiogai and Yoshiki Kuramoto","Wave Propagation in Nonlocally Coupled Oscillators With Noise","4 pages",,"10.1143/PTPS.150.435",,"nlin.PS",,"  The onset of undamped wave propagation in noisy self-oscillatory media is
+identified with a Hopf bifurcation of the corresponding effective dynamical
+system obtained by properly renormalizing the effects of noise. We illustrate
+this fact on a dense array of nonlocally coupled phase oscillators for which a
+mean-field idea works exactly in deriving such effective dynamical equations.
+","[{""version"":""v1"",""created"":""Sun, 22 Dec 2002 07:59:57 GMT""}]","2009-11-07"
+"nucl-th/0212093","Piotr Magierski","Piotr Magierski, Aurel Bulgac and Paul-Henri Heenen","Exotic nuclear phases in the inner crust of neutron stars in the light
+  of Skyrme-Hartree-Fock theory","4 pages, 1 eps figure, Talk at the 17th Nuclear Physics Divisional
+  Conference of the EPS: Nuclear Physics in Astrophysics, Debrecen, Hungary,
+  Sept. 30 - Oct. 4, 2002","Nucl.Phys. A719 (2003) 217-220","10.1016/S0375-9474(03)00921-7",,"nucl-th astro-ph",,"  The bottom part of the neutron star crust is investigated using the
+Skyrme-Hartree-Fock approach with the Coulomb interaction treated beyond the
+Wigner-Seitz approximation. A variety of nuclear phases is found to coexist in
+this region. Their stability and relative energies are governed by the Coulomb,
+surface and shell energies. We have also found that a substantial contribution
+is coming from the spin-orbit interaction.
+","[{""version"":""v1"",""created"":""Sat, 21 Dec 2002 17:49:17 GMT""}]","2009-11-07"
+"nucl-th/0212094","Mark Strikman","L.Frankfurt and M.Strikman","Ion induced quark-gluon implosion","5 pages, final version, discussion of the signals of the new phase is
+  expanded","Phys.Rev.Lett. 91 (2003) 022301","10.1103/PhysRevLett.91.022301",,"nucl-th hep-ph nucl-ex",,"  We investigate nuclear fragmentation in the central proton-nucleus and
+nucleus - nucleus collisions at the energies of LHC. We argue that within the
+semi-classical approximation because of fast increase with energy of cross
+sections of soft and hard interactions each nucleon is stripped in the average
+process off ``soft'' partons and fragments into a collection of leading quarks
+and gluons with large $p_t$. Valence quarks and gluons are streaming in the
+opposite directions when viewed in the c.m. of the produced system. The
+resulting pattern of the fragmentation of the colliding nuclei leads to an
+implosion of the quark and gluon constituents of the nuclei. The matter density
+produced at the initial stage in the nucleus fragmentation region is estimated
+to be $\geq$ 50 GeV/fm$^3$ at the LHC energies and probably $\geq$ 10
+GeV/fm$^3$ at RHIC.
+","[{""version"":""v1"",""created"":""Sat, 21 Dec 2002 18:11:38 GMT""},{""version"":""v2"",""created"":""Tue, 8 Jul 2003 21:14:10 GMT""}]","2009-11-07"
+"physics/0212087","Giulio Ruffini","Josep Marco, Giulio Ruffini, Leonardo Ruffini","Ionospheric (H-atom) Tomography: a Feasibility Study using GNSS
+  Reflections","Abridged Starlab ESA report from ESTEC/ESA Contract No.
+  Starlab/CO/0001/02, Courtesy of ESA and Starlab",,,"Starlab Technical Report 2002-07-03","physics.ao-ph physics.geo-ph",,"  In this report we analyze the feasibility of ionospheric monitoring using
+GNSS technology. The focus will be on the use of LEO GNSS data, exploiting GNSS
+Reflections, Navigation and Occultation TEC measurements. In order to attack
+this question, we have simulated GNSS ionospheric TEC data as it would be
+measured from a polar LEO (exploiting Navigation, Occultation and Reflection
+TEC data) and IGS ground stations, through the use of a climatic ionospheric
+model (we have explored both NeQuick and PIM). We have then developed a new
+tomographic approach inspired on the physics of the hydrogen atom, which has
+been compared to previous successful but somewhat awkward methods (using a
+voxel representation) and employed to retrieve the Electronic Density field
+from the simulated TEC data. These tomographic inversion results using
+simulated data demonstrate the significant impact of GNSS-R and GNSS-NO data:
+3D ionospheric Electron Density fields are retrieved over the oceans quite
+accurately, even as, in the spirit of this initial study, the simulation and
+inversion approaches avoided intensive computation and sophisticated
+algorithmic elements (spatio-temporal smoothing). We conclude that GNSS-R data
+can contribute significantly to the GIOS (Global/GNSS Ionospheric Observation
+System).
+","[{""version"":""v1"",""created"":""Sat, 21 Dec 2002 17:29:54 GMT""}]","2007-05-23"
+"physics/0212089","Tihamer Geyer","Tihamer Geyer and Jan M Rost","Dynamical stabilization of classical multi electron targets against
+  autoionization","LaTeX, 6 pages, 2 figures; submitted to J. Phys. B","J. Phys. B 36 (2003) L107","10.1088/0953-4075/36/4/105",,"physics.atom-ph",,"  We demonstrate that a recently published quasiclassical M\oller type approach
+[Geyer and Rost 2002, J. Phys. B 35 1479] can be used to overcome the problem
+of autoionization, which arises in classical trajectory calculations for many
+electron targets. In this method the target is stabilized dynamically by a
+backward--forward propagation scheme. We illustrate this refocusing and present
+total cross sections for single and double ionization of helium by electron
+impact.
+","[{""version"":""v1"",""created"":""Sun, 22 Dec 2002 14:23:03 GMT""}]","2009-11-07"
+"quant-ph/0212126","Andrei Khrennikov","Igor V. Volovich","Seven Principles of Quantum Mechanics","7 pages, latex",,,,"quant-ph",,"  The list of basic axioms of quantum mechanics as it was formulated by von
+Neumann includes only the mathematical formalism of the Hilbert space and its
+statistical interpretation. We point out that such an approach is too general
+to be considered as the foundation of quantum mechanics. In particular in this
+approach any finite-dimensional Hilbert space describes a quantum system.
+Though such a treatment might be a convenient approximation it can not be
+considered as a fundamental description of a quantum system and moreover it
+leads to some paradoxes like Bell's theorem.
+  I present a list from seven basic postulates of axiomatic quantum mechanics.
+In particular the list includes the axiom describing spatial properties of
+quantum system. These axioms do not admit a nontrivial realization in the
+finite-dimensional Hilbert space. One suggests that the axiomatic quantum
+mechanics is consistent with local realism.
+","[{""version"":""v1"",""created"":""Sun, 22 Dec 2002 07:26:10 GMT""}]","2016-09-08"
+"quant-ph/0212127","Andrei Khrennikov","Andrei Khrennikov and Igor Volovich","Local Realism, Contextualism and Loopholes in Bell`s Experiments",,,,,"quant-ph gr-qc hep-th",,"  It is currently widely accepted, as a result of Bell's theorem and related
+experiments, that quantum mechanics is inconsistent with local realism and
+there is the so called quantum non-locality. We show that such a claim can be
+justified only in a simplified approach to quantum mechanics when one neglects
+the fundamental fact that there exist space and time. Mathematical definitions
+of local realism in the sense of Bell and in the sense of Einstein are given.
+We demonstrate that if we include into the quantum mechanical formalism the
+space-time structure in the standard way then quantum mechanics might be
+consistent with Einstein's local realism. It shows that loopholes are
+unavoidable in experiments aimed to establish a violation of Bell`s
+inequalities. We show how the space-time structure can be considered from the
+contextual point of view. A mathematical framework for the contextual approach
+is outlined.
+","[{""version"":""v1"",""created"":""Sat, 21 Dec 2002 18:41:06 GMT""}]","2007-05-23"
+"quant-ph/0212128","Milan M. Cirkovic","Miroljub Dugic, Milan M. Cirkovic, Dejan Rakovic","On a Possible Physical Metatheory of Consciousness",,"Open Systems & Information Dynamics Volume 9, Number 2, 153 (2002)",,,"quant-ph",,"  We show that the modern quantum mechanics, and particularly the theory of
+decoherence, allows formulating a sort of a physical metatheory of
+consciousness. Particularly, the analysis of the necessary conditions for the
+occurrence of decoherence, along with the hypothesis that consciousness bears
+(more-or-less) well definable physical origin, leads to a wider physical
+picture naturally involving consciousness. This can be considered as a sort of
+a psycho-physical parallelism, but on very wide scales bearing some
+cosmological relevance.
+","[{""version"":""v1"",""created"":""Sat, 21 Dec 2002 23:02:54 GMT""}]","2012-02-21"
+"quant-ph/0212129","Milan M. Cirkovic","Miroljub Dugic and Milan M. Cirkovic","Quantum Parallelism in Quantum Information Processing","13 pages, 1 color figure, uses tole2.sty, psfig.tex",,,,"quant-ph",,"  We investigate distinguishability (measured by fidelity) of the initial and
+the final state of a qubit, which is an object of the so-called nonideal
+quantum measurement of the first kind. We show that the fidelity of a nonideal
+measurement can be greater than the fidelity of the corresponding ideal
+measurement. This result is somewhat counterintuitive, and can be traced back
+to the quantum parallelism in quantum operations, in analogy with the quantum
+parallelism manifested in the quantum computing theory. In particular, while
+the quantum parallelism in quantum computing underlies efficient quantum
+algorithms, the quantum parallelism in quantum information theory underlies
+this, classically unexpected, increase of the fidelity.
+","[{""version"":""v1"",""created"":""Sat, 21 Dec 2002 23:34:20 GMT""}]","2007-05-23"

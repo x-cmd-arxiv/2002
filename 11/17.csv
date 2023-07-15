@@ -1,0 +1,350 @@
+"astro-ph/0211379","G. R. Filewood","G. R. Filewood","Time variation of the fine structure constant and mass-energy
+  conservation","Latex2e document. 3 pages",,,,"astro-ph",,"  A brief note on the time variation of the fine structure constant
+$\alpha_{em}$; it is shown that such a variation should violate mass-energy
+conservation in the absence of proton decay.
+","[{""version"":""v1"",""created"":""Sun, 17 Nov 2002 07:13:28 GMT""}]","2007-05-23"
+"astro-ph/0211380","Toma Tomov","D. Kolev (1), M. Mikolajewski (2), T. Tomov (2), I. Iliev (1), J.
+  Osiwala (2), J. Nirski (2), C. Galan (2)((1) National Astronomical
+  Observatory Rozhen, Smolyan, Bulgaria (2) Centre for Astronomy, Nicolaus
+  Copernicus University, Torun, Poland)","Peculiar outburst of the newly revealed variable star V838 Mon","10 pages, 4 figures","Collected Papers. Physics, 2002, Shumen University Press, Shumen
+  (Bulgaria), p.147",,,"astro-ph",,"  We present photometric and high- and low-resolution spectroscopic
+observations of the unusual outburst of V838 Mon. The data were collected at
+the NAO Rozhen, Bulgaria and at the Torun Observatory, Poland. Analysis of the
+peculiar behavior of the spectrum of the star is given. The star's radial
+velocity of +60 km/s is derived. A brief discussion concerning the nature of
+the object is also given.
+","[{""version"":""v1"",""created"":""Sun, 17 Nov 2002 13:16:05 GMT""}]","2007-05-23"
+"astro-ph/0211382","Daria Kosenko","D.I. Kosenko, S.I. Blinnikov, K.A. Postnov, P. Lundqvist, E.I.
+  Sorokina","Time-dependent thermal X-ray afterglows from GRBs","11 pages, LaTeX, 8 figures; talk given at COSPAR meeting on October,
+  12 (2002), Houston; short version to appear in the proceedings, extended
+  version submitted to Astron. Letters (November, 2002)",,,,"astro-ph",,"  Time-dependent thermal X-ray spectra are calculated from physically plausible
+conditions around GRB. It is shown that account for time-dependent ionization
+processes strongly affects the observed spectra of hot rarefied plasma. These
+calculations may provide an alternative explanation to the observed X-ray lines
+of early GRBs afterglows (such as GRB 011211). Our technique will allow one to
+obtain independent constraints on the GRB collimation angle and on the
+clumpiness of circumstellar matter.
+","[{""version"":""v1"",""created"":""Sun, 17 Nov 2002 15:20:39 GMT""},{""version"":""v2"",""created"":""Mon, 25 Nov 2002 16:38:09 GMT""},{""version"":""v3"",""created"":""Sat, 11 Jan 2003 12:04:48 GMT""}]","2007-05-23"
+"cond-mat/0211342","C. W. Chu","Y. Y. Xue (1), B. Lorenz (1), D. H. Cao (1), C. W. Chu (1,2,3) ((1)
+  Department of Physics and TCSUH, University of Houston, Houston, Texas, (2)
+  LBNL, Berkeley, California, (3) Hong Kong University of Science and
+  Technology, Hong Kong)","Magnetic Transitions and Ferromagnetic Clusters in RuSr2(Eu,Ce)2Cu2O10+d","12 pages, 9 figures",,"10.1103/PhysRevB.67.184507",,"cond-mat.supr-con",,"  The macroscopic magnetizations of a RuSr2(Eu0.7Ce0.3)2Cu2O10+d sample were
+investigated. A ferromagnet-like transition occurs around T_M in the low-field
+magnetization. Highly nonlinear M(H), non-Curie-Weiss susceptibility, and slow
+spin-dynamics, however, were observed up to T_1 approx 2-3 T_M. In addition, an
+antiferromagnet-like differential-susceptibility maximum of Ru appears around a
+separate temperature T_AM between T_1 and T_M. The data are therefore
+consistent with a phase-separation model: superparamagnetic clusters (or
+short-range spin-orders) are first precipitated from the paramagnetic matrix
+below T_1, followed by an antiferromagnetic transition of the matrix at T_AM
+and an apparent ferromagnetic (FM) transition around T_M, where the long-range
+spin-order is established in the FM species imbedded in the matrix.
+","[{""version"":""v1"",""created"":""Sat, 16 Nov 2002 20:58:04 GMT""}]","2009-11-07"
+"cond-mat/0211349","Daniel V. Shantsev","I. A. Rudnev, S. V. Antonenko, D. V. Shantsev, T. H. Johansen","Dendritic flux avalanches in superconducting Nb3Sn films","3 pages, 4 figures, submitted to Cryogenics. Revision: M(H) data
+  added","Cryogenics 43 (2003) 663--666","10.1016/S0011-2275(03)00157-7",,"cond-mat.supr-con",,"  The penetration of magnetic flux into a thin superconducting film of Nb3Sn
+with critical temperature 17.8K and critical current density 6MA/cm^2 was
+visualized using magneto-optical imaging. Below 8 K an avalanche-like flux
+penetration in form of big and branching dendritic structures was observed in
+response to increasing perpendicular applied field. When a growing dendritic
+branch meets a linear defect in the film, several scenarios were observed: the
+branch can turn and propagate along the defect, continue propagation right
+through it, or ""tunnel"" along a flux-filled defect and continue growth from its
+other end. The avalanches manifest themselves in numerous small and random
+jumps found in the magnetization curve.
+","[{""version"":""v1"",""created"":""Sat, 16 Nov 2002 17:49:10 GMT""},{""version"":""v2"",""created"":""Mon, 24 Feb 2003 20:44:25 GMT""}]","2016-08-31"
+"cond-mat/0211350","Amnon Aharony","Amnon Aharony, Ora Entin-Wohlman and Yoseph Imry","Measuring the transmission phase of a quantum dot in a closed
+  interferometer","Phys. Rev. Lett. (in press)",,"10.1103/PhysRevLett.90.156802",,"cond-mat.mes-hall cond-mat.str-el",,"  The electron transmission through a {\it closed} Aharonov-Bohm mesoscopic
+solid-state interferometer, with a quantum dot (QD) on one of the paths, is
+calculated exactly for a simple model. Although the conductance is an even
+function of the magnetic flux (due to Onsager's relations), in many cases one
+can use the measured conductance to extract both the amplitude and the phase of
+the ""intrinsic"" transmission amplitude $t_D=-i|t_D|e^{i\alpha_D}$ through the
+""bare"" QD. We also propose to compare this indirect measurement with the
+(hitherto untested) direct relation $\sin^2(\alpha_D) \equiv
+|t_D|^2/\max(|t_D|^2)$.
+","[{""version"":""v1"",""created"":""Sun, 17 Nov 2002 12:12:54 GMT""},{""version"":""v2"",""created"":""Mon, 3 Mar 2003 23:13:37 GMT""}]","2009-11-07"
+"cond-mat/0211351","Keshav N. Shrivastava","Keshav N. Shrivastava","Disappearance of fractional statistics in Schrieffer-Wilczek theory","6 pages TeX",,,,"cond-mat.mes-hall cond-mat.stat-mech",,"  The paper of Arovas, Schrieffer and Wilczek is corrected. It is found that
+the Berry's phase is vanishingly small. Accordingly, the statistical vector
+potential becomes negligibly small.
+","[{""version"":""v1"",""created"":""Sun, 17 Nov 2002 12:33:09 GMT""}]","2007-05-23"
+"cond-mat/0211352","Frank Tzschichholz","F.Tzschichholz and H.J.Herrmann","A reaction-diffusion model for the hydration of calciumsulphate (gypsum)
+  and microstructure percolation","RevTex style, 7 pages, 10 figures, PACS: 61.43.-j, 81.35.+k, 81.30.Mh",,,,"cond-mat.mtrl-sci cond-mat.dis-nn",,"  We have numerically investigated a reaction-diffusion model for the hydration
+of calciumsulphate (gypsum). The simulations were conducted for two and three
+dimensional systems. While the dissolution of anhydrous gypsum is considered
+irreversible at a finite rate the precipitation/dissolution reaction for the
+calciumdihydrate is considered reversible. The latter reaction is assumed to be
+controlled by the dihydrate's equilibrium solubility {\em and} the abillity of
+the system to react on supersaturation only at a certain velocity described by
+the reaction rate constant of precipitation. For $d=2$ we find at early times
+an accelerated hydration period followed by a maximum and a decreasing
+hydration rate. For large times the ionic product of involved species assumes
+closely the value of the di-hydrate equilibrium solubility. Calculated model
+micro-structures exhibit typical features such as inner and outer hydrate
+products, induction and dormant period as well as bridging. Furthermore we find
+that the overall chemical reactivity as a function of initial anhydrous
+(volume) concentration $p$ exhibits a maximum close to the percolation point of
+the underlying lattice. Employing a rescaling procedure we find {\em two}
+percolation thresholds in $d=2$, $p_c^{min}=0.44\pm 0.015$ and
+$p_c^{max}=0.77\pm 0.02$, for the initial anhydrous gypsum concentration {\em
+between} which percolating dihydrate structures can be attained. For $d=3$ we
+find $p_c^{min}=0.10\pm 0.02$ and $p_c^{max}=0.95 \pm 0.02$.
+","[{""version"":""v1"",""created"":""Sun, 17 Nov 2002 13:19:56 GMT""}]","2007-05-23"
+"hep-ex/0211044","Ozben","Cenap S. Ozben (Brookhaven National Laboratory) (for the muon g-2
+  Collaboration)","Precision Measurement of the Anomalous Magnetic Moment of the Muon","Invited talk at SLAC Summer Institute, Stanford, CA, August 2002
+  (SSI-TW08), 16 pages, Latex, 15 Postscript figures, uses ssi.sty","ECONF C020805:TW08,2002",,,"hep-ex",,"  The muon g-2 experiment at Brookhaven National Laboratory measures the
+anomalous magnetic moment of the muon, $a_\mu$, very precisely. This
+measurement tests the Standard Model. The analysis for the data collected in
+2000 (a $\mu^+$ run) is completed and the accuracy on $a_\mu$ is improved to
+0.7 ppm, including statistical and systematic errors. The data analysis was
+performed blindly between the precession frequency and the field analysis
+groups in order to prevent a possible bias in the $a_\mu$ result. The result is
+$a_{\mu}({\rm exp}) = 11~659~204(7)(5) \times 10^{-10}$ (0.7 ppm). This paper
+features a detailed description of one of the four analyses and an update of
+the theory.
+","[{""version"":""v1"",""created"":""Sun, 17 Nov 2002 15:05:03 GMT""},{""version"":""v2"",""created"":""Wed, 27 Nov 2002 08:12:00 GMT""},{""version"":""v3"",""created"":""Tue, 7 Jan 2003 20:01:26 GMT""}]","2019-08-14"
+"hep-lat/0211033","Fedor Gubarev","F.V.Gubarev, V.I.Zakharov","Interpreting the lattice monopoles in the continuum terms","Latex2e, 10 pages, no figures",,,"ITEP-LAT/2002-25, MPI-PhT/2002-68","hep-lat hep-ph hep-th",,"  We review briefly current interpretation of the lattice monopoles, defined
+within the Maximal Abelian Projection, in terms of the continuum theory. We
+emphasize, in particular, that the lattice data, at the presently available
+lattices, indicate that the monopoles are associated with singular fields. This
+note is prompted by a recent analysis hep-lat/0211005 which is based on an
+implicit assumption that the fields are regular.
+","[{""version"":""v1"",""created"":""Sun, 17 Nov 2002 15:29:46 GMT""}]","2007-05-23"
+"hep-ph/0211259","Florian Krajewski","F. Krajewski (Johannes Gutenberg-Universitaet Mainz)","QCD Analysis of hadronic tau lepton decays","pages 121, Latex, in German",,,"MZ-TH/01-34","hep-ph",,"  Diploma paper written at the Johannes Gutenberg-Universitaet Mainz.
+","[{""version"":""v1"",""created"":""Sat, 16 Nov 2002 16:39:01 GMT""}]","2007-05-23"
+"hep-ph/0211260","Alexander Dolgov","A.D. Dolgov","Cosmological Matter-Antimatter Asymmetry and Antimatter in the Universe","Keynote lecture at XIVth Rencontres de Blois 2002 on
+  Matter-Antimatter Asymmetry, Blois, France, June, 2002, to be published in
+  the proceedings, ed. J. Tran Thanh Van; latex, 13 pages",,,,"hep-ph astro-ph",,"  Models of baryogenesis which may lead to astronomically significant amount of
+antimatter in the universe are reviewed. Observational features are briefly
+discussed.
+","[{""version"":""v1"",""created"":""Sun, 17 Nov 2002 10:14:47 GMT""}]","2007-05-23"
+"hep-ph/0211261","Kiselev","V.V. Kiselev","Renormalization group improvement of truncated perturbative series in
+  QCD. Decays of tau-lepton and eta_c-charmonium","10 pages, LaTeX file, 2 eps-figyres, referense added",,,,"hep-ph",,"  We formulate a general scheme to improve the truncated perturbative expansion
+in alpha_s by means of the renormalization group in QCD for the single-scale
+quantities. The procedure is used for the evaluation of hadronic decay rates of
+tau-lepton and eta_c-charmonium. The scale dependence of result for eta_c is
+studied in the scheme of fixed value for the MS-bar mass of charmed quark.
+","[{""version"":""v1"",""created"":""Sat, 16 Nov 2002 19:07:38 GMT""},{""version"":""v2"",""created"":""Wed, 20 Nov 2002 08:54:50 GMT""}]","2007-05-23"
+"hep-ph/0211262","T. R. Mongan","T. R. Mongan","Hierarchy and Wave Functions in a Simple Quantum Cosmology","4 pages, no figures, abstract corrected to insert omitted words","Gen.Rel.Grav. 35 (2003) 685-688","10.1023/A:1022918202664",,"hep-ph astro-ph gr-qc",,"  Astrophysical observations indicate the expansion of the universe is
+accelerating. Applying the holographic entropy conjecture to the cosmological
+horizon in an accelerating universe suggests the universe has only a finite
+number of degrees of freedom. This is consistent with a closed universe arising
+from a quantum fluctuation, with zero total quantum numbers. If space-time has
+eleven dimensions, and the universe began as a closed force-symmetric
+ten-dimensional space with characteristic dimension L, seven of the space
+dimensions must have collapsed to generate the three large space dimensions we
+see. The holographic conjecture then suggests the initial length scale L must
+be roughly twenty orders of magnitude larger than the Planck length.
+Accordingly, the nuclear force must be roughly forty orders of magnitude
+stronger than gravity, possibly resolving the force hierarchy problem. A
+wavefunction for the radius of curvature of the universe can be obtained from
+the Schrodinger equation derived by Elbaz and Novello. The product of this
+wavefunction and its complex conjugate can be interpreted as the probability
+density for finding a given radius of curvature in one of the infinity of
+measurements of the radius of curvature possible (in principle) at any location
+in a homogeneous isotropic universe.
+","[{""version"":""v1"",""created"":""Sat, 16 Nov 2002 19:47:28 GMT""},{""version"":""v2"",""created"":""Sun, 24 Nov 2002 19:43:54 GMT""},{""version"":""v3"",""created"":""Wed, 27 Sep 2006 18:20:35 GMT""}]","2015-06-25"
+"hep-ph/0211263","Mark Strikman","L. Frankfurt (TAU), M.V.Polyakov (Univ. Bochum), M.Strikman (PSU),
+  D.Zhalov (PSU), M.Zhalov (PNPI)","Novel hard semiexclusive processes and color singlet clusters in hadrons","9 pages, 2 figures, to be published in the proceedings of the
+  Workshop: Exclusive Processes at High Momentum Transfer, Newport News,
+  Virginia, 15-18 May 2002",,"10.1142/9789812776211_0049",,"hep-ph",,"  Hard scattering to a three cluster final state is suggested as a method to
+probe configurations in hadrons containing small size color singlet cluster and
+a residual quark-gluon system of a finite mass. Examples of such processes
+include $e + N \to e+ p +M_X (\Lambda+M_X'), p+p \to p+p+M_X(p+\Lambda+M_X')$
+where $M_X(M_X')$ could be a pion(kaon) or other state of finite mass which
+does not increase with momentum transfer ($Q^2$). We argue that different
+models of the nucleon may lead to very different qualitative predictions for
+the spectrum of states $M_X$. We find that in the pion model of nonperturbative
+$q \bar q$ sea in a nucleon the cross section of these reactions is comparable
+to the cross section of the corresponding two-body reaction. Studies of these
+reactions are feasible using both fixed target detectors (EVA at BNL, HERMES at
+DESY) and collider detectors with a good acceptance in the forward direction.
+","[{""version"":""v1"",""created"":""Sat, 16 Nov 2002 22:12:42 GMT""}]","2017-08-23"
+"hep-ph/0211264","Pedro Cunha de Holanda","P. C. de Holanda, A. Yu. Smirnov","Searches for sterile component with solar neutrinos and KamLAND","29 pages, 8 figures",,,,"hep-ph hep-ex",,"  Possible mixing of the active and sterile neutrinos has been considered both
+in the single Delta m^2 approximation and in the case of more than one Delta
+m^2. We perform global fit of the available solar neutrino data with free boron
+neutrino flux in the single Delta m^2 context. The best fit value corresponds
+to zero fraction of sterile component eta=0. We get the upper bounds: eta<0.26
+(0.64) at 1\sigma (3 sigma). Due to degeneracy of parameters no one individual
+experiment restricts eta. The bound appears as an interplay of the SNO and
+Gallium as well as SuperKamiokande data. Future measurements of the NC/CC ratio
+at SNO can strengthen the bound down to eta<0.5 (3 sigma). If KamLAND confirms
+the LMA solution with its best fit point a combined analysis of the KamLAND and
+solar neutrino results will lead to eta<0.19 (0.56) at 1 sigma (3 sigma). We
+find that existence of sterile neutrino can explain the intermediate value of
+suppression of the KamLAND event rate: R_{KL}~0.75-0.90 in the case when more
+than one Delta m^2 is involved.
+","[{""version"":""v1"",""created"":""Sun, 17 Nov 2002 00:38:37 GMT""}]","2007-05-23"
+"hep-ph/0211265","Xiaojun Bi","Xiao-Jun Bi","Correlation between LFV and muon (g-2) in MSSM","5 pages, 4 figures. Talk presented on the National Conference on High
+  Energy Physics, Oct. 29 - Nov. 3, Xinxiang, Henan, P.R.China",,,,"hep-ph",,"  We give a simultaneous analysis of $g_\mu-2$ and lepton flavor violation
+within MSSM. Working on the interaction basis, we give direct relations between
+$\delta a_\mu$ and Br$(\tau\to\mu\gamma)$ induced by the supersymmetric
+particles. We find the SUSY parameter space to satisfy the $g_\mu-2$ constraint
+can be considerably different from that given in case of no lepton flavor
+mixing in the soft SUSY breaking sector.
+","[{""version"":""v1"",""created"":""Sun, 17 Nov 2002 14:04:14 GMT""}]","2007-05-23"
+"hep-th/0211151","Cesar D. Fosco","C. D. Fosco","A note on anomalous Jacobians in 2+1 dimensions","9 pages, LaTeX, no figures",,,,"hep-th",,"  There exist local infinitesimal redefinitions of the fermionic fields, which
+may be used to modify the strength of the coupling for the interaction term in
+massless QED3. Under those (formally unitary) transformations, the functional
+integration measure changes by an anomalous Jacobian, which (after
+regularization) yields a term with the same structure as the quadratic
+parity-conserving term in the effective action. Besides, the Dirac operator is
+affected by the introduction of new terms, apart from the modification in the
+minimal coupling term. We show that the result coming from the Jacobian, plus
+the effect of those new terms, add up to reproduce the exact quadratic term in
+the effective action. Finally, we also write down the form a finite decoupling
+transformation would have, and comment on the unlikelihood of that
+transformation to yield a helpful answer to the non-perturbative evaluation of
+the fermionic determinant.
+","[{""version"":""v1"",""created"":""Sat, 16 Nov 2002 22:36:21 GMT""}]","2007-05-23"
+"hep-th/0211153","Bozhidar Zakhariev Iliev","Bozhidar Z. Iliev (Institute for Nuclear Research and Nuclear Energy,
+  Bulgarian Academy of Sciences, Sofia, Bulgaria)","On angular momentum operator in quantum field theory","13 LaTeX pages. The packages AMS-LaTeX and amsfonts are required. For
+  related papers, visit the ""publication"" pages at
+  http://theo.inrne.bas.bg/~bozho/","In: Frontiers in quantum physics research, Editors F. Columbus and
+  V. Krasnoholovets, Nova Science Pub., Inc., New York, 2004, pp.129-143",,,"hep-th math-ph math.MP quant-ph",,"  Relations between two definitions of (total) angular momentum operator, as a
+generator of rotations and in the Lagrangian formalism, are explored in quantum
+field theory. Generally, these definitions result in different angular momentum
+operators, which are suitable for different purposes in the theory. From the
+spin and orbital angular momentum operators (in the Lagrangian formalism) are
+extracted additive terms which are conserved operators and whose sum is the
+total angular momentum operator.
+","[{""version"":""v1"",""created"":""Sun, 17 Nov 2002 14:37:01 GMT""}]","2007-05-23"
+"math-ph/0211030","Fernando Haas","F. Haas and J. Goedert","Noether symmetries for two-dimensional charged particle motion",,"J. Phys. A: Math. Gen. v. 32 (1999) 6837-6852","10.1088/0305-4470/32/39/309",,"math-ph math.MP",,"  We find the Noether point symmetries for non-relativistic two-dimensional
+charged particle motion. These symmetries are composed of a quasi-invariance
+transformation, a time-dependent rotation and a time-dependent spatial
+translation. The associated electromagnetic field satisfy a system of
+first-order linear partial differential equations. This system is solved
+exactly, yielding three classes of electromagnetic fields compatible with
+Noether point symmetries. The corresponding Noether invariants are derived and
+interpreted.
+","[{""version"":""v1"",""created"":""Sat, 16 Nov 2002 17:07:18 GMT""}]","2009-11-07"
+"math-ph/0211031","Fernando Haas","J. Goedert and F. Haas","On the Lie symmetries of a class of generalized Ermakov systems",,"Phys. Lett. A v. 239 (1998) 348-352","10.1016/S0375-9601(98)00020-6",,"math-ph math.MP",,"  The symmetry analysis of Ermakov systems is extended to the generalized case
+where the frequency depends on the dynamical variables besides time. In this
+extended framework, a whole class of nonlinearly coupled oscillators are viewed
+as Hamiltonian Ermakov system and exactly solved in closed form.
+","[{""version"":""v1"",""created"":""Sun, 17 Nov 2002 14:10:35 GMT""}]","2015-06-26"
+"math-ph/0211032","Fernando Haas","F. Haas and J. Goedert","On the Hamiltonian structure of Ermakov systems",,"J. Phys. A: Math. Gen. v. (1996) 4083-4092","10.1088/0305-4470/29/14/029",,"math-ph math.MP",,"  A canonical Hamiltonian formalism is derived for a class of Ermakov systems
+specified by several different frequency functions. This class of systems
+comprises all known cases of Hamiltonian Ermakov systems and can always be
+reduced to quadratures. The Hamiltonian structure is explored to find exact
+solutions for the Calogero system and for a noncentral potential with dynamic
+symmetry. Some generalizations of these systems possessing exact solutions are
+also identified and solved.
+","[{""version"":""v1"",""created"":""Sun, 17 Nov 2002 14:27:07 GMT""}]","2009-11-07"
+"math-ph/0211033","Fernando Haas","F. Haas","Generalized Hamiltonian structures for Ermakov systems",,"J. Phys. A: Math. Gen. v. 35 (2002) 2925-2935","10.1088/0305-4470/35/12/314",,"math-ph math.MP",,"  We construct Poisson structures for Ermakov systems, using the Ermakov
+invariant as the Hamiltonian. Two classes of Poisson structures are obtained,
+one of them degenerate, in which case we derive the Casimir functions. In some
+situations, the existence of Casimir functions can give rise to superintegrable
+Ermakov systems. Finally, we characterize the cases where linearization of the
+equations of motion is possible.
+","[{""version"":""v1"",""created"":""Sun, 17 Nov 2002 14:34:47 GMT""}]","2009-11-07"
+"math-ph/0211034","Fernando Haas","F. Haas and J. Goedert","Lie symmetries for two-dimensional charged particle motion",,"J. Phys. A: Math. Gen. v. 33 (2000) 4661-4677","10.1088/0305-4470/33/25/308",,"math-ph math.MP",,"  We find the Lie point symmetries for non-relativistic two-dimensional charged
+particle motion. These symmetries comprise a quasi-invariance transformation, a
+time-dependent rotation, a time-dependent spatial translation and a dilation.
+The associated electromagnetic fields satisfy a system of first-order linear
+partial differential equations. This system is solved exactly, yielding four
+classes of electromagnetic fields compatible with Lie point symmetries.
+","[{""version"":""v1"",""created"":""Sun, 17 Nov 2002 14:39:14 GMT""}]","2009-11-07"
+"math-ph/0211035","Fernando Haas","F. Haas and J. Goedert","On the generalized Hamiltonian structure of 3D dynamical systems",,"Phys. Lett. A v. 199 (1995) 173-179","10.1016/0375-9601(95)00113-H",,"math-ph math.MP",,"  The Poisson structures for 3D systems possessing one constant of motion can
+always be constructed from the solution of a linear PDE. When two constants of
+the motion are available the problem reduces to a quadrature and the structure
+functions include an arbitrary function of them.
+","[{""version"":""v1"",""created"":""Sun, 17 Nov 2002 14:46:06 GMT""}]","2009-11-07"
+"math-ph/0211036","Fernando Haas","F. Haas and J. Goedert","On the linearization of the generalized Ermakov systems",,"J. Phys. A: Math. Gen. v. 32 (1999) 2835-2844","10.1088/0305-4470/32/15/011",,"math-ph math.MP",,"  A linearization procedure is proposed for Ermakov systems with frequency
+depending on dynamic variables. The procedure applies to a wide class of
+generalized Ermakov systems which are linearizable in a manner similar to that
+applicable to usual Ermakov systems. The Kepler--Ermakov systems belong into
+this category but others, more generic, systems are also included.
+","[{""version"":""v1"",""created"":""Sun, 17 Nov 2002 14:56:13 GMT""}]","2009-11-07"
+"math-ph/0211037","Fernando Haas","F. Haas and J. Goedert","Comment on ""A note on the construction of the Ermakov-Lewis invariant""",,"J. Phys. A: Math. Gen. v. 35 (2002) 9943-9944","10.1088/0305-4470/35/46/316",,"math-ph math.MP",,"  We show that the basic results on the paper referred in the title [J. Phys.
+A: Math. Gen. v. 35 (2002) 5333-5345], concerning the derivation of the Ermakov
+invariant from Noether symmetry methods, are not new.
+","[{""version"":""v1"",""created"":""Sun, 17 Nov 2002 15:20:48 GMT""}]","2009-11-07"
+"math/0211247","Rostyslav O. Hryniv","R. O. Hryniv and Ya. V. Mykytyuk","Inverse spectral problems for Sturm-Liouville operators with singular
+  potentials","Submitted to Inverse Problems","Inverse Problems 19 (2003), no. 3, 665-684","10.1088/0266-5611/19/3/312",,"math.SP",,"  The inverse spectral problem is solved for the class of Sturm-Liouville
+operators with singular real-valued potentials from the space $W^{-1}_2(0,1)$.
+The potential is recovered via the eigenvalues and the corresponding norming
+constants. The reconstruction algorithm is presented and its stability proved.
+Also, the set of all possible spectral data is explicitly described and the
+isospectral sets are characterized.
+","[{""version"":""v1"",""created"":""Sun, 17 Nov 2002 06:26:00 GMT""}]","2007-05-23"
+"math/0211253","Daniel C. Cohen","Daniel C. Cohen and Alexander N. Varchenko","Resonant local systems on complements of discriminantal arrangements and
+  sl_2 representations","LaTeX, 12 pages","Geom. Dedicata 101 (2003), 217-234",,,"math.AG math.CO math.QA",,"  We calculate the skew-symmetric cohomology of the complement of a
+discriminantal hyperplane arrangement with coefficients in local systems
+arising in the context of the representation theory of the Lie algebra sl_2.
+For a discriminantal arrangement in C^k, the skew-symmetric cohomology is
+nontrivial in dimension k-1 precisely when the ""master function"" which defines
+the local system on the complement has nonisolated critical points. In
+symmetric coordinates, the critical set is a union of lines. Generically, the
+dimension of this nontrivial skew-symmetric cohomology group is equal to the
+number of critical lines.
+","[{""version"":""v1"",""created"":""Sat, 16 Nov 2002 22:37:37 GMT""}]","2007-05-23"
+"math/0211255","Hiroshi Yamauchi","Hiroshi Yamauchi","Module categories of simple current extensions of vertex operator
+  algebras","latex 14 pages, version 2: English corrected, version 3: Hypotheis I
+  is proved in Lemma 3.1",,,,"math.QA",,"  In this article, we study module categries of simple current extensions of
+vertex operator algebras. Under certain assumptions, we show that every module
+for a rational vertex operator algebra be lifted to a twisted module for an
+extended algebra with an abelian symmetry.
+","[{""version"":""v1"",""created"":""Sat, 16 Nov 2002 16:17:13 GMT""},{""version"":""v2"",""created"":""Tue, 26 Nov 2002 12:37:16 GMT""},{""version"":""v3"",""created"":""Mon, 22 Sep 2003 08:15:07 GMT""}]","2007-05-23"
+"math/0211256","Bennett Chow","Bennett Chow, Feng Luo","Combinatorial Ricci Flows on Surfaces","25 pages, no figures",,,,"math.DG math.GT",,"  We show that the analog of Hamilton's Ricci flow in the combinatorial setting
+produces solutions which converge exponentially fast to Thurston's circle
+packing on surfaces. As a consequence, a new proof of Thurston's existence of
+circle packing theorem is obtained. As another consequence, Ricci flow suggests
+a new algorithm to find circle packings.
+","[{""version"":""v1"",""created"":""Sun, 17 Nov 2002 02:08:45 GMT""}]","2007-05-23"
+"math/0211258","Bertrand Remy","Bertrand Remy","Kac-Moody groups: split and relative theories. Lattices","45 pages, 9 figures",,,,"math.GR",,"  In this survey article, we recall some facts about split Kac-Moody groups as
+defined by J. Tits, describe their main properties and then propose an analogue
+of Borel-Tits theory for a non-split version of them. The main result is a
+Galois descent theorem, i.e. the persistence of a nice combinatorial structure
+after passing to rational points. We are also interested in the geometric point
+of view, namely the production of new buildings admitting (nonuniform)
+lattices.
+","[{""version"":""v1"",""created"":""Sun, 17 Nov 2002 09:58:55 GMT""}]","2007-05-23"
+"math/0211259","Pieter Moree","Pieter Moree","On the distribution of the order and index of g(mod p) over residue
+  classes","30 pages, 2 tables. Updated references and some further small changes","J. Number Theory 114 (2005), 238-271","10.1016/j.jnt.2004.09.004",,"math.NT",,"  For a fixed rational number g, not equal to -1,0 or 1 and integers a and d we
+consider the set of primes p for which the order of g(mod p) is congruent to
+a(mod d). For d=4 and d=3 it is shown that, under the Generalized Riemann
+Hypothesis, these sets have a natural density. Moreover, we explicitly compute
+this density.
+  For d=4 this generalises earlier work by K. Chinen and L. Murata. The case
+d=3 was apparently not considered before.
+","[{""version"":""v1"",""created"":""Sun, 17 Nov 2002 15:25:10 GMT""},{""version"":""v2"",""created"":""Wed, 20 Nov 2002 18:41:21 GMT""},{""version"":""v3"",""created"":""Mon, 19 Apr 2004 18:03:42 GMT""}]","2016-09-07"
+"nucl-ex/0211016","Luis Alvarez Ruso","B.M. Abramov, Yu.A. Borodin, S.A. Bulychjov, I.A. Dukhovskoy, A.B.
+  Kaidalov, A.P. Krutenkova, V.V. Kulikov, M.A. Matsyuk, I.A. Radkevich, E.N.
+  Turdakina, L. Alvarez-Ruso, M. J. Vicente Vacas","Inclusive pion double charge exchange on Oxygen(16) at 0.6-1.1 GeV","27 pages, 13 figures. Minor corrections, one figure added. Accepted
+  in NPA","Nucl.Phys.A723:389-407,2003","10.1016/S0375-9474(03)01322-8",,"nucl-ex nucl-th",,"  The inclusive pion double charge exchange (DCX) on oxygen nuclei has been
+measured in the region where additional pion production is kinematically
+forbidden. The experiment was performed at ITEP PS at incident pi- kinetic
+energies T_0= 0.59, 0.75 and 1.1 GeV. The integrated forward differential cross
+section was found to decrease with energy slowly. At 1.1 GeV it exceeds the
+theoretical prediction within the conventional sequential single charge
+exchange mechanism with a neutral pion in the intermediate state (Glauber
+elastic rescattering) by about half an order of magnitude. The sequential
+mechanism with two pions in the intermediate state (Glauber inelastic
+rescatterings), which was proposed recently, seems to be able to explain the
+observed slow energy dependence and allows to predict the DCX cross section for
+higher energies.
+","[{""version"":""v1"",""created"":""Sun, 17 Nov 2002 13:21:55 GMT""},{""version"":""v2"",""created"":""Sun, 11 May 2003 17:53:05 GMT""}]","2011-02-09"
+"physics/0211074","Fernando Haas","F. Haas","Noether symmetries for charged particle motion under a magnetic monopole
+  and general electric fields",,,,,"physics.class-ph physics.gen-ph",,"  The search for Noether point symmetries for non-relativistic charged particle
+motion is reduced to the solution for a set of two coupled, linear partial
+differential equations for the electromagnetic field. These equations are
+completely solved when the magnetic field is produced by a fixed magnetic
+monopole. The result is applied to central electric field cases, in particular
+to the time-dependent monopole-oscillator problem. As an additional example of
+the theory, we found all Noether point symmetries and invariants for a constant
+magnetic field and a time-dependent harmonic electric field with a forcing
+term.
+","[{""version"":""v1"",""created"":""Sun, 17 Nov 2002 15:08:22 GMT""}]","2007-05-23"
+"quant-ph/0211096","Alexander A. Kokin","A. A. Kokin","Decoherence of quantum states and its suppression in ensemble
+  large-scale solid state NMR quantum computers","LaTeX 7 pages. Submitted to Proceedings of SPIE. International
+  Symposium Quantum Informatics (QI-2002), October 2002, Zvenigorod, Russia",,"10.1117/12.517916",,"quant-ph",,"  It is discussed the decoherence problems in ensemble large-scale solid state
+NMR quantum computer based on the array of P donor atoms having nuclear spin I
+= 1/2. It is considered here, as main mechanisms of decoherence for low
+temperature (< 0.1 K), the adiabatic processes of random modulation of qubit
+resonance frequency determined by secular part of nuclear spin interaction with
+electron spin of the basic atoms, with impurity paramagnetic atoms and also
+with nuclear spins of impurity diamagnetic atoms. It was made estimations of
+allowed concentrations of magnetic impurities and of spin temperature whereby
+the required decoherence suppression is obtained. It is discussed the random
+phase error suppression in the ensemble quantum register basic states.
+","[{""version"":""v1"",""created"":""Sun, 17 Nov 2002 12:50:31 GMT""}]","2009-11-07"

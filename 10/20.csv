@@ -1,0 +1,348 @@
+"astro-ph/0210449","Andrew Baker","Reinhard Genzel, Andrew J. Baker, Linda J. Tacconi, Dieter Lutz,
+  Pierre Cox, Stephane Guilloteau, Alain Omont","Spatially Resolved Millimeter Interferometry of SMMJ02399-0136: a Very
+  Massive Galaxy at z=2.8","19 pages, 6 figures (5 PS + 1 GIF), accepted by ApJ; added color
+  versions of Figures 1, 5, & 6","Astrophys.J.584:633-642,2003","10.1086/345718",,"astro-ph",,"  We report high-resolution millimeter mapping with the IRAM Plateau de Bure
+interferometer of rest-frame 335 micron continuum and CO(3-2) line emission
+from the z=2.8 submillimeter galaxy SMMJ02399-0136. The continuum emission
+comes from a ~3"" diameter structure whose elongation is approximately east-west
+and whose centroid is coincident within the astrometric errors with the
+brightest X-ray and rest-UV peak (L1). The line data show that this structure
+is most likely a rapidly rotating disk. Its rotation velocity of >420 km/s
+implies a total dynamical mass of >3x10^11 solar masses within an intrinsic
+radius of 8 kpc, most of which is plausibly in the form of stars and gas.
+SMMJ02399-0136 is thus a very massive system, whose formation at z~3 is not
+easy to understand in current CDM hierarchical merger cosmogonies.
+","[{""version"":""v1"",""created"":""Sat, 19 Oct 2002 16:49:25 GMT""},{""version"":""v2"",""created"":""Tue, 22 Oct 2002 14:23:31 GMT""}]","2011-05-05"
+"astro-ph/0210450","Hamana Takashi","T. Hamana, S. Miyazaki, K. Shimasaku, H. Furusawa, M. Doi, M. Hamabe,
+  K. Imi, M. Kimura, Y. Komiyama, F. Nakata, N. Okada, S. Okamura, M. Ouchi, M.
+  Sekiguchi, M. Yagi, N. Yasuda","Cosmic shear statistics in the Suprime-Cam 2.1 sq deg field: Constraints
+  on Omega_m and sigma_8","12 pages, 12 figures, accepted for publication in ApJ","Astrophys.J. 597 (2003) 98-110","10.1086/378348",,"astro-ph",,"  We present measurements of the cosmic shear correlation in the shapes of
+galaxies in the Suprime-Cam 2.1 deg^2 R_c-band imaging data. As an estimator of
+the shear correlation originated from the gravitational lensing, we adopt the
+aperture mass variance. We detect a non-zero E mode variance on scales between
+2 and 40arcmin. We also detect a small but non-zero B mode variance on scales
+larger than 5arcmin. We compare the measured E mode variance to the model
+predictions in CDM cosmologies using maximum likelihood analysis. A
+four-dimensional space is explored, which examines sigma_8, Omega_m, Gamma and
+zs (a mean redshift of galaxies). We include three possible sources of error:
+statistical noise, the cosmic variance estimated using numerical experiments,
+and a residual systematic effect estimated from the B mode variance. We derive
+joint constraints on two parameters by marginalizing over the two remaining
+parameters. We obtain an upper limit of Gamma<0.5 for zs>0.9 (68% confidence).
+For a prior Gamma\in[0.1,0.4] and zs\in[0.6,1.4], we find
+sigma_8=(0.50_{-0.16}^{+0.35})Omega_m^{-0.37} for flat cosmologies and
+sigma_8=(0.51_{-0.16}^{+0.29})Omega_m^{-0.34}$ for open cosmologies (95%
+confidence). If we take the currently popular LCDM model, we obtain a
+one-dimensional confidence interval on sigma_8 for the 95.4% level,
+0.62<\sigma_8<1.32 for zs\in[0.6,1.4]. Information on the redshift distribution
+of galaxies is key to obtaining a correct cosmological constraint. An
+independent constraint on Gamma from other observations is useful to tighten
+the constraint.
+","[{""version"":""v1"",""created"":""Sat, 19 Oct 2002 23:22:42 GMT""},{""version"":""v2"",""created"":""Fri, 11 Jul 2003 07:44:20 GMT""}]","2009-11-07"
+"astro-ph/0210451","Yu-ichiro Ezoe","Yu-ichiro Ezoe (1), Naoko Iyomoto (2), Kazuo Makishima (1 and 3), and
+  Gunter Hasinger (4) ((1) Department of Physics, University of Tokyo (2) The
+  Institute of Space and Astronautical Science (3) The Institute of Physical
+  and Chemical Research (RIKEN) (4) Max-Planck-Institut fur Extraterrestrische
+  Physik)","Long-term X-ray variability of quasars in the Lockman Hole field
+  observed with ROSAT","8 pages, 3 figures, accepted in PASJ",,"10.1093/pasj/54.6.981",,"astro-ph",,"  An improved method is utilized to estimate the X-ray power spectral densities
+(PSD) and the variation time scales of three quasars in the Lockman Hole field.
+Five archival ROSAT PSPC data covering two year range are analyzed. To estimate
+PSD from sparse and unevenly-sampled lightcurves, a forward-method approach
+with extensive Monte-Carlo simulations is adopted. A broken power-law type PSD
+with a constant Poisson noise component is assumed with a break frequency
+$f_{\rm b}$. Then, assuming the PSD slope $\alpha$ as $-2<\alpha<-1$, $1/
+f_{\rm b}$ is constrained as $\gtrsim$ 25 days for one object, while the
+constraints on the other two objects are very weak. The long time scale of the
+one object is consistent with the view that luminous AGNs host massive black
+holes.
+","[{""version"":""v1"",""created"":""Sun, 20 Oct 2002 07:55:36 GMT""},{""version"":""v2"",""created"":""Tue, 22 Oct 2002 02:24:20 GMT""}]","2015-06-24"
+"astro-ph/0210452","Igor Rogachevskii","T. Elperin, N. Kleeorin, I. Rogachevskii and S. Zilitinkevich","Formation of Large-Scale Semi-Organized Structures in Turbulent
+  Convection","16 pages, 10 figures, REVTEX4, PHYSICAL REVIEW E, v. 67, in press
+  (2003)","Phys.Rev. E66 (2002) 066305","10.1103/PhysRevE.66.066305",,"astro-ph",,"  A new mean-field theory of turbulent convection is developed. This theory
+predicts the convective wind instability in a shear-free turbulent convection
+which causes formation of large-scale semi-organized fluid motions in the form
+of cells or rolls. Spatial characteristics of these motions, such as the
+minimum size of the growing perturbations and the size of perturbations with
+the maximum growth rate, are determined. This study predicts also the existence
+of the convective shear instability in a sheared turbulent convection which
+results in generation of convective shear waves with a nonzero hydrodynamic
+helicity. Increase of shear promotes excitation of the convective shear
+instability. Applications of the obtained results to the atmospheric turbulent
+convection and the laboratory experiments on turbulent convection are
+discussed. This theory can be applied also for the describing a mesogranular
+turbulent convection in astrophysics.
+","[{""version"":""v1"",""created"":""Sun, 20 Oct 2002 11:07:53 GMT""}]","2009-11-07"
+"astro-ph/0210453","Joerg R. Hoerandel","J.R. Hoerandel","On the knee in the energy spectrum of cosmic rays","30 pages, 21 figures, 9 tables, accepted by Astroparticle Physics","Astropart.Phys. 19 (2003) 193-220","10.1016/S0927-6505(02)00198-6",,"astro-ph",,"  The knee in the all-particle energy spectrum is scrutinized with a
+phenomenological model, named poly-gonato model, linking results from direct
+and indirect measurements. For this purpose, recent results from direct and
+indirect measurements of cosmic rays in the energy range from 10 GeV up to 1
+EeV are examined. The energy spectra of individual elements, as obtained by
+direct observations, are extrapolated to high energies using power laws and
+compared to all-particle spectra from air shower measurements. A cut-off for
+each element proportional to its charge Z is assumed. The model describes the
+knee in the all-particle energy spectrum as a result of subsequent cut-offs for
+individual elements, starting with the proton component at 4.5 PeV, and the
+second change of the spectral index around 0.4 EeV as due to the end of stable
+elements (Z=92). The mass composition, extrapolated from direct measurements to
+high energies, using the poly-gonato model, is compatible with results from air
+shower experiments measuring the electromagnetic, muonic, and hadronic
+components. But it disagrees with the mass composition derived from X_max
+measurements using Cerenkov and fluorescence light detectors.
+","[{""version"":""v1"",""created"":""Sun, 20 Oct 2002 12:39:19 GMT""}]","2009-11-07"
+"cond-mat/0210428","Zhen Ye","Zhen Ye","Are waves all localized in two dimensional random media?",,"Phys. Lett. A Vol 313/5-6 pp 485-490 (2003)","10.1016/S0375-9601(03)00854-5",,"cond-mat.dis-nn",,"  It has been the dominant view for over two decades that all waves are
+localized in two dimensions for any given amount of disorder. Here, I would
+like to raise questions about this assertion. The discussion leads to the
+conclusion that there is a lack of the conclusive and definite support of the
+claim. Rather, the recent evidence tends to indicate that waves are not
+necessarily always localized in two dimensional random systems. Reasons are
+elaborated.
+","[{""version"":""v1"",""created"":""Sat, 19 Oct 2002 23:56:21 GMT""}]","2015-06-24"
+"cond-mat/0210431","Chen Li","C Li, J J Wang, C Y He, L F Meng, R s Han, Z X Gao","Trapped magnetic field in a superconducting disk magnetized by uniform
+  field","14 pages, 7 figues",,,,"cond-mat.supr-con",,"  The distribution of the current density and the profile of the trapped
+magnetic field of a superconducting disk magnetized by uniform field are
+calculated from first principles. The effect of the superconducting parameters
+is taken into account by assuming the voltage-current law and the material law.
+The sample volume, the critical current density and the flux creep exponent
+dominate the strength of the trapped magnetic field. The flux creep exponent
+determines the decay rate of the trapped magnetic field. The aspect ratio of
+the sample influences the shape of the trapped magnetic flux lines. We conclude
+that higher trapped magnetic field cannot always be obtained by increasing the
+applied magnetic field.
+","[{""version"":""v1"",""created"":""Sun, 20 Oct 2002 07:32:26 GMT""}]","2007-05-23"
+"cond-mat/0210432","Jonathan. A. James.","J.A. James, J.R. Santistiban, M.R. Daymond and L. Edwards","Use of a Virtual Laboratory to plan, execute and analyse Neutron Strain
+  Scanning experiments","NOBUGS2002 conference paper, (NOBUGS2002, NIST, Gaithersburg, MD,
+  Abstract identifier NOBUGS2002/026. 6 pages, 9 figures, pdf file",,,,"cond-mat.mtrl-sci",,"  The new generation of dedicated Engineering Strain Scanners at neutron
+facilities such as ENGIN-X at ISIS and SMARTS at LANSCE offer considerable
+increases in both the throughput of samples and the density of measurements
+which are feasible within each sample. This trend is set to increase further
+with new neutron sources such as the SNS. In order to make full use of these
+advances the routine processes associated with setting up measurements, and
+analysing data need to be made as efficient as possible. This issue has been
+addressed on ENGIN-X by writing a new piece of software which provides support
+for many of these operations. The approach is based on a virtual lab consisting
+of three dimensional models of the sample and lab equipment such as collimators
+and positioner. A typical session using the package would be; 1) Generate the
+sample model using primitives or from surface points measured with a coordinate
+measurement machine, 2) Specify fiducial and measurement points on screen, 3)
+Locate the sample model within the virtual and real laboratories, 4) Execute
+the measurement sequence using automatically generated machine control scripts,
+5). Analyse the data, 6). Display data using a variety of options including
+superimposed on the sample model. The inclusion of an accurate sample model
+within the virtual lab allows many other useful properties such as neutron path
+lengths and measurement gauge volumes to be determined; it is also a relatively
+simple matter to check for possible collisions between sample and lab equipment
+such as collimators thereby avoiding potentially costly mistakes. The software
+which is shortly to be installed at ENGIN-X has been designed with visiting
+industrial and academic researchers in mind; users who need to be able to
+control the instrument after only a short period of training.
+","[{""version"":""v1"",""created"":""Sun, 20 Oct 2002 11:25:36 GMT""}]","2007-05-23"
+"cond-mat/0210433","Tobias Unruh","Tobias Unruh","Instrument Control at the FRM-II using TACO and NICOS","NOBUGS 2002, Talk A-5, 10 pages, 4 figures, 2 tables",,,,"cond-mat",,"  At the new neutron source FRM--II in Garching, Germany, the TACO control
+system, originally developed at the ESRF in Grenoble, France is used for
+instrument control purposes. TACO provides an object oriented, distributed
+control system including a clearly defined API. In order to equip TACO with a
+general user front end, a network based instrument control system named NICOS
+has been developed at the FRM-II. NICOS is divided into three parts: the NICOS
+Client, the NICOS Server and the NICOSMethods.
+","[{""version"":""v1"",""created"":""Sun, 20 Oct 2002 10:49:48 GMT""},{""version"":""v2"",""created"":""Tue, 22 Oct 2002 07:38:27 GMT""}]","2007-05-23"
+"cond-mat/0210434","John R. Clem","Andrey A. Elistratov (1), Denis Yu. Vodolazov (1), Igor L. Maksimov
+  (1), John R. Clem (2) ((1) Nizhny Novgorod University, Nizhny Novgorod,
+  Russia, (2) Ames Laboratory and Department of Physics and Astronomy, Iowa
+  State University, Ames, Iowa)","Field-Dependent Critical Current in Type-II Superconducting Strips:
+  Combined Effect of Bulk Pinning and Geometrical Edge Barrier","4 pages, 2 figures, Fig. 1 revised, submitted to Phys. Rev. B","Phys. Rev. B 66, 220506(R) (2002) [Erratum: Phys. Rev. B 67,
+  099901 (2003)]","10.1103/PhysRevB.66.220506",,"cond-mat.supr-con",,"  Recent theoretical and experimental research on low-bulk-pinning
+superconducting strips has revealed striking dome-like magnetic-field
+distributions due to geometrical edge barriers. The observed magnetic-flux
+profiles differ strongly from those in strips in which bulk pinning is
+dominant. In this paper we theoretically describe the current and field
+distributions of a superconducting strip under the combined influence of both a
+geometrical edge barrier and bulk pinning at the strip's critical current Ic,
+where a longitudinal voltage first appears. We calculate Ic and find its
+dependence upon a perpendicular applied magnetic field Ha. The behavior is
+governed by a parameter p, defined as the ratio of the bulk-pinning critical
+current Ip to the geometrical-barrier critical current Is0. We find that when p
+> 2/pi and Ip is field-independent, Ic vs Ha exhibits a plateau for small Ha,
+followed by the dependence Ic-Ip ~ 1/Ha in higher magnetic fields.
+","[{""version"":""v1"",""created"":""Sun, 20 Oct 2002 13:38:30 GMT""},{""version"":""v2"",""created"":""Tue, 29 Oct 2002 14:00:33 GMT""}]","2010-08-31"
+"cond-mat/0210435","Zoltan Racz","Zoltan Racz (Institute for Theoretical Physics, Eotvos University)","Nonequilibrium Phase Transitions","Lecture Notes, Les Houches, July 2002, 43 pages, 11 figures",,,,"cond-mat.stat-mech",,"  Nonequilibrium phase transitions are discussed with emphasis on general
+features such as the role of detailed balance violation in generating effective
+(long-range) interactions, the importance of dynamical anisotropies, the
+connection between various mechanisms generating power-law correlations, and
+the emergence of universal distribution functions for macroscopic quantities.
+Quantum spin chains are also discussed in order to demonstrate how to construct
+steady-states carrying fluxes in quantum systems, and to explain how the fluxes
+may generate power-law correlations.
+","[{""version"":""v1"",""created"":""Sun, 20 Oct 2002 15:22:50 GMT""}]","2007-05-23"
+"gr-qc/0210068","Burc Gokden","Burc Gokden","Study of a formalism modeling massive particles at the speed of light on
+  a Machian basis","12 pages, 1 figure, written using Revtex4, new arguments added",,,,"gr-qc",,"  In this paper we develop a formalism which models all massive particles as
+travelling at the speed of light(c). This is done by completing the 3-velocity
+v of a test particle to the speed of light by adding an auxiliary 3-velocity
+component z for the particle. According to the observations and laws of physics
+defined in our spacetime these vectors are generalized to domains and then two
+methods are developed to define c domain in terms of our spacetime(v domain).
+By using these methods the formalism is applied on relativistic quantum theory
+and general theory of relativity. From these, the relation between the
+formalism and Mach's principle is investigated. The ideas and formulae
+developed from application of the formalism on general relativity are compared
+with the characteristics of anomalous accelerations detected on Pioneer 10/11,
+Ulysses and Galileo spacecrafts and an explanation according to the formalism
+is suggested. Possible relationships between Mach's principle and the
+nondeterministic nature of the universe are also explored. In this study Mach's
+principle, on which current debate still continues, is expressed from an
+unconventional point of view, as a naturally arising consequence of the
+formalism, and the approaches are simplified accordingly.
+","[{""version"":""v1"",""created"":""Sat, 19 Oct 2002 19:59:22 GMT""},{""version"":""v2"",""created"":""Wed, 22 Jan 2003 22:26:10 GMT""}]","2007-05-23"
+"hep-ph/0210272","Tsung-Wen Yeh","Tsung-Wen Yeh","Subleading power corrections in $B\to PP$ decays","This paper has been withdrawn",,,,"hep-ph",,"  This paper has been withdrawn by the author due to new results to be added.
+","[{""version"":""v1"",""created"":""Sat, 19 Oct 2002 19:31:03 GMT""},{""version"":""v2"",""created"":""Mon, 18 Nov 2002 08:10:18 GMT""},{""version"":""v3"",""created"":""Thu, 25 Jan 2007 02:48:37 GMT""}]","2007-05-23"
+"hep-th/0210186","Robert Brandenberger","Robert H. Brandenberger (Brown University)","Trans-Planckian Physics and Inflationary Cosmology","14 pages, 1 figure invited plenary talk at CosPA2002 (National Taiwan
+  Univ., Taipei, Taiwan), to be publ. in the proceedings. Two references added,
+  discussion extended",,"10.1142/9789812704900_0008","BROWN-HET-1323","hep-th astro-ph gr-qc hep-ph",,"  Due to the quasi-exponential red-shifting which occurs during an inflationary
+period in the very early Universe, wavelengths which at the present time
+correspond to cosmological lengths are in general sub-Planckian during the
+early stages of inflation. This talk discusses two approaches to addressing
+this issue which both indicate that the standard predictions of inflationary
+cosmology - made using classical general relativity and weakly coupled scalar
+matter field theory - are not robust against changes in the physics on
+trans-Planckian scales. One approach makes use of modified dispersion relations
+for a usual free field scalar matter theory, the other uses some properties of
+space-time non-commutativity - a feature expected in string theory. Thus, it is
+possible that cosmological observations may be used as a window to explore
+trans-Planckian physics. We also speculate on a novel way of obtaining
+inflation based on modified dispersion relations for ordinary radiation.
+","[{""version"":""v1"",""created"":""Sun, 20 Oct 2002 01:54:11 GMT""},{""version"":""v2"",""created"":""Fri, 1 Nov 2002 15:23:43 GMT""}]","2017-08-23"
+"hep-th/0210187","Sohrab Rahvar","M.R. Setare","The Cardy-Verlinde formula and entropy of Topological
+  Reissner-Nordstr\""om black holes in de Sitter spaces","6 pages, accepted for publication in IJMPA","Mod.Phys.Lett. A17 (2002) 2089-2094","10.1142/S0217732302008733",,"hep-th",,"  In this paper we discuss the question of whether the entropy of cosmological
+horizon in Topological Reissner-Nordstr\""om- de Sitter spaces can be described
+by the Cardy-Verlinde formula, which is supposed to be an entropy formula of
+conformal field theory in any dimension. Furthermore, we find that the entropy
+of black hole horizon can also be rewritten in terms of the Cardy-Verlinde
+formula for these black holes in de Sitter spaces, if we use the definition due
+to Abbott and Deser for conserved charges in asymptotically de Sitter spaces.
+Our result is in favour of the dS/CFT correspondence.
+","[{""version"":""v1"",""created"":""Sun, 20 Oct 2002 11:55:53 GMT""}]","2009-11-07"
+"hep-th/0210188","Jan Naudts","Jan Naudts, Maciej Kuna, and Wojciech De Roeck","Photon fields in a fluctuating spacetime","18 pages",,,,"hep-th gr-qc math-ph math.MP",,"  We present a model of interacting quantum fields, formulated in a
+non-perturbative manner. One of the fields is treated semi-classically, the
+other is the photon field. The model has an interpretation of an
+electromagnetic field in a fluctuating spacetime.
+  The model is equivalent with the quantization of electromagnetism proposed
+recently by Czachor. Interesting features are that standard photon theory is
+recovered as a limiting case, and that localized field operators for the
+electromagnetic field exist as unbounded operators in Hilbert space.
+","[{""version"":""v1"",""created"":""Sun, 20 Oct 2002 15:51:31 GMT""}]","2007-05-23"
+"math/0210307","Ilya Kapovich","Ilya Kapovich and Paul Schupp","Genericity, the Arzhantseva-Ol'shanskii method and the Isomorphism
+  Problem for One-Relator Groups","17 pages, 1 figure",,,,"math.GR math.GT",,"  We apply the method of Arzhantseva-Ol'shanskii to prove that for an
+exponentially generic (in the sense of Ol'shanskii) class of one-relator groups
+the isomorphism problem is solvable in at most exponential time.
+  This is obtained as a corollary of our more general result that for any fixed
+integers $m>1, n>0$ there is an exponentially generic class of $m$-generator
+$n$-relator groups where every group has only one Nielsen equivalence class of
+$m$-tuples generating non-free subgroups. This means that a group $G$ in this
+class has has only one non-free $m$-generated subgroup, namely $G$ itself.
+Hence for any homomorphism for an $m$-generated group to $G$ the image of this
+homomorphism is either free or is equal to $G$. Applied to injective
+homomorphisms from $G$ to itself this implies that $G$ is co-Hopfian. Moreover,
+every automorphism of $G$ is ""freely induced"", that is, it lifts to an
+automorphism of the free group $F_m$.
+  All of these results are obtained by folding methods without using the theory
+of JSJ-decomposition or the R-tree techniques deployed by Zlil Sela in his
+famous solution of the isomorphism problem for torsion-free word-hyperbolic
+groups.
+","[{""version"":""v1"",""created"":""Sat, 19 Oct 2002 18:20:19 GMT""}]","2007-05-23"
+"math/0210308","Ilya Kapovich","Ilya Kapovich and Richard Weidmann","Acylindrical accessibility for groups acting on $\mathbf R$-trees","Final revised version, to appear in Math. Z",,,,"math.GR math.GT",,"  We prove an acylindrical accessibility theorem for finitely generated groups
+acting on $\mathbf R$-trees. Namely, we show that if $G$ is a freely
+indecomposable non-cyclic $k$-generated group acting minimally and
+$M$-acylindrically on an $\mathbf R$-tree $X$ then for any $\epsilon>0$ there
+is a finite subtree $Y_{\epsilon}\subseteq X$ of measure at most
+$2M(k-1)+\epsilon$ such that $GY_{\epsilon}=X$. This generalizes theorems of
+Z.Sela and T.Delzant about actions on simplicial trees.
+","[{""version"":""v1"",""created"":""Sat, 19 Oct 2002 19:25:50 GMT""},{""version"":""v2"",""created"":""Fri, 27 Aug 2004 18:40:12 GMT""}]","2007-05-23"
+"math/0210309","Kaori Suzuki","Kaori Suzuki","On Fano indicies of Q-Fano 3-folds","17 pages, paper accepted",,,,"math.AG",,"  This paper considers Q-Fano 3-folds X with \rho=1. The aim is to determine
+the maximal Fano index f of X. We prove that f<= 19, and that in case of
+equality, the Hilbert series of X equals that of weighted projective space
+PP(3,4,5,7). From the previous version, we restrict the list of all
+possibilities of X to the case f>8. It will appear in a forthcoming paper.
+","[{""version"":""v1"",""created"":""Sun, 20 Oct 2002 08:49:40 GMT""},{""version"":""v2"",""created"":""Sun, 18 Jan 2004 06:09:32 GMT""}]","2007-05-23"
+"math/0210310","Eckart Viehweg","Eckart Viehweg (Essen), Kang Zuo (Hong Kong)","Discreteness of minimal models of Kodaira dimension zero and
+  subvarieties of moduli stacks","26 pages, AMSLaTeX, 3nd version with some minor corrections and a new
+  introduction",,,,"math.AG",,"  We extend some of the results obtained for subvarieties of the moduli stack
+of canonically polarized manifolds in ""Base spaces of non-isotrivial families
+of smooth minimal models"" (math.AG/0103122) to moduli of polarized minimal
+models of Kodaira dimension zero. To this aim we first show that for those
+manifolds there are no non isotrivial families of minimal models, which are
+birationally isotrivial. In the last chapter, we discuss the rigidity of curves
+in the moduli stack of canonically polarized manifolds and of polarized minimal
+models of Kodaira dimension zero.
+","[{""version"":""v1"",""created"":""Sun, 20 Oct 2002 11:48:15 GMT""},{""version"":""v2"",""created"":""Thu, 12 Dec 2002 12:27:59 GMT""},{""version"":""v3"",""created"":""Sat, 8 Mar 2003 11:44:17 GMT""}]","2007-05-23"
+"math/0210311","Yu Chen","Yu Chen and Matthew Dyer","On the combinatorics of $B \times B$-orbits on group compactifications","14 pages",,,,"math.RT",,"  It is shown that there is an order isomorphism $\phi'$ from the poset $V$ of
+$B\times B$-orbits on the wonderful compactification of a semi-simple adjoint
+group $G$ with Weyl group $W$ to an interval in reverse Chevalley-Bruhat order
+on a non-canonically associated Coxeter group $\hat{W}$ (in general neither
+finite nor affine). Moreover, $\phi'$ preserves the corresponding
+Kazhdan-Lusztig polynomials. Springer's (partly conjectural) construction of
+Kazhdan-Lusztig polynomials for the analogues of $V$ for general Coxeter groups
+$W$ is completed by reducing it by a similar order isomorphism to known results
+involving a ``twisted'' Chevalley-Bruhat order on $\hat{W}$.
+","[{""version"":""v1"",""created"":""Sun, 20 Oct 2002 14:37:16 GMT""}]","2007-05-23"
+"nucl-ex/0210028","Falk Meissner","F. Meissner (LBNL, for the STAR Collaboration)","Coherent Vector Meson Production in Ultra-Peripheral Heavy-Ion
+  Collisions at STAR","4 pages, 4 figures, Talk presented at Quark Matter 2002, Nantes,
+  France, July 2002","Nucl.Phys.A715:522-525,2003","10.1016/S0375-9474(02)01506-3",,"nucl-ex",,"  We report the first observation of coherent rho0 production (AuAu->AuAu rho0)
+and rho0 production accompanied by mutual nuclear Coulomb excitation
+(AuAu->Au*Au*rho0),and the observation of coherent e+e- pair production
+(AuAu->Au*Au*e+e-) in ultra-peripheral relativistic heavy-ion collisions
+(UPCs). We give transverse momentum, mass, and rapidity distributions. The
+cross sections for coherent rho0 production at sqrt{s_NN}=130 and 200 GeV are
+in agreement with theoretical predictions, which treat rho^0 production and
+nuclear excitation as independent processes.
+","[{""version"":""v1"",""created"":""Sun, 20 Oct 2002 05:37:36 GMT""}]","2011-07-19"
+"nucl-th/0210058","Jian-Miin Liu","Jian-Miin Liu","The nuclear fusion reaction rate based on relativistic equilibrium
+  velocity distribution","6 pages with no figure",,,,"nucl-th astro-ph cond-mat.stat-mech",,"  The Coulomb barrier is in general much higher than thermal energy. Nuclear
+fusion reactions occur only among few protons and nuclei with higher relative
+energies than Coulomb barrier. It is the equilibrium velocity distribution of
+these high-energy protons and nuclei that participates in determining the rate
+of nuclear fusion reactions. In the circumstance it is inappropriate to use the
+Maxwellian velocity distribution for calculating the nuclear fusion reaction
+rate. We use the relativistic equilibrium velocity distribution for this
+purpose. The rate based on the relativistic equilibrium velocity distribution
+has a reduction factor with respect to that based on the Maxwellian
+distribution, which factor depends on the temperature, reduced mass and atomic
+numbers of the studied nuclear fusion reactions. This signifies much to the
+solar neutrino problem.
+","[{""version"":""v1"",""created"":""Sun, 20 Oct 2002 14:26:11 GMT""}]","2007-05-23"
+"physics/0210081","Jeremy Nicholas Butterfield","Jeremy Butterfield","Some Aspects of Modality in Analytical Mechanics","36 pages, no figures. Delivered at a Philosophy of Science
+  Association Symposium in memory of the distinguished philosopher David Lewis,
+  Milwaukee, November 2002. This version includes significant additions to
+  Section 5.1. This version is forthcoming in `Formal Teleology and Causality',
+  ed. M. Stoeltzner, P. Weingartner, Paderborn, Germany: Mentis. A precis of
+  the first half of the paper is forthcoming in the journal Philosophy of
+  Science",,,,"physics.class-ph physics.gen-ph",,"  This paper discusses some of the modal involvements of analytical mechanics.
+I first review the elementary aspects of the Lagrangian, Hamiltonian and
+Hamilton-Jacobi approaches. I then discuss two modal involvements; both are
+related to David Lewis' work on modality, especially on counterfactuals.
+  The first is the way Hamilton-Jacobi theory uses ensembles, i.e. sets of
+possible initial conditions. The structure of this set of ensembles remains to
+be explored by philosophers.
+  The second is the way the Lagrangian and Hamiltonian approaches' variational
+principles state the law of motion by mentioning contralegal dynamical
+evolutions. This threatens to contravene the principle that any actual truth,
+in particular an actual law, is made true by actual facts. Though this threat
+can be avoided, at least for simple mechanical systems, it repays scrutiny; not
+least because it leads to some open questions.
+","[{""version"":""v1"",""created"":""Sat, 19 Oct 2002 20:27:10 GMT""},{""version"":""v2"",""created"":""Thu, 31 Oct 2002 12:18:29 GMT""},{""version"":""v3"",""created"":""Wed, 21 May 2003 09:35:14 GMT""}]","2016-09-08"
+"physics/0210082","Dennis J. Mikkelson","D. J. Mikkelson (1), R. L. Mikkelson (1), T. G. Worlton (2), A.
+  Chatterjee (2), J. P. Hammonds (2), P. F. Peterson (2), A. J. Schultz (2)
+  ((1) University of Wisconsin-Stout,(2) Argonne National Laboratory)","Coordinated, Interactive Data Visualization for Neutron Scattering Data","Talk at NOBUGS 2002 Conference, NIST, Gaithersburg MD. NOBUGS
+  abstract identifier NOBUGS/034",,,"NOBUGS/034","physics.data-an physics.ins-det",,"  The overall design of the Integrated Spectral Analysis Workbench (ISAW),
+being developed at Argonne, provides for an extensible, highly interactive,
+collaborating set of viewers for neutron scattering data. Large arbitrary
+collections of spectra from multiple detectors can be viewed as an image, a
+scrolled list of individual graphs, or using a 3D representation of the
+instrument showing the detector positions. Data from an area detector can be
+displayed using a contour or intensity map as well as an interactive table.
+Selected spectra can be displayed in tables or on a conventional graph. A
+unique characteristic of these viewers is their interactivity and coordination.
+The position ""pointed at"" by the user in one viewer is sent to other viewers of
+the same DataSet so they can track the position and display relevant
+information. Specialized viewers for single crystal neutron diffractometers are
+being developed. A ""proof-of-concept"" viewer that directly displays the 3D
+reciprocal lattice from a complete series of runs on a single crystal
+diffractometer has been implemented.
+","[{""version"":""v1"",""created"":""Sun, 20 Oct 2002 04:20:36 GMT""}]","2007-05-23"

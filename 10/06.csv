@@ -1,0 +1,436 @@
+"astro-ph/0210132","Hiroyuki Yoshiguchi","H. Yoshiguchi, S. Nagataki, S. Tsubaki, K. Sato","Small Scale Clustering in the Isotropic Arrival Distribution of
+  Ultra-High Energy Cosmic Rays and Implications for Their Source Candidates","17 pages, 22 figures, 1 table. accepted version for publication in
+  the Astrophysical Journal","Astrophys.J. 586 (2003) 1211-1231; Erratum-ibid. 601 (2004) 592","10.1086/367931","UTAP-423","astro-ph",,"  We present numerical simulations on the propagation of UHE protons with
+energies of $(10^{19.5}-10^{22})$ eV in extragalactic magnetic fields over 1
+Gpc. We use the ORS galaxy sample, which allow us to accurately quantify the
+contribution of nearby sources to the energy spectrum and the arrival
+distribution, as a source model. We calculate three observable quantities,
+cosmic ray spectrum, harmonic amplitude, and two point correlation function
+from our data of numerical simulations. With these quantities, we compare the
+results of our numerical calculations with the observation. We show that the
+three observable quantities including the GZK cutoff of the energy spectrum can
+be reproduced in the case that the number fraction $\sim 10^{-1.7}$ of the ORS
+galaxies more luminous than -20.5 mag is selected as UHECR sources. In terms of
+the source number density, this constraint corresponds to $10^{-6}$ Mpc$^{-3}$.
+However, since mean number of sources within the GZK sphere is only $\sim 0.5$
+in this case, the AGASA 8 events above $10^{20.0}$ eV, which do not constitute
+the clustered events with each other, can not be reproduced. On the other hand,
+if the cosmic ray flux measured by the HiRes, which is consistent with the GZK
+cutoff, is correct and observational features about the arrival distribution of
+UHECRs are same as the AGASA, our source model can explain both the arrival
+distribution and the flux at the same time. Thus, we conclude that large
+fraction of the AGASA 8 events above $10^{20}$ eV might originate in the
+topdown scenarios, or that the cosmic ray flux measured by the HiRes experiment
+might be better. We also discuss the origin of UHECRs below $10^{20.0}$ eV
+through comparisons between the number density of astrophysical source
+candidates and our result ($\sim 10^{-6}$ Mpc$^{-3}$).
+","[{""version"":""v1"",""created"":""Sat, 5 Oct 2002 18:57:06 GMT""},{""version"":""v2"",""created"":""Wed, 11 Dec 2002 08:40:57 GMT""},{""version"":""v3"",""created"":""Wed, 2 Jul 2003 08:51:25 GMT""}]","2009-11-07"
+"astro-ph/0210133","Steve McMillan","H. Baumgardt, P. Hut, J. Makino, S. McMillan, S. Portegies Zwart","On the central structure of M15","12 pages, 4 figures. Accepted for publication in ApJL","Astrophys.J.582:L21-L24,2003","10.1086/367537",,"astro-ph",,"  We present a detailed comparison between the latest observational data on the
+kinematical structure of the core of M15, obtained with the Hubble STIS and
+WFPC2 instruments, and the results of dynamical simulations carried out using
+the special-purpose GRAPE-6 computer. The observations imply the presence of a
+significant amount of dark matter in the cluster core. In our dynamical
+simulations, neutron stars and/or massive white dwarfs concentrate to the
+center through mass segregation, resulting in a sharp increase in $M/L$ toward
+the center. While consistent with the presence of a central black hole, the
+Hubble data can also be explained by this central concentration of stellar-mass
+compact objects. The latter interpretation is more conservative, since such
+remnants result naturally from stellar evolution, although runaway merging
+leading to the formation of a black hole may also occur for some range of
+initial conditions. We conclude that no central massive object is required to
+explain the observational data, although we cannot conclusively exclude such an
+object at the level of $\sim500-1000$ solar masses. Our findings are unchanged
+when we reduce the assumed neutron-star retention fraction in our simulations
+from 100% to 0%.
+","[{""version"":""v1"",""created"":""Sat, 5 Oct 2002 20:12:08 GMT""},{""version"":""v2"",""created"":""Tue, 8 Oct 2002 02:14:34 GMT""},{""version"":""v3"",""created"":""Fri, 22 Nov 2002 20:13:58 GMT""}]","2009-11-07"
+"astro-ph/0210135","Kyoko Matsushita","H. Katayama (1), I. Takahashi (2), Y. Ikebe (3), K. Matsushita (3),
+  and M. J. Freyberg (3)((1)Osaka Univ. (2)Univ. of Tokyo (3)MPE)","Properties of the background of EPIC-pn onboard XMM-Newton","9 pages, submitted to A&A","Astron.Astrophys. 414 (2004) 767-776","10.1051/0004-6361:20031687",,"astro-ph",,"  We have investigated the background properties of EPIC-pn onboard XMM-Newton
+to establish the background subtraction method. Count rates of the background
+vary violently by two orders of magnitude at the maximum, while during the most
+quiet period, these are stable within 8 % at a 1 $\sigma$ level. The overall
+spectrum is dominated by particle events above 5 keV, and its spatial variation
+is also found. The long-term variation of the background is also investigated
+with CAL CLOSED data, where the filter wheel was in closed position with the
+internal calibration source illuminating the sensitive area. The average
+background count rate decreased by 20 % from March 2000 to January 2001, but it
+regained in February 2001. For the modeling of the background spectrum, we
+investigate relations between the 2.0--7.0 keV count rate and some
+characteristic parameters. The 2.0--7.0 keV background count rate shows a good
+correlation with the count rate of events outside the field of view. This
+correlation is usable for the modeling of the background.
+","[{""version"":""v1"",""created"":""Sun, 6 Oct 2002 06:12:37 GMT""}]","2009-11-07"
+"astro-ph/0210136","Jatush Sheth","Jatush V.Sheth, Varun Sahni, Sergei F.Shandarin, and B.S.Sathyaprakash","Measuring the Geometry and Topology of Large Scale Structure using
+  SURFGEN: Methodology and Preliminary Results","28 MNRAS-style pages, 24 figures -- Revised with enhanced discussion
+  and added references. An appendix included which shows that SURFGEN gives
+  excellent results when applied to Gaussian Random Fields. Accepted for
+  publication in MNRAS","Mon.Not.Roy.Astron.Soc. 343 (2003) 22","10.1046/j.1365-8711.2003.06642.x",,"astro-ph",,"  We present a new ansatz which can successfully be used to determine the
+morphological properties of the supercluster-void network. The ansatz is based
+on a surface modelling scheme SURFGEN, which generates a triangulated surface
+from a discrete data set representing (say) the distribution of galaxies in
+real (or redshift) space. Four Minkowski functionals -- surface area, volume,
+extrinsic curvature and genus -- describe the geometry and topology of the
+supercluster-void network. Ratio's of Minkowski functionals -- Shapefinders --
+provide us with an excellent diagnostic of three dimensional shapes of
+clusters, superclusters and voids. Minkowski functionals and Shapefinders are
+determined for a triangulated iso-density surface using SURFGEN. SURFGEN is
+tested against both simply and multiply connected eikonal surfaces such as
+triaxial ellipsoids and tori. Remarkably, the first three Minkowski functionals
+are computed to better than 1% accuracy while the fourth (genus) is known
+exactly. SURFGEN also gives excellent results when applied to Gaussian random
+fields. Our results indicate that the surface modelling scheme SURFGEN is
+accurate and robust and can successfully be used to quantify the topology and
+morphology of the supercluster-void network in the universe. We apply SURFGEN
+to three cosmological models, $\L$CDM, $\T$CDM and SCDM and obtain interesting
+new results pertaining to the geometry, morphology and topology of large scale
+structure.
+","[{""version"":""v1"",""created"":""Sun, 6 Oct 2002 14:57:03 GMT""},{""version"":""v2"",""created"":""Sat, 22 Mar 2003 16:41:01 GMT""}]","2009-11-07"
+"cond-mat/0210120","Surajit Sengupta","K. Zahn, A. Wille, G. Maret, S. Sengupta and P. Nielaba","Elastic properties of 2D colloidal crystals from video microscopy","4 pages, Latex, 4 eps figures","Phys. Rev. Lett. {\bf 90}, 155506 (2003)","10.1103/PhysRevLett.90.155506",,"cond-mat",,"  Elastic constants of two-dimensional (2D) colloidal crystals are determined
+by measuring strain fluctuations induced by Brownian motion of particles.
+Paramagnetic colloids confined to an air-water interface of a pending drop are
+crystallized under the action of a magnetic field, which is applied
+perpendicular to the 2D layer. Using video-microscopy and digital
+image-processing we measure fluctuations of the microscopic strain obtained
+from random displacements of the colloidal particles from their mean
+(reference) positions. From these we calculate system-size dependent elastic
+constants, which are extrapolated using finite-size scaling to obtain their
+values in the thermodynamic limit. The data are found to agree rather well with
+zero-temperature calculations.
+","[{""version"":""v1"",""created"":""Sat, 5 Oct 2002 17:37:45 GMT""}]","2009-11-07"
+"cond-mat/0210121","Burkhard Doliwa","Burkhard Doliwa, Andreas Heuer","Finite-Size Effects in a Supercooled Liquid","Proceedings of the III Workshop on Non Equilibrium Phenomena in
+  Supercooled Fluids, Glasses and Amorphous Materials, Sep 2002, Pisa",,"10.1088/0953-8984/15/11/309",,"cond-mat.soft cond-mat.dis-nn",,"  We study the influence of the system size on various static and dynamic
+properties of a supercooled binary Lennard-Jones liquid via computer
+simulations. In this way, we demonstrate that the treatment of systems as small
+as N=65 particles yields relevant results for the understanding of bulk
+properties. Especially, we find that a system of N=130 particles behaves
+basically as two non-interacting systems of half the size.
+","[{""version"":""v1"",""created"":""Sat, 5 Oct 2002 18:39:53 GMT""}]","2009-11-07"
+"cond-mat/0210122","Indranil Rudra","Indranil Rudra, S. Ramasesha and Diptiman Sen (Indian Institute of
+  Science, Bangalore)","Study of Low-energy States of Clusters of Spin-1/2 and Spin-1 Triangles
+  with Kagome-like Geometries","Revtex, 16 pages, 9 ps figures",,,,"cond-mat.str-el",,"  We study the low-energy properties of Heisenberg antiferromagnetic spin-1/2
+and spin-1 systems on various clusters made up of triangles. Some of the
+clusters have a geometry similar to representative pieces of the Kagome
+lattice, while others have the geometry of a sawtooth chain. While the ground
+state always has the lowest possible spin (0 or 1/2), the nature of the
+low-energy excitations depends on the geometry and the site spin. For the
+Kagome clusters with spin-1 sites, the lowest excitations are gapped, with
+singlet and triplet excitations having similar gaps. This is in contrast to
+Kagome clusters with spin-1/2 sites where there are several low-energy singlet
+excitations (possibly gapless in the thermodynamic limit), while triplet
+excitations have a gap. For the sawtooth chain with spin-1 sites, the lowest
+excitations are triplets with a gap; the gap to singlet excitations is about
+twice the triplet gap.
+","[{""version"":""v1"",""created"":""Sun, 6 Oct 2002 03:55:13 GMT""}]","2007-05-23"
+"cond-mat/0210123","Ciobanu","V.B.Shenoy, C.V.Ciobanu (Brown University)","Ab-initio density functional studies of stepped TaC surfaces","4 pages, 4 figures","Physical Review B 67, 081402(R) (2003)","10.1103/PhysRevB.67.081402",,"cond-mat",,"  We report on density functional total energy calculations of the step
+formation and interaction energies for vicinal TaC(001) surfaces. Our
+calculations show that double and triple-height steps are favored over
+single-height steps for a given vicinal orientation, which is in agreement with
+recent experimental observations. We provide a description of steps in terms of
+atomic displacements and charge localization and predict an experimentally
+observable rumpled structure of the step-edges, where the Ta atoms undergo
+larger displacements compared to the C atoms.
+","[{""version"":""v1"",""created"":""Sun, 6 Oct 2002 06:51:22 GMT""}]","2009-11-07"
+"cond-mat/0210124","Wai-Tung Hal Lee","W.-T. Lee (1), S. G. E. te Velthuis (2), G. P. Felcher (2), F. Klose
+  (1), T. Gredig (3), D. Dahlberg (3), B. V. Toperverg (4) ((1) Oak Ridge
+  National Laboratory, Oak Ridge, Tennessee, USA. (2) Argonne National
+  Laboratory, Argonne, Illinois, USA. (3) University of Minnesota, Minneapolis,
+  Minnesota, USA. (4) Forschungszentrum Juelich, Juelich, Germany.)","Measuring Lateral Magnetic Structure in Thin Films Using Polarized
+  Neutron Reflectometry","10 pages, 3 figurres, PNCMI 2002, Juelich, Germany",,"10.1016/S0921-4526(03)00195-9",,"cond-mat.mes-hall",,"  Polarized neutron reflectometry (PNR) has long been applied to measure the
+magnetic depth profile of thin films. In recent years, interest has increased
+in observing lateral magnetic structures in a film. While magnetic arrays
+patterned by lithography and submicron-sized magnetic domains in thin films
+often give rise to off-specular reflections, micron-sized ferromagnetic domains
+on a thin film produce few off-specular reflections and the domain distribution
+information is contained within the specular reflection. In this paper, we will
+first present some preliminary results of off-specular reflectivity from arrays
+of micron-sized permalloy rectangular bars. We will then use specular
+reflections to study the domain dispersion of an exchange-biased Co/CoO bilayer
+at different locations of the hysteresis loop.
+","[{""version"":""v1"",""created"":""Sun, 6 Oct 2002 07:42:11 GMT""}]","2009-11-07"
+"cond-mat/0210125","Wolfgang Belzig","W. Belzig","Full Counting Statistics of Superconductor--Normal-Metal
+  Heterostructures","35 pages, contribution to ""Quantum Noise"", ed. by Yu.V. Nazarov and
+  Ya.M. Blanter, minor changes in text, references added",,,,"cond-mat.mes-hall cond-mat.supr-con",,"  The article develops a powerful theoretical tool to obtain the full counting
+statistics. By a slight extension of the standard Keldysh method we can access
+immediately all correlation functions of the current operator. Embedded in a
+quantum generalization of the circuit theory of electronic transport, we are
+able to study the full counting statistics of a large class of two-terminal
+contacts and multi-terminal structures, containing superconductors and normal
+metals as elements. The practical use of the method is demonstrated in many
+examples.
+","[{""version"":""v1"",""created"":""Sun, 6 Oct 2002 10:22:08 GMT""},{""version"":""v2"",""created"":""Wed, 6 Nov 2002 09:29:27 GMT""}]","2007-05-23"
+"cond-mat/0210126","Wolfgang Belzig","W. Belzig, J. Boerlin, C. Bruder, and Yu. V. Nazarov","Shot Noise and Proximity Effect in Superconductor--Normal-Metal
+  Heterostructures","6 pages, 2 figures, references added",,"10.1142/9789812705556_0044",,"cond-mat.supr-con cond-mat.mes-hall",,"  Current noise provides useful information on correlations important for
+transport properties of mesoscopic systems. Of particular interest, both
+experimentally and theoretically, are heterostructures of normal metals and
+superconductors. We use an extended Keldysh-Green's function approach to
+calculate the current correlations fully accounting for the superconducting
+proximity effect. The shot noise in diffusive wires shows a reentrant
+behaviour, similar to the reentrance effect of the conductance. At intermediate
+energies the effective charge (the ratio of the differential noise and
+differential conductance) is suppressed below the value of the Cooper pair
+charge 2e due to higher correlations. In superconducting heterostructures with
+more than two normal leads, we address the question of the sign of correlations
+between currents in different terminals. We show that positive
+crosscorrelations are a generic feature in these structures, which should be
+easily observable experimentally.
+","[{""version"":""v1"",""created"":""Sun, 6 Oct 2002 10:33:16 GMT""},{""version"":""v2"",""created"":""Tue, 15 Oct 2002 11:14:02 GMT""}]","2017-08-23"
+"cond-mat/0210127","Taro Yamashita","Taro Yamashita, Hiroshi Imamura, Saburo Takahashi, and Sadamichi
+  Maekawa","Andreev Reflection in Ferromagnet/Superconductor/Ferromagnet Double
+  Junction Systems","8 pages, 9 figures, submitted to Phys. Rev. B",,"10.1103/PhysRevB.67.094515",,"cond-mat.mes-hall cond-mat.supr-con",,"  We present a theory of Andreev reflection in a
+ferromagnet/superconductor/ferromagnet double junction system. The spin
+polarized quasiparticles penetrate to the superconductor in the range of
+penetration depth from the interface by the Andreev reflection. When the
+thickness of the superconductor is comparable to or smaller than the
+penetration depth, the spin polarized quasiparticles pass through the
+superconductor and therefore the electric current depends on the relative
+orientation of magnetizations of the ferromagnets. The dependences of the
+magnetoresistance on the thickness of the superconductor, temperature, the
+exchange field of the ferromagnets and the height of the interfacial barriers
+are analyzed. Our theory explains recent experimental results well.
+","[{""version"":""v1"",""created"":""Sun, 6 Oct 2002 11:45:25 GMT""}]","2009-11-07"
+"cond-mat/0210128","Rene' Mikkelsen","Ren\'e Mikkelsen, Devaraj van der Meer, Ko van der Weele, and Detlef
+  Lohse","Competitive Clustering in a Bi-disperse Granular Gas","4 pages, 4 figures, Phys. Rev. Lett., in press","Phys. Rev. Lett., vol 89, 214301 (2002)","10.1103/PhysRevLett.89.214301",,"cond-mat.soft cond-mat.stat-mech",,"  A bi-disperse granular gas in a compartmentalized system is experimentally
+found to cluster competitively: Depending on the shaking strength, the
+clustering can be directed either towards the compartment initially containing
+mainly small particles, or to the one containing mainly large particles. The
+experimental observations are quantitatively explained within a flux model.
+","[{""version"":""v1"",""created"":""Sun, 6 Oct 2002 14:12:03 GMT""}]","2009-11-07"
+"gr-qc/0210019","Christopher Beetle","Christopher Beetle and Lior M. Burko","A Radiation Scalar for Numerical Relativity","4 pages, 1 EPS figure","Phys.Rev.Lett. 89 (2002) 271101","10.1103/PhysRevLett.89.271101",,"gr-qc",,"  This letter describes a scalar curvature invariant for general relativity
+with a certain, distinctive feature. While many such invariants exist, this one
+vanishes in regions of space-time which can be said unambiguously to contain no
+gravitational radiation. In more general regions which incontrovertibly support
+non-trivial radiation fields, it can be used to extract local,
+coordinate-independent information partially characterizing that radiation.
+While a clear, physical interpretation is possible only in such radiation
+zones, a simple algorithm can be given to extend the definition smoothly to
+generic regions of space-time.
+","[{""version"":""v1"",""created"":""Sat, 5 Oct 2002 19:07:29 GMT""}]","2009-11-07"
+"hep-ex/0210012","Tom Browder","T. E. Browder (University of Hawaii)","Results on $\sin 2\phi_2 (\alpha)$ from the B Factories","Invited talk at the XXIII Physics in Collision Conference (PIC02)
+  Stanford, CA USA, June 2002, 11 pages, 5 eps figures, PSNTHAT02. To appear in
+  the Proceedings","eConf C020620 (2002) THAT02",,,"hep-ex",,"  The status of CP violation in $B^0\to \pi^+\pi^-$ and the determination of
+$\sin 2\phi_2 (\alpha)$ from the $B$ factories is described.
+","[{""version"":""v1"",""created"":""Sun, 6 Oct 2002 07:36:22 GMT""}]","2007-05-23"
+"hep-ph/0210090","Fugao Wang","Jiao Lin Xu and Xin Yu","The Meson Spectrum of the BCC Quark Model (A Modification of the Quark
+  Model)","59 pages, 5 eps figures",,,,"hep-ph",,"  Using the quark spectrum of the BCC Quark Model [1] and the phenomenological
+formula for the binding energies of the mesons, not only have we deduced the
+intrinsic quantum numbers (I, S, C, b, and Q) of all mesons as was done with
+the Quark Model [2], but also we deduced the meson mass spectrum in agreement
+with experimental results [3] that we could not deduce using the Quark Model.
+The experimental meson spectrum gives some evidence of the existence of the new
+quarks $q_S^*(1391)$, $q_S^*(2551)$ and $q_C^*(6591)$..., which are predicted
+by the BCC Quark Model. The meson $\chi (1600)$ $[2^+(2^{++})]$ with I = 2
+(predicted by the BCC Quark Model--T(1603)) has already been discovered [4]. If
+this is finally confirmed, it will provide a strong support for the BCC Quark
+Model. We propose a search for the mesons D(5996), $D_S (6151)$, B(9504), $B_S
+(9659)$, $B_C (11031)$, $\eta (5926)$, $\eta (17837)$, $\psi (25596)$,
+$\Upsilon (17805)$, $\Upsilon (29597)$, T(960), T(1282), T(1603), and T(1924).
+","[{""version"":""v1"",""created"":""Sat, 5 Oct 2002 17:43:25 GMT""}]","2007-05-23"
+"hep-ph/0210092","Bugra Borasoy","B. Borasoy, B. R. Holstein, R. Lewis, and P.-P. A. Ouimet","Long distance regularization in chiral perturbation theory with decuplet","31 pages","Phys.Rev. D66 (2002) 094020","10.1103/PhysRevD.66.094020",,"hep-ph nucl-th",,"  We investigate the use of long distance regularization in SU(3) baryon chiral
+perturbation theory with decuplet fields. The one-loop decuplet contributions
+to the octet baryon masses, axial couplings, S-wave nonleptonic hyperon decays
+and magnetic moments are evaluated in a chirally consistent fashion by
+employing a cutoff to implement long distance regularization. The convergence
+of the chiral expansions of these quantities is improved compared to the
+dimensionally regularized version which indicates that the propagation of
+Goldstone bosons over distances smaller than a typical hadronic size, which is
+beyond the regime of chiral perturbation theory but included by dimensional
+regularization, is removed by use of a cutoff.
+","[{""version"":""v1"",""created"":""Sat, 5 Oct 2002 23:01:27 GMT""}]","2009-11-07"
+"hep-th/0210052","Cristine Nunes Ferreira","V.B. Bezerra, H.J. Mosquera Cuesta and C.N. Ferreira","Cosmic optical activity in the spacetime of a scalar-tensor screwed
+  cosmic string","Revised version, to appear in Phys. Rev. D","Phys.Rev.D67:084011,2003","10.1103/PhysRevD.67.084011",,"hep-th",,"  Measurements of radio emission from distant galaxies and quasars verify that
+the polarization vectors of these radiations are not randomly oriented as
+naturally expected. This peculiar phenomenon suggests that the spacetime
+intervening between the source and observer may be exhibiting some sort of
+optical activity, the origin of which is not known. In the present paper we
+provide a plausible explanation to this phenomenon by investigating the r\^ole
+played by a Chern-Simons-like term in the background of an ordinary or
+superconducting screwed cosmic string in a scalar-tensor gravity. We discuss
+the possibility that the excess in polarization of the light from
+radio-galaxies and quasars can be understood as if the electromagnetic waves
+emitted by these cosmic objects interact with a scalar-tensor screwed cosmic
+string through a Chern-Simons coupling. We use current astronomical data to
+constrain possible values for the coupling constant of this theory, and show
+that it turns out to be: $\lambda \sim 10^{-26}$ eV, which is two orders of
+magnitude larger than in string-inspired theories.
+","[{""version"":""v1"",""created"":""Sun, 6 Oct 2002 13:52:01 GMT""},{""version"":""v2"",""created"":""Tue, 10 Dec 2002 02:12:56 GMT""}]","2011-05-24"
+"math-ph/0210010","Eugene Strahov","Eugene Strahov, Yan V. Fyodorov","Universal Results for Correlations of Characteristic Polynomials:
+  Riemann-Hilbert Approach","34pages","Commun.Math.Phys. 241 (2003) 343-382","10.1007/s00220-003-0938-x",,"math-ph cond-mat hep-th math.MP nlin.SI",,"  We prove that general correlation functions of both ratios and products of
+characteristic polynomials of Hermitian random matrices are governed by
+integrable kernels of three different types: a) those constructed from
+orthogonal polynomials; b) constructed from Cauchy transforms of the same
+orthogonal polynomials and finally c) those constructed from both orthogonal
+polynomials and their Cauchy transforms. These kernels are related with the
+Riemann-Hilbert problem for orthogonal polynomials. For the correlation
+functions we obtain exact expressions in the form of determinants of these
+kernels. Derived representations enable us to study asymptotics of correlation
+functions of characteristic polynomials via Deift-Zhou
+steepest-descent/stationary phase method for Riemann-Hilbert problems, and in
+particular to find negative moments of characteristic polynomials. This reveals
+the universal parts of the correlation functions and moments of characteristic
+polynomials for arbitrary invariant ensemble of $\beta=2$ symmetry class.
+","[{""version"":""v1"",""created"":""Sat, 5 Oct 2002 16:16:51 GMT""}]","2009-11-07"
+"math/0210078","Bhupinder Singh Anand","Bhupinder Singh Anand","Some consequences of a recursive number-theoretic relation that is not
+  the standard interpretation of any of its formal representations","v6; introduced ACI compliant notation for citations; replaced
+  Corollary 1.2; corrected Corollary 14.3; other minor corrections and
+  additions; 76 pages; an HTML version is available at
+  http://alixcomsi.com/CTG_06_Consequences.htm",,,,"math.GM",,"  We give a precise definition of a formal mathematical object as any symbol
+for an individual constant, predicate letter, or a function letter that can be
+introduced through definition into a formal mathematical language without
+inviting inconsistency. We then show: there is an elementary, recursive,
+number-theoretic relation that is not a formal mathematical object, since it is
+not the standard interpretation of any of its representations in Goedel's
+formal system P; the range of a recursive number-theoretic function does not
+always define a (recursively enumerable set) formal mathematical object
+consistently in any Axiomatic Set Theory that models P; there is no P-formula,
+Con(P), whose standard interpretation is unambiguously equivalent to Goedel's
+number-theoretic definition of ""P is consistent""; every recursive
+number-theoretic function is not strongly representable in P; Tarski's
+definitions of ""satisfiability"" and ""truth"" can be made constructive, and
+intuitionistically unobjectionable, by reformulating Church's Thesis
+constructively; the classical definition of Turing machines can be extended to
+include self-terminating, converging, and oscillating routines; a constructive
+Church's Thesis implies, firstly, that every partial recursive number-theoretic
+function can be constructively extended as a unique total function, and,
+secondly, that we can define effectively computable functions that are not
+classically Turing-computable; Turing's and Cantor's diagonal arguments do not
+necessarily define Cauchy sequences.
+","[{""version"":""v1"",""created"":""Sat, 5 Oct 2002 18:15:40 GMT""},{""version"":""v2"",""created"":""Wed, 30 Oct 2002 02:50:29 GMT""},{""version"":""v3"",""created"":""Sun, 15 Dec 2002 19:11:46 GMT""},{""version"":""v4"",""created"":""Mon, 24 Mar 2003 08:17:36 GMT""},{""version"":""v5"",""created"":""Mon, 21 Apr 2003 23:27:38 GMT""},{""version"":""v6"",""created"":""Sun, 11 May 2003 01:52:45 GMT""}]","2007-05-23"
+"math/0210080","Adam Nyman","A. Nyman","Serre finiteness and Serre vanishing for non-commutative P^1-bundles","9 pages, content changed","J. Algebra 278 (2004), 32-42",,,"math.RA math.AG","http://arxiv.org/licenses/nonexclusive-distrib/1.0/","  Suppose $X$ is a smooth projective scheme of finite type over a field $K$,
+$\mathcal{E}$ is a locally free ${\mathcal{O}}_{X}$-bimodule of rank 2,
+$\mathcal{A}$ is the non-commutative symmetric algebra generated by
+$\mathcal{E}$ and ${\sf Proj}\A$ is the corresponding non-commutative
+$\mathbb{P}^{1}$-bundle. We use the properties of the internal
+$\operatorname{Hom}$ functor $\HU(-,-)$ to prove versions of Serre finiteness
+and Serre vanishing for ${\sf Proj}\A$. As a corollary to Serre finiteness, we
+prove that ${\sf Proj}\A$ is Ext-finite. This fact is used in \cite{izu} to
+prove that if $X$ is a smooth curve over $\operatorname{Spec}K$, ${\sf Proj
+}\A$ has a Riemann-Roch theorem and an adjunction formula.
+","[{""version"":""v1"",""created"":""Sat, 5 Oct 2002 20:08:28 GMT""},{""version"":""v2"",""created"":""Fri, 27 Feb 2009 18:53:18 GMT""}]","2009-02-27"
+"math/0210083","Adam Nyman","A. Nyman","Serre duality for non-commutative P^1-bundles","Erroneous proof of Lemma 2.6 corrected","Trans. Amer. Math. Soc. 357 (2005), 1349-1416",,,"math.RA math.AG","http://arxiv.org/licenses/nonexclusive-distrib/1.0/","  Let E be a locally free, rank n bimodule over a smooth projective scheme X,
+and let A be the non-commutative symmetric algebra generated by E. We construct
+an internal Hom functor on the category of graded right A-modules. When E has
+rank 2, we prove that A is Gorenstein by computing the right derived functors
+of the internal Hom functor. When X is a smooth projective variety, we use the
+Gorensteinness of A to prove a version of Serre duality on Proj A, the
+non-commutative P^1 bundle defined by A.
+","[{""version"":""v1"",""created"":""Sun, 6 Oct 2002 00:23:24 GMT""},{""version"":""v2"",""created"":""Fri, 9 Jan 2015 20:03:38 GMT""}]","2015-01-12"
+"math/0210085","Adam Nyman","A. Nyman","Points on quantum projectivations","142 pages, many minor corrections, index added","Mem. Amer. Math. Soc. 167 (2004), 142 pages",,,"math.RA math.AG","http://arxiv.org/licenses/nonexclusive-distrib/1.0/","  The use of geometric invariants has recently played an important role in the
+solution of classification problems in non-commutative ring theory. We
+construct geometric invariants of non-commutative projectivizations, a
+significant class of examples in non-commutative algebraic geometry.
+","[{""version"":""v1"",""created"":""Sun, 6 Oct 2002 01:26:59 GMT""},{""version"":""v2"",""created"":""Tue, 3 Mar 2009 00:11:39 GMT""}]","2009-03-03"
+"math/0210087","Andrzej Roslanowski","Pierre Matet, Andrzej Ros{\l}anowski and Saharon Shelah","Cofinality of the nonstationary ideal",,"Trans. Amer. Math. Soc. 357 (2005) 4813-4837",,"Shelah [MRSh:799]","math.LO",,"  We show that the reduced cofinality of the nonstationary ideal NS_kappa on a
+regular uncountable cardinal kappa may be less than its cofinality, where the
+reduced cofinality of NS_kappa is the least cardinality of any family F of
+nonstationary subsets of kappa such that every nonstationary subset of kappa
+can be covered by less than $\kappa$ many members of F.
+","[{""version"":""v1"",""created"":""Sun, 6 Oct 2002 03:05:18 GMT""}]","2013-01-03"
+"math/0210088","Vladimir G. Troitsky","Vladimir G. Troitsky","Measures of non-compactness of operators on Banach lattices","To appear in Positivity",,,,"math.FA",,"  Andreu et al [2] and Sadovskii [11] used representation spaces to study
+measures of non-compactness and spectral radii of operators on Banach lattices.
+In this paper, we develop representation spaces based on the nonstandard hull
+construction (which is equivalent to the ultrapower construction). As a
+particular application, we present a simple proof and some extensions of the
+main result of de Pagter and Schep [6] on the monotonicity of the measure of
+non-compactness and the spectral radius of AM-compact operators. We also use
+the representation spaces to characterize d-convergence and discuss the
+relationship between d-convergence and the measures of non-compactness.
+","[{""version"":""v1"",""created"":""Sun, 6 Oct 2002 05:52:16 GMT""}]","2007-05-23"
+"math/0210089","Jawad Y. Abuhlail","Jawad Y. Abuhlail","Rational Modules for Corings","37 pages",,,,"math.QA",,"  In this paper we lay the basis of the theory of rational modules of corings
+extending results on rational modules for coalgebras to the case of arbitrary
+ground rings. We apply these results mainly to categories of entwined modules
+(e.g. Doi-Koppinen modules, alternative Doi-Koppinen modules) generalizing
+results of Y. Doi, M. Koppinen and C. Menini et al. on the categries of
+Doi-Hopf moduels and categories of relative Hopf modules.
+","[{""version"":""v1"",""created"":""Sun, 6 Oct 2002 11:35:15 GMT""},{""version"":""v2"",""created"":""Sat, 1 Feb 2003 13:22:00 GMT""},{""version"":""v3"",""created"":""Mon, 4 Apr 2005 16:18:20 GMT""}]","2007-05-23"
+"math/0210090","Boris Tsirelson","Mikhail Sodin and Boris Tsirelson","Random complex zeroes, I. Asymptotic normality","26 pages. Version 2 (final): the end of the proof corrected (sections
+  3.2, 3.3); small insertions to Introduction and References","Israel Journal of Mathematics 144 (2004), 125--149.",,,"math.CV math-ph math.MP math.PR",,"  We consider three models (elliptic, flat and hyperbolic) of Gaussian random
+analytic functions distinguished by invariance of their zeroes distribution.
+Asymptotic normality is proven for smooth functionals (linear statistics) of
+the set of zeroes.
+","[{""version"":""v1"",""created"":""Sun, 6 Oct 2002 12:12:40 GMT""},{""version"":""v2"",""created"":""Fri, 3 Sep 2004 15:12:27 GMT""}]","2007-05-23"
+"nucl-ex/0210010","Romualdo T. de Souza","S. Hudan (1), R. Alfaro (1), B. Davin (1), Y. Larochelle (1), H. Xu
+  (1), L. Beaulieu (1), T. Lefort (1), V.E. Viola (1), R. Yanez (1), R.T. de
+  Souza (1), T.X. Liu (2), X.D. Liu (2), W.G. Lynch (2), R. Shomin (2), W.P.
+  Tan (2), M.B. Tsang (2), A. Vander Molen (2), A. Wagner (2), H.F. Xi (2),
+  C.K. Gelbke (2), R.J. Charity (3), L.G. Sobotka (3) ((1) IUCF-Indiana
+  University, (2) NSCL-Michigan State University, (3) Washington University in
+  St. Louis)","Similarity of fragment characteristics at mid-velocity for
+  mid-peripheral and central collisions","This paper has been withdrawn to include efficiency calculations",,,,"nucl-ex",,"  The characteristics, in particular the isotopic composition (N/Z), of
+intermediate mass fragments (IMF : 3<=Z<=20) produced near the center-of-mass
+in mid-peripheral and central collisions of 114Cd ions with 92Mo target nuclei
+at E/A=50 MeV are compared to that of IMFs emitted from the projectile-like
+fragment (PLF) in mid-peripheral collisions. IMFs produced at mid-velocities
+are on average larger in atomic number, more energetic, and more neutron-rich
+as compared to IMFs emitted from the PLF. In contrast, the characteristics of
+mid-velocity IMFs in central collisions and mid-peripheral collisions are
+comparable.
+","[{""version"":""v1"",""created"":""Sun, 6 Oct 2002 00:07:12 GMT""},{""version"":""v2"",""created"":""Tue, 21 Dec 2004 15:38:57 GMT""}]","2007-05-23"
+"physics/0210019","David Landhuis","David Landhuis, Lia Matos, Stephen C. Moss, Julia K. Steinberger,
+  Kendra Vant, Lorenz Willmann, Thomas J. Greytak, and Daniel Kleppner","Inelastic Collision Rates of Trapped Metastable Hydrogen","Submitted to Phys. Rev. A. Pre-print format: 21 pages, 8 figures",,"10.1103/PhysRevA.67.022718",,"physics.atom-ph",,"  We report the first detailed decay studies of trapped metastable (2S)
+hydrogen. By two-photon excitation of ultracold H samples, we have produced
+clouds of at least 5x10^7 magnetically trapped 2S atoms at densities greater
+than 4x10^10 cm^-3 and temperatures below 100 \muK. We derive experimental
+values for the total 2S-2S two-body loss rate constant in this temperature
+regime. Our results are in the range of recent theoretical calculations. We
+also find experimental upper limits on the rate constant for loss due to
+inelastic 1S-2S collisions.
+","[{""version"":""v1"",""created"":""Sat, 5 Oct 2002 16:48:47 GMT""}]","2009-11-07"
+"physics/0210023","Rodrigo de Abreu","Rodrigo de Abreu (Instituto Superior Tecnico, Lisboa, Portugal)","Deduction of Lorentz Transformation from the existence of absolute rest.
+  Deduction of the speed of light in any frame of reference","6 pages, 0 figures",,,,"physics.gen-ph",,"  We begin by admitting the following: (i) there is a frame of reference where
+the speed of light is the same in any direction (that speed is c) (ii) the
+average speed of light on a two-way journey is c in every frame of reference.
+  From this two premises we obtain an expression for the speed of light which
+implies the speed of light depends on the motion of the frame of reference.
+Also from this two premises solely we deduct Lorentz Transformation.
+","[{""version"":""v1"",""created"":""Sat, 5 Oct 2002 17:05:28 GMT""}]","2007-05-23"
+"physics/0210025","Martin Schaden","Martin Schaden","Pricing European Options in Realistic Markets","21 pages, 1 figure",,,,"physics.soc-ph physics.data-an q-fin.PR",,"  We investigate the relation between the fair price for European-style vanilla
+options and the distribution of short-term returns on the underlying asset
+ignoring transaction and other costs. We compute the risk-neutral probability
+density conditional on the total variance of the asset's returns when the
+option expires. If the asset's future price has finite expectation, the
+option's fair value satisfies a parabolic partial differential equation of the
+Black-Scholes type in which the variance of the asset's returns rather than a
+trading time is the evolution parameter. By immunizing the portfolio against
+large-scale price fluctuations of the asset, the valuation of options is
+extended to the realistic case\cite{St99} of assets whose short-term returns
+have finite variance but very large, or even infinite, higher moments. A
+dynamic Delta-hedged portfolio that is statically insured against exceptionally
+large fluctuations includes at least two different options on the asset. The
+fair value of an option in this case is determined by a universal drift
+function that is common to all options on the asset. This drift is interpreted
+as the premium for an investment exposed to risk due to exceptionally large
+variations of the asset's price. It affects the option valuation like an
+effective cost-of-carry for the underlying in the Black-Scholes world would.
+The derived pricing formula for options in realistic markets is arbitrage free
+by construction. A simple model with constant drift qualitatively reproduces
+the often observed volatility -skew and -term structure.
+","[{""version"":""v1"",""created"":""Sun, 6 Oct 2002 13:29:19 GMT""}]","2008-12-02"
+"quant-ph/0210037","Pedram Khalili Amiri","P. Amiri, A. Shahdi","Proposing a new approach to implementing Fuzzy Systems","This paper has been withdrawn",,,,"quant-ph",,"  This paper has been withdrawn.
+","[{""version"":""v1"",""created"":""Sun, 6 Oct 2002 05:32:04 GMT""},{""version"":""v2"",""created"":""Sun, 13 Feb 2005 13:12:38 GMT""},{""version"":""v3"",""created"":""Tue, 19 Dec 2006 12:33:38 GMT""}]","2007-05-23"
+"quant-ph/0210038","Yafei Yu","Yafei Yu, Jian Feng, Xiaoqing Zhou, Mingsheng Zhan","Disentangling and broadcasting an entangled state simultaneously by
+  asymmetric cloning","5 pages",,,,"quant-ph",,"  We construct a quantum machine which, by using asymmetric cloner, deals with
+disentangling and broadcasting entanglement in a single unitary evolution. The
+attainable maximum value of the scaling parameter $s$ for disentangling is
+identical to that obtained in previous works. The fidelity of the cloning state
+with respect to the input entangled state is state-dependent.
+","[{""version"":""v1"",""created"":""Sun, 6 Oct 2002 07:44:04 GMT""}]","2007-05-23"
+"quant-ph/0210039","Joseph R. Buck","J. R. Buck, H. J. Kimble","Optimal Sizes of Dielectric Microspheres for Cavity QED with Strong
+  Coupling","12 pages, 14 figures",,"10.1103/PhysRevA.67.033806",,"quant-ph",,"  The whispering gallery modes (WGMs) of quartz microspheres are investigated
+for the purpose of strong coupling between single photons and atoms in cavity
+quantum electrodynamics (cavity QED). Within our current understanding of the
+loss mechanisms of the WGMs, the saturation photon number, n, and critical atom
+number, N, cannot be minimized simultaneously, so that an ""optimal"" sphere size
+is taken to be the radius for which the geometric mean, (n x N)^(1/2), is
+minimized. While a general treatment is given for the dimensionless parameters
+used to characterize the atom-cavity system, detailed consideration is given to
+the D2 transition in atomic Cesium (852nm) using fused-silica microspheres, for
+which the maximum coupling coefficient g/(2*pi)=750MHz occurs for a sphere
+radius a=3.63microns corresponding to the minimum for n=6.06x10^(-6). By
+contrast, the minimum for N=9.00x10^(-6) occurs for a sphere radius of
+a=8.12microns, while the optimal sphere size for which (n x N)^(1/2) is
+minimized occurs at a=7.83microns. On an experimental front, we have fabricated
+fused-silica microspheres with radii a=10microns and consistently observed
+quality factors Q=0.8x10^(7). These results for the WGMs are compared with
+corresponding parameters achieved in Fabry-Perot cavities to demonstrate the
+significant potential of microspheres as a tool for cavity QED with strong
+coupling.
+","[{""version"":""v1"",""created"":""Sun, 6 Oct 2002 08:10:02 GMT""}]","2009-11-07"

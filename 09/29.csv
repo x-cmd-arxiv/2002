@@ -1,0 +1,321 @@
+"astro-ph/0209602","Kyu-Hyun Chae","K.-H. Chae, A.D. Biggs, R.D. Blandford, I.W.A. Browne, A.G. de Bruyn,
+  C.D. Fassnacht, P. Helbig, N.J. Jackson, L.J. King, L.V.E. Koopmans, S. Mao,
+  D.R. Marlow, J.P. McKean, S.T. Myers, M. Norbury, T.J. Pearson, P.M.
+  Phillips, A.C.S. Readhead, D. Rusin, C.M. Sykes, P.N. Wilkinson, E.
+  Xanthopoulos, T. York (The CLASS collaboration)","Constraints on Cosmological Parameters from the Analysis of the Cosmic
+  Lens All Sky Survey Radio-Selected Gravitational Lens Statistics","To appear 7 October 2002 issue (Vol. 89, issue 15) of Phys. Rev. Lett","Phys.Rev.Lett. 89 (2002) 151301","10.1103/PhysRevLett.89.151301",,"astro-ph",,"  We derive constraints on cosmological parameters and the properties of the
+lensing galaxies from gravitational lens statistics based on the final Cosmic
+Lens All Sky Survey (CLASS) data. For a flat universe with a classical
+cosmological constant, we find that the present matter fraction of the critical
+density is $\Omega_{\rm m}=0.31^{+0.27}_{-0.14}$ (68%) $^{+0.12}_{-0.10}$
+(systematic). For a flat universe with a constant equation of state for dark
+energy $w = p_x({pressure})/\rho_x({energy density})$, we find $w <
+-0.55^{+0.18}_{-0.11}$ (68%).
+","[{""version"":""v1"",""created"":""Sat, 28 Sep 2002 17:01:11 GMT""}]","2009-11-07"
+"astro-ph/0209604","Charles H. Aboughantous","Charles H Aboughantous","A two-streams discrete ordinates solution of radiative transfer in 1-D
+  spherical geometry","10 pages, spelling fixed",,,,"astro-ph math-ph math.MP physics.ao-ph",,"  The analytic solution for the two-streams discrete ordinates equations is
+carried out on the spatial domain in one-dimensional spherical geometry. The
+solution satisfies all the physical and the geometric conditions, namely: the
+natural boundary condition at the surface of the sphere, the symmetry condition
+at the center and the reciprocity of path. The solution obeys the inverse
+square law and is finite everywhere in the sphere except at the center.
+Graphical and numerical data obtained in cold absorbing spheres confirmed the
+analytical predictions. The conservation of energy is satisfied with high
+accuracy within round-off errors.
+","[{""version"":""v1"",""created"":""Sun, 29 Sep 2002 01:16:57 GMT""},{""version"":""v2"",""created"":""Thu, 7 Nov 2002 05:05:41 GMT""}]","2007-05-23"
+"astro-ph/0209605","Daniela Kirilova","D. Kirilova, M. Panayotova, T. Valchanov","Vast Antimatter Regions and Scalar Condensate Baryogenesis","7 pages, 2 figures, paper presented at 14th Rencontres de Blois:
+  Matter - Antimatter Asymmetry, Chateau de Blois, France, 17-22 Jun 2002, to
+  be published in the proceedings, ed. J. Tran Thanh Van",,,"CERN-TH/2002-218","astro-ph",,"  The possibility of natural and abundant creation of antimatter in the
+Universe in a SUSY-baryogenesis model with a scalar field condensate is
+described. This scenario predicts vast quantities of antimatter, corresponding
+to galaxy and galaxy cluster scales today, separated from the matter ones by
+baryonically empty voids. Theoretical and observational constraints on such
+antimatter regions are discussed.
+","[{""version"":""v1"",""created"":""Sun, 29 Sep 2002 10:35:26 GMT""}]","2007-05-23"
+"cond-mat/0209658","Lau, Andy W.C.","A.W.C. Lau (Upenn), M. Portigliatti (College de France), E. Raphael
+  (College de France), and L. Leger (College de France)","Spreading of Latex Particles on a Substrate","7 pages, 7 figures, to appear in Europhys. Lett",,"10.1209/epl/i2002-00367-8",,"cond-mat.soft",,"  We have investigated both experimentally and theoretically the spreading
+behavior of latex particles deposited on solid substrates. These particles,
+which are composed of cross-linked polymer chains, have an intrinsic elastic
+modulus. We show that the elasticity must be considered to account for the
+observed contact angle between the particle and the solid substrate, as
+measured through atomic force microscopy techniques. In particular, the work of
+adhesion computed within our model can be significantly larger than that from
+the classical Dupr\'{e} formula.
+","[{""version"":""v1"",""created"":""Sun, 29 Sep 2002 06:48:54 GMT""}]","2016-08-31"
+"cond-mat/0209659","Lau, Andy W.C.","A.W.C. Lau (Upenn) and P. Pincus (UCSB)","Counterion Condensation and Fluctuation-Induced Attraction","15 pages, 8 figures, to appear in PRE",,"10.1103/PhysRevE.66.041501",,"cond-mat.soft",,"  We consider an overall neutral system consisting of two similarly charged
+plates and their oppositely charged counterions and analyze the electrostatic
+interaction between the two surfaces beyond the mean-field Poisson-Boltzmann
+approximation. Our physical picture is based on the fluctuation-driven
+counterion condensation model, in which a fraction of the counterions is
+allowed to ``condense'' onto the charged plates. In addition, an expression for
+the pressure is derived, which includes fluctuation contributions of the whole
+system. We find that for sufficiently high surface charges, the distance at
+which the attraction, arising from charge fluctuations, starts to dominate can
+be large compared to the Gouy-Chapmann length. We also demonstrate that
+depending on the valency, the system may exhibit a novel first-order binding
+transition at short distances.
+","[{""version"":""v1"",""created"":""Sun, 29 Sep 2002 08:05:51 GMT""}]","2016-08-31"
+"cond-mat/0209660","Predrag Miranovic","P. Miranovic and K. Machida","Thermodynamics and magnetic field profiles in low-kappa type-II
+  superconductors","4 pages, 3 figures","Phys. Rev. B 67, 092506 (2003).","10.1103/PhysRevB.67.092506",,"cond-mat.supr-con",,"  Two-dimensional low-kappa type-II superconductors are studied numerically
+within the Eilenberger equations of superconductivity. Depending on the
+Ginzburg-Landau parameter \kappa=\lambda/\xi vortex-vortex interaction can be
+attractive or purely repulsive. The sign of interaction is manifested as a
+first (second) order phase transition from Meissner to the mixed state.
+Temperature and field dependence of the magnetic field distribution in
+low-kappa type-II superconductors with attractive intervortex interaction is
+calculated. Theoretical results are compared to the experiment.
+","[{""version"":""v1"",""created"":""Sun, 29 Sep 2002 09:17:20 GMT""}]","2009-11-07"
+"cond-mat/0209661","Kashuba Alexander","S. V. Iordanski and A. Kashuba","Multicomponent dense electron gas as a model of Si MOSFET","10 pages, 4 figures",,"10.1134/1.1538290",,"cond-mat.mes-hall",,"  We solve two-dimensional model of $N$-component dense electron gas in the
+limit of large $N$ and in a range of the Coulomb interaction parameter:
+$N^{-3/2}\ll r_s\ll 1$. The quasiparticle interaction on the Fermi circle
+vanishes as 1/N. The ground state energy and the effective mass are found as
+series in powers of $r_s^{2/3}$. In the quantum Hall state on the lowest Landau
+level at integer filling: $1\ll\nu<N$, the charge activation energy gap and the
+exchange constant are found.
+","[{""version"":""v1"",""created"":""Sun, 29 Sep 2002 15:32:23 GMT""}]","2009-11-07"
+"gr-qc/0209109","Ignazio Ciufolini","Ignazio Ciufolini","Test of general relativity: 1995-2002 measurement of frame-dragging","12 pages, 2 figures","eConf C020620 (2002) FRAT03",,,"gr-qc",,"  After an introduction on phenomena due to spin and mass-energy currents on
+clocks and photons, we review the 1995-2001 measurements of the gravitomagnetic
+field of Earth and Lense-Thirring effect obtained by analyzing the orbits of
+the two laser-ranged satellites LAGEOS and LAGEOS II; this method has provided
+a direct measurement of Earth's gravitomagnetism with accuracy of the order of
+20 %. A future accurate measurement of the Lense-Thirring effect, at the level
+of 1 % accuracy, may include the LARES experiment that will also provide other
+basic tests of general relativity and gravitation. Finally, we report the
+latest measurement of the Lense-Thirring effect, obtained in 2002 with the
+LAGEOS satellites over nearly 8 years of data. This 2002 result fully confirms
+and improves our previous measurements of the Earth frame-dragging: the
+Lense-Thirring effect exists and its experimental value is within ~ 20 % of
+what is predicted by Einstein's theory of general relativity.
+","[{""version"":""v1"",""created"":""Sun, 29 Sep 2002 09:56:31 GMT""},{""version"":""v2"",""created"":""Tue, 1 Oct 2002 00:23:44 GMT""}]","2007-05-23"
+"hep-ph/0209344","Alexander D. Smirnov","A.D. Smirnov (Yaroslavl State University, Russia)","Bounds on scalar leptoquark and scalar gluon masses from current data on
+  S, T, U","10 pages, 2 figures, submitted to Proceedings of the 12 th
+  International Seminar on High Energy Physics ""Quarks-2002"", Novgorod the
+  Great, Russia, June 1-7, 2002",,,"YARU-HE-02/07","hep-ph",,"  The contributions into radiative correction parameters S, T, U from scalar
+leptoquark and scalar gluon doublets are investigated in the minimal four color
+symmetry model. It is shown that the existence of the relatively light scalar
+leptoquarks and scalar gluons (with masses of order of 1 TeV or less) is
+consistent with the current experimental data on S, T, U and the more light
+particles (with masses below 400 GeV) improve the fit. In particular, the
+lightest scalar leptoquarks with masses below 300 GeV are consistent with the
+current data on S, T, U at $\chi^2 < 3.1(3.2)$ for $m_H=115(300) GeV$ in
+comparison with $\chi^2 = 3.5(5.0)$ in the Standard Model. The lightest scalar
+gluon in this case is expected to lie below $ 850(720) GeV.$ The possible
+significance of such particles in the t-quark physics at LHC is emphasized and
+their effect on the gauge coupling constant unification is briefly discussed.
+","[{""version"":""v1"",""created"":""Sat, 28 Sep 2002 16:50:45 GMT""}]","2007-05-23"
+"hep-ph/0209345","Ian D. Lawrie","Ian D. Lawrie","Dissipation in equations of motion of scalar fields","17 pages, 5 figures","Phys.Rev. D67 (2003) 045006","10.1103/PhysRevD.67.045006",,"hep-ph",,"  The methods of non-equilibrium quantum field theory are used to investigate
+the possibility of representing dissipation in the equation of motion for the
+expectation value of a scalar field by a friction term, such as is commonly
+included in phenomenological inflaton equations of motion. A sequence of
+approximations is exhibited which reduces the non-equilibrium theory to a set
+of local evolution equations. However, the adiabatic solution to these
+evolution equations which is needed to obtain a local equation of motion for
+the expectation value is not well defined; nor, therefore, is the friction
+coefficient. Thus, a non-equilibrium treatment is essential, even for a system
+that remains close to thermal equilibrium, and the formalism developed here
+provides one means of achieving this numerically.
+","[{""version"":""v1"",""created"":""Sat, 28 Sep 2002 18:13:48 GMT""}]","2009-11-07"
+"hep-ph/0209346","Alexander Ya. Parkhomenko","Alexander Ya. Parkhomenko (Yaroslavl State University)","$B \to \rho \gamma$ Decay in the Large Energy Effective Theory","10 pages, 3 EPS figures, talk at the 12th International Seminar
+  ""Quarks'2002"", Novgorod the Great, Russia, June 1-7, 2002",,,"YARU-HE-02-08","hep-ph",,"  The branching ratio for the $B \to \rho \gamma$ decay in the next-to-leading
+order (NLO) in the strong coupling $\alpha_s$ and in leading power in
+$\Lambda_{\rm QCD}/m_B$ is presented. The corrections are combined the
+hard-vertex, hard-spectator and annihilation contributions and found to be
+large. The theoretical expectation for the branching ratios, the
+isospin-violating ratio and for the direct CP-asymmetry in the $B \to \rho
+\gamma$ decays are presented.
+","[{""version"":""v1"",""created"":""Sat, 28 Sep 2002 18:56:15 GMT""}]","2007-05-23"
+"hep-ph/0209347","Vergados Ioannis","J.D. Vergados (Theoretical Physcs Division, University of Ioannina,
+  Ioannina, Greece and Department of Physics, University of Cyprus, Nicosia,
+  Cyprus)","Neutrinoless double beta decay from a modern perspective","Only the abstract and the table of contents has been submitted to the
+  lanl archives","Phys.Rept.361:1-56,2002","10.1016/S0370-1573(01)00068-0",,"hep-ph",,"  Neutrinoless double beta decay is a very important process both from the
+particle and nuclear physics point of view. From the elementary particle point
+of view it pops up in almost every model. giving rise, among others, to the
+following mechanisms: a) The traditional contributions like the light neutrino
+mass mechanism . b) The exotic R-parity violating supersymmetric (SUSY)
+contributions. Similar considerations apply to its sister lepton and muon
+number violating muon to positron conversion. The observation of neutrinoless
+double beta decay will signal that the neutrinos are massive Majorana
+particles. For nuclear physics it is challenging, because: 1) The nuclei, which
+can undergo double beta decay, have complicated structure. 2) The energetically
+allowed transitions are suppressed. 3) One must cope with the short distance
+behavior of the transition operators. Thus novel effects (decay of pions in
+flight between nucleons etc) have to be considered. 4) One has to take into
+account possible momentum dependent terms of the nucleon current. For light
+neutrinos such modifications of the nucleon current reduce the nuclear matrix
+elements by about 25 per cent. In the case of heavy neutrino the effect is much
+larger and model dependent. With the above effects the nuclear matrix elements
+for all interesting nuclei A = 76, 82, 96, 100, 116, 128, 130, 136 and 150 are
+discussed. Some have been obtained in the shell model but most in QRPA. Thus we
+have extracted new limits on the various lepton violating parameters. We find
+an average neutrino mass of about 0.5eV and, for reasonable choices of the
+parameters of SUSY models, we get a stringent limit on the R-parity violating
+parameter less than 0.00068.
+","[{""version"":""v1"",""created"":""Sat, 28 Sep 2002 19:42:28 GMT""}]","2008-11-26"
+"hep-ph/0209348","Marco Radici","M. Radici","Addressing transversity with interference fragmentation functions","Proceedings of GDH2002, July 3-6, Genova, Italy. 5 pages, 2 figures
+  in .eps format, style file included",,"10.1142/9789812705167_0057",,"hep-ph",,"  The class of interference fragmentation functions, arising from interference
+among different hadron production channels, is reconsidered. Their symmetry
+properties with respect to chiral transformations allow building spin
+asymmetries where the quark transversity distribution can be factorized out at
+leading twist. For the case of two leading spinless hadrons inside the same
+current jet, the pair system is expanded in relative partial waves. The cross
+section is represented on the helicity basis of the target and the fragmenting
+quark, as well as on the relative orbital angular momentum of the pair. From
+the decay matrix being positive semi-definite, new bounds on the interference
+fragmentation functions can be derived. The expansion in partial waves allows
+to naturally incorporate in a unified formalism specific cases already studied
+in the literature, such as the fragmentation functions arising from the
+interference of two mesons in relative s and p waves, as well as the
+fragmentation of a spin-1 hadron.
+","[{""version"":""v1"",""created"":""Sat, 28 Sep 2002 20:23:31 GMT""}]","2017-08-23"
+"hep-ph/0209349","Helmut Marsiske","Helmut Marsiske","Measurements of CKM Elements and the Unitarity Triangle","Invited talk at the XXII Physics in Collisions Conference (PIC02),
+  Stanford, CA, USA, June 2002, 10 pages, LaTeX, 0 figures. PSN THAT04","eConf C020620:THAT04,2002",,"SLAC-PUB-9531","hep-ph",,"  In this presentation, I review the status of selected
+Cabibbo-Kobayashi-Maskawa (CKM) matrix elements and their role in the Unitarity
+Triangle (UT). Since this conference concluded, many new results have been
+finalized and are included in the new world averages (WAs) in the 2002 edition
+of the PDG. I will focus here on some outstanding issues in the measurements of
+the CKM elements in the third row and column.
+","[{""version"":""v1"",""created"":""Sun, 29 Sep 2002 02:06:44 GMT""}]","2010-11-23"
+"hep-ph/0209350","S. Chaturvedi","S. Chaturvedi and Virendra Gupta","Parametrization of the quark mixing matrix involving its eigenvalues","Latex, 11 pages, no figures","AIP Conf.Proc.670:73-80,2003","10.1063/1.1594321",,"hep-ph",,"  A parametrization of the $3\times 3$ Cabibbo-Kobayashi-Maskawa matrix, $V$,
+is presented in which the parameters are the eigenvalues and the components of
+its eigenvectors. In this parametrization, the small departure of the
+experimentally determined $V$ from being moduli symmetric (i.e.
+$|V_{ij}|=|V_{ji}|$) is controlled by the small difference between two of the
+eigenvalues. In case, any two eigenvalues are equal, one obtains a moduli
+symmetric $V$ depending on only three parameters. Our parametrization gives
+very good fits to the available data including CP-violation. Our value of $\sin
+2\beta\approx 0.7$ and other parameters associated with the ` unitarity
+triangle' $V_{11}V_{13}^{*}+V_{21}V_{23}^{*}V_{31}V_{33}^{*}=0$ are in good
+agreement with data and other analyses.
+","[{""version"":""v1"",""created"":""Sun, 29 Sep 2002 05:24:34 GMT""}]","2010-11-23"
+"hep-ph/0209351","Maciej Skrzypek","M. Skrzypek, S. Jadach, W. Placzek, B.F.L. Ward, and Z. Was","Precision W-pair physics with the YFSWW3 and KoralW Monte Carlos","Talk given by M. Skrzypek at 6th International Symposium on Radiative
+  Corrections, 8-13 September 2002, Kloster Banz, Germany",,"10.1016/S0920-5632(03)80199-8","CERN-TH/2002-261, UTHEP-02-0903","hep-ph",,"  We present the recent developments in the precision studies of W-pair and
+single-W processes in e+e- collisions achieved with the help of the KoralW and
+YFSWW3 Monte Carlo generators. We focus on the theoretical precision of the
+measurements of M_W and anomalous couplings on the example of lambda coupling.
+We present the mechanism of running these two independent codes in the form of
+one Concurrent Monte Carlo code. We describe also the extensions of KoralW
+necessary to emulate the kinematical region of single-W process.
+","[{""version"":""v1"",""created"":""Sun, 29 Sep 2002 10:51:22 GMT""}]","2009-11-07"
+"hep-ph/0209352","Chao-Qiang Geng","Chuan-Hung Chen and C.Q. Geng","Probing New Physics in $B\to K^{(*)} \ell^+\ell^-$ decays","20 pages, 6 Figures, LaTex file","Phys.Rev. D66 (2002) 094018","10.1103/PhysRevD.66.094018",,"hep-ph hep-ex",,"  We study the exclusive decays of $B\to K^{(*)}\ell^+ \ell^-$ by the results
+in the perturbative QCD with the heavy quark effective theory and lattice
+calculations. We obtain the form factors for the $B\to K^{(*)}$ transitions in
+the whole allowed region. Our predictions on the branching ratios of $B\to K
+\ell^{+} \ell^{-}$, $B\to K^{*} e^{+}e^{-}$, and $B\to K^{*} \mu^{+} \mu^{-}$
+are $0.53\pm 0.05 ^{+0.10}_{-0.07}$, $1.68\pm 0.17^{+0.14}_{-0.09}$, and
+$1.34\pm 0.13 ^{+0.11}_{-0.06}\times 10^{-6}$, where the errors are from the
+quark mixing elements and hadronic effects, respectively. We also find that our
+definitions of the T-odd observable and the up-down asymmetry of the $K$ meson
+in $B\to K^*\ell^+ \ell^-\to K\pi\ell^+ \ell^-$ can be used to probe new
+physics.
+","[{""version"":""v1"",""created"":""Sun, 29 Sep 2002 15:05:53 GMT""}]","2009-11-07"
+"hep-th/0209254","Giovanni Amelino-Camelia","Giovanni Amelino-Camelia, Gianluca Mandanici, Kensuke Yoshida","On the IR/UV mixing and experimental limits on the parameters of
+  canonical noncommutative spacetimes","14 pages","JHEP 0401 (2004) 037","10.1088/1126-6708/2004/01/037",,"hep-th",,"  We investigate some issues that are relevant for the derivation of
+experimental limits on the parameters of canonical noncommutative spacetimes.
+By analyzing a simple Wess-Zumino-type model in canonical noncommutative
+spacetime with soft supersymmetry breaking we explore the implications of
+ultraviolet supersymmetry on low-energy phenomenology. The fact that new
+physics in the ultraviolet can modify low-energy predictions affects
+significantly the derivation of limits on the noncommutativity parameters based
+on low-energy data. These are, in an appropriate sense here discussed,
+``conditional limits''. We also find that some standard techniques for an
+effective low-energy description of theories with non-locality at short
+distance scales are only applicable in a regime where theories in canonical
+noncommutative spacetime lack any predictivity, because of the strong
+sensitivity to unknown UV physics. It appears useful to combine high-energy
+data, from astrophysics, with the more readily available low-energy data.
+","[{""version"":""v1"",""created"":""Sat, 28 Sep 2002 18:03:18 GMT""}]","2009-11-07"
+"hep-th/0209255","Kluson Josef","J. Kluson","Exact Solutions in Open Bosonic String Field Theory and Marginal
+  Deformation in CFT","21 pages, Improved interpretation of given solution, new analysis of
+  perturbation performed","Int.J.Mod.Phys. A19 (2004) 4695","10.1142/S0217751X04019329",,"hep-th",,"  In this paper we continue our study f the exact solution in open bosonic
+string field theory. We present new solution in the string field theory defined
+on the background corresponding to the boundary conformal field theory
+describing D25-brane. Then we will study the fluctuation modes around this
+solution and we determine their basic properties from the linearised equation
+of motion of the string field theory defined above the classical solution.
+","[{""version"":""v1"",""created"":""Sun, 29 Sep 2002 06:06:14 GMT""},{""version"":""v2"",""created"":""Thu, 22 May 2003 12:40:26 GMT""}]","2009-11-07"
+"math-ph/0209062","Thomas Chen","Thomas Chen, Vitali Vougalter, Semjon A. Vugalter","The increase of Binding Energy and Enhanced Binding in Non-Relativistic
+  QED","14 pages, Latex. Final version, accepted for publication in J. Math.
+  Phys","J. Math. Phys. 44 (5), 1961-1970 (2003).","10.1063/1.1562007",,"math-ph math.MP",,"  We consider a Pauli-Fierz Hamiltonian for a particle coupled to a photon
+field. We discuss the effects of the increase of the binding energy and
+enhanced binding through coupling to a photon field, and prove that both
+effects are the results of the existence of the ground state of the self-energy
+operator with total momentum $P = 0$.
+","[{""version"":""v1"",""created"":""Sun, 29 Sep 2002 06:43:29 GMT""},{""version"":""v2"",""created"":""Tue, 15 Oct 2002 07:03:31 GMT""},{""version"":""v3"",""created"":""Thu, 31 Oct 2002 07:50:17 GMT""},{""version"":""v4"",""created"":""Mon, 27 Jan 2003 12:01:23 GMT""}]","2015-06-26"
+"math/0209399","Christopher J. Hillar","Christopher J. Hillar and Charles R. Johnson","Symmetric Word Equations in Two Positive Definite Letters","9 pages",,,"formerly math.LA/0209399","math.RA math.OA",,"  A generalized word in two positive definite matrices A and B is a finite
+product of nonzero real powers of A and B. Symmetric words in positive definite
+A and B are positive definite, and so for fxed B, we can view a symmetric word,
+S(A,B), as a map from the set of positive definite matrices into itself. Given
+positive definite P, B, and a symmetric word, S(A,B), with positive powers of
+A, we defne a symmetric word equation as an equation of the form S(A,B) = P.
+Such an equation is solvable if there is always a positive definite solution A
+for any given B and P. We prove that all symmetric word equations are solvable.
+Applications of this fact, methods for solution, questions about unique
+solvability (injectivity), and generalizations are also discussed.
+","[{""version"":""v1"",""created"":""Sun, 29 Sep 2002 09:21:13 GMT""}]","2007-05-23"
+"math/0209400","Szymanski","Wojciech Szymanski","Quantum lens spaces and principal actions on graph C*-algebras","Latex, 6 pages",,,,"math.QA math.OA",,"  We study certain principal actions on noncommutative C*-algebras. Our main
+examples are the Z_p- and T-actions on the odd-dimensional quantum spheres,
+yielding as fixed-point algebras quantum lens spaces and quantum complex
+projective spaces, respectively. The key tool in our analysis is the relation
+of the ambient C*-algebras with the Cuntz-Krieger algebras of directed graphs.
+A general result about the principality of the gauge action on graph algebras
+is given.
+","[{""version"":""v1"",""created"":""Sun, 29 Sep 2002 13:12:13 GMT""}]","2007-05-23"
+"nucl-ex/0209029","Jiangyong Jia","J. Jia (State University of NewYork at StonyBrook) (for the PHENIX
+  Collaboration)","Charged Hadron Spectra in PHENIX","4 pages, 4 figures,, Talk presented at Quark Matter 2002, Nantes,
+  France, July 18-24, 2002. To appear in the proceedings (Nucl. Phys. A)","Nucl.Phys.A715:769-772,2003","10.1016/S0375-9474(02)01485-9",,"nucl-ex",,"  PHENIX has measured transverse momentum spectra of charged particles at
+mid-rapidity up to 10 GeV/c in Au+Au collisions at sqrt{s}=200 GeV. For central
+collisions, the yield at high pT is significantly suppressed comparing to
+binary scaled p+p data, and this suppression is stronger than observed at 130
+GeV. Above 4 GeV/c, the deficit of high momentum particles is almost
+independent of pT.
+","[{""version"":""v1"",""created"":""Sat, 28 Sep 2002 21:30:15 GMT""}]","2019-08-14"
+"nucl-ex/0209030","Takao Sakaguchi","T. Sakaguchi (for the PHENIX Collaboration)","High p_T identified hadron ratios in sqrt(s_NN)=200GeV Au+Au Collisions","4 pages, 4 figures. Talk presented at Quark Matter 2002, Nantes,
+  France, July 18-24, 2002. To appear in the proceedings (Nucl. Phys. A)","Nucl.Phys.A715:757-760,2003","10.1016/S0375-9474(02)01482-3",,"nucl-ex",,"  The PHENIX detector at RHIC measured high p_T identified hadron ratios in
+sqrt(s_NN) = 200GeV Au+Au collisions. Within the current systematic and
+statistical errors, pbar/p ratios that are measured up to 3.8GeV/c are almost
+independent of both p_T and centrality. The baryon to meson ratio is measured
+through p/pi and pbar/pi ratios up to 3.8GeV/c, showing they are strongly
+centrality dependent.
+","[{""version"":""v1"",""created"":""Sun, 29 Sep 2002 04:34:45 GMT""}]","2019-08-14"
+"physics/0209100","Anatoliy Opanasenko","Anatoliy Opanasenko","Radiation by a relativistic charged particle in self-wakefield in
+  periodic structure","8 pages, LATEX, was published in Proceedings of IX-th International
+  Conference on Mathematical Methods in Electromagnetic Theory (10-13
+  September, 2002, Kiev, Ukraine), Vol.2, (2002), P.642-643; Abstract for
+  FEL2002 Conference (9-13 September, 2002, ANL, Argonn, IL,USA)",,,,"physics.acc-ph physics.class-ph",,"  A new elementary mechanism of radiation due to the oscillatory character of a
+radiation reaction force appearing when a relativistic charged particle moves
+along a periodic structure without external fields is investigated. It is shown
+that the non-synchronous spatial harmonics of Cherenkov-type radiation (CR) can
+give rise to the oscillation of a particle which consequently generates
+undulator-type radiation (UR). In the spectral region, where the diffraction of
+generated waves is essential, the radiation manifests itself in the coherent
+interference of CR and UR. A pure undulator -type radiation takes place only in
+the wavelength range where the wave diffraction can be neglected. In the case
+of coherent UR by a bunch of N electrons, the UR power is proportional to N in
+the forth degree.
+","[{""version"":""v1"",""created"":""Sat, 28 Sep 2002 16:05:04 GMT""}]","2007-05-23"
+"physics/0209101","Erasmo Recami","M. Zamboni-Rached, K. Z. Nobrega, H. E. Hernandez-Figueroa and Erasmo
+  Recami","Superluminal Localized Solutions to the wave equation, in (vacuum or)
+  dispersive media, for arbitrary frequencies and with adjustable bandwidth","plain LaTeX file (16 pages), plus 9 figures","Optics Communications 226 (2003) 15-23","10.1016/j.optcom.2003.08.022",,"physics.class-ph physics.gen-ph physics.optics",,"  In this paper we set forth new exact analytical Superluminal localized
+solutions to the wave equation for arbitrary frequencies and adjustable
+bandwidth. The formulation presented here is rather simple, and its results can
+be expressed in terms of the ordinary, so-called ""X-shaped waves"". Moeover, by
+the present formalism we obtain the first analytical localized Superluminal
+approximate solutions which represent beams propagating in dispersive media.
+Our solutions may find application in different fields, like optics,
+microwaves, radio waves, and so on. [PACS nos.: 03.50.De ; 41.20.Jb ; 83.50.Vr
+; 62.30.+d ; 43.60.+d ; 91.30.Fn ; 04.30.Nk ; 42.25.Bs ; 46.40.Cd ; 52.35.Lv.
+Keywords: Wave equation; Wave propagation; Optics; Localized beams;
+Superluminal waves; Bessel beams; X-shaped waves; Acoustics; Mechanical waves;
+Dispersion compensation; Seismology; Geophysics; Gravitational Waves;
+Elementary particle physics].
+","[{""version"":""v1"",""created"":""Sun, 29 Sep 2002 01:48:57 GMT""}]","2015-06-26"
+"quant-ph/0209160","Leble Sergey","A. Halim, S. Kshevetskii, S. Leble","On numerical integration of coupled Korteweg-de Vries System",,,,,"quant-ph",,"  We introduce a numerical method for general coupled Korteweg-de Vries
+systems. The scheme is valid for solving Cauchy problems for arbitrary number
+of equations with arbitrary constant coefficients. The numerical scheme takes
+its legality by proving its stability and convergence which gives the
+conditions and the appropriate choice of the grid sizes. The method is applied
+to Hirota-Satsuma (HS) system and compared with its known explicit solution
+investigating the influence of initial conditions and grid sizes on accuracy.
+We also illustrate the method to show the effects of constants with a
+transition to the non-integrable case.
+","[{""version"":""v1"",""created"":""Sun, 29 Sep 2002 11:50:36 GMT""}]","2007-05-23"
